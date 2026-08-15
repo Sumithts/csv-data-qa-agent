@@ -1,0 +1,75 @@
+[
+  {
+    "question": "What is the total revenue across all orders?",
+    "code": "result = round(df['revenue'].sum(), 2)",
+    "explanation": "Sums the revenue column across every row.",
+    "result": 987999.41,
+    "success": true
+  },
+  {
+    "question": "Which region generated the highest total revenue?",
+    "code": "result = df.groupby('region')['revenue'].sum().idxmax()",
+    "explanation": "Groups by region, sums revenue per group, and picks the top one.",
+    "result": "North",
+    "success": true
+  },
+  {
+    "question": "What is the average order profit for VIP customers?",
+    "code": "result = round(df[df['customer_segment'] == 'VIP']['profit'].mean(), 2)",
+    "explanation": "Filters to VIP orders and averages the profit column.",
+    "result": 203.34,
+    "success": true
+  },
+  {
+    "question": "Which product category has the best profit margin (profit/revenue)?",
+    "code": "cat = df.groupby('category').agg(profit=('profit','sum'), revenue=('revenue','sum'))\ncat['margin'] = cat['profit'] / cat['revenue']\nresult = cat['margin'].idxmax()",
+    "explanation": "Aggregates profit and revenue per category, computes margin, picks the highest.",
+    "result": "Books",
+    "success": true
+  },
+  {
+    "question": "How many orders came from returning customers in the North region?",
+    "code": "result = len(df[(df['customer_segment'] == 'Returning') & (df['region'] == 'North')])",
+    "explanation": "Filters on both conditions and counts matching rows.",
+    "result": 240,
+    "success": true
+  },
+  {
+    "question": "What was the total revenue in Q1 2025 (Jan-Mar 2025)?",
+    "code": "d = df.copy()\nd['order_date'] = pd.to_datetime(d['order_date'])\nmask = (d['order_date'] >= '2025-01-01') & (d['order_date'] <= '2025-03-31')\nresult = round(d.loc[mask, 'revenue'].sum(), 2)",
+    "explanation": "Parses dates, filters to the Q1 2025 window, and sums revenue.",
+    "result": 168788.39,
+    "success": true
+  },
+  {
+    "question": "Which single product generated the highest total revenue?",
+    "code": "result = df.groupby('product')['revenue'].sum().idxmax()",
+    "explanation": "Groups by product, sums revenue, and returns the top product.",
+    "result": "Bluetooth Speaker",
+    "success": true
+  },
+  {
+    "question": "What percentage of orders received a discount of 10% or more?",
+    "code": "result = round((df['discount_pct'] >= 10).mean() * 100, 2)",
+    "explanation": "Computes the share of rows where discount_pct is 10 or higher.",
+    "result": 24.95,
+    "success": true
+  },
+  {
+    "question": "Compare average revenue per order between VIP and New customers.",
+    "code": "result = df[df['customer_segment'].isin(['VIP','New'])].groupby('customer_segment')['revenue'].mean().round(2).to_dict()",
+    "explanation": "Filters to the two segments and averages revenue within each.",
+    "result": {
+      "New": 527.18,
+      "VIP": 471.75
+    },
+    "success": true
+  },
+  {
+    "question": "Which region had the fastest revenue growth from 2024 to 2025?",
+    "code": "d = df.copy()\nd['order_date'] = pd.to_datetime(d['order_date'])\nd['year'] = d['order_date'].dt.year\npivot = d[d['year'].isin([2024,2025])].groupby(['region','year'])['revenue'].sum().unstack()\npivot['growth_pct'] = (pivot[2025] - pivot[2024]) / pivot[2024] * 100\nresult = pivot['growth_pct'].idxmax()",
+    "explanation": "Splits revenue by region and year, computes YoY % growth per region, picks the max. (Note: 2025 data only covers Jan-Jun, so this compares partial-year to full-year \u2014 see Tradeoffs in the README.)",
+    "result": "East",
+    "success": true
+  }
+]

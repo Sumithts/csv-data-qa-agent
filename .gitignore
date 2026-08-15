@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Python environments
+venv/
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Runtime user uploads
+data/_uploaded.csv
+data/_uploaded.xlsx
+data/_uploaded.xls
+
+# Database backups
+data/history.db.backup
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

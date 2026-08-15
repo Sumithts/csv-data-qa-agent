@@ -1,0 +1,2001 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount_pct,revenue,cost,profit,customer_segment
+ORD11704,2024-01-01,North,Apparel,Denim Jacket,4,72.59,15,246.81,163.78,83.03,New
+ORD10961,2024-01-01,South,Apparel,Running Shoes,4,87.65,5,333.07,170.62,162.45,New
+ORD10054,2024-01-01,North,Sports,Dumbbell Set,5,152.08,10,684.36,378.3,306.06,Returning
+ORD11790,2024-01-01,West,Electronics,Bluetooth Speaker,3,584.99,0,1754.97,1018.19,736.78,Returning
+ORD11703,2024-01-01,South,Electronics,Laptop Stand,5,466.76,10,2100.42,1145.38,955.04,New
+ORD10713,2024-01-02,West,Apparel,Running Shoes,1,11.54,0,11.54,7.09,4.45,Returning
+ORD10153,2024-01-02,North,Sports,Football,2,79.01,0,158.02,99.0,59.02,Returning
+ORD10021,2024-01-02,East,Sports,Dumbbell Set,4,196.7,0,786.8,505.98,280.82,VIP
+ORD11136,2024-01-02,West,Books,Self-Help Book,4,23.43,20,74.98,59.96,15.02,VIP
+ORD11156,2024-01-03,South,Books,Fiction Novel,4,7.99,0,31.96,16.21,15.75,Returning
+ORD11696,2024-01-03,West,Electronics,Laptop Stand,3,820.78,0,2462.34,1231.12,1231.22,New
+ORD11094,2024-01-03,North,Books,Biography,1,35.83,0,35.83,20.35,15.48,Returning
+ORD10179,2024-01-03,South,Home & Kitchen,Blender,2,158.79,10,285.82,203.35,82.47,Returning
+ORD11736,2024-01-04,North,Home & Kitchen,Blender,3,140.72,0,422.16,271.73,150.43,VIP
+ORD10901,2024-01-04,South,Electronics,4K Monitor,1,487.2,0,487.2,298.23,188.97,Returning
+ORD11988,2024-01-04,South,Apparel,Sneakers,4,53.52,10,192.67,131.56,61.11,New
+ORD10619,2024-01-04,North,Electronics,4K Monitor,3,449.34,0,1348.02,619.28,728.74,VIP
+ORD10824,2024-01-04,North,Apparel,Wool Sweater,3,33.69,10,90.96,57.92,33.04,VIP
+ORD11456,2024-01-05,North,Books,Self-Help Book,1,43.78,0,43.78,20.3,23.48,Returning
+ORD11239,2024-01-05,West,Apparel,Sneakers,4,117.32,0,469.28,287.14,182.14,Returning
+ORD10060,2024-01-05,East,Electronics,Smartwatch,2,212.06,0,424.12,222.79,201.33,New
+ORD10610,2024-01-05,North,Sports,Dumbbell Set,2,25.4,15,43.18,23.51,19.67,New
+ORD11932,2024-01-06,North,Books,Fiction Novel,5,13.7,20,54.8,42.61,12.19,Returning
+ORD10748,2024-01-06,East,Home & Kitchen,Cookware Set,5,170.13,5,808.12,523.47,284.65,New
+ORD11237,2024-01-06,South,Sports,Football,4,126.29,0,505.16,274.28,230.88,Returning
+ORD10464,2024-01-06,North,Books,Self-Help Book,4,14.49,0,57.96,35.87,22.09,New
+ORD11431,2024-01-07,East,Books,Tech Manual,3,28.57,0,85.71,39.15,46.56,New
+ORD11702,2024-01-07,North,Apparel,Denim Jacket,3,101.22,0,303.66,191.2,112.46,New
+ORD10106,2024-01-07,East,Apparel,Wool Sweater,5,113.89,0,569.45,340.06,229.39,Returning
+ORD11146,2024-01-08,North,Books,Fiction Novel,2,35.96,0,71.92,35.91,36.01,Returning
+ORD11310,2024-01-08,North,Electronics,Wireless Earbuds,5,658.79,0,3293.95,1798.67,1495.28,Returning
+ORD11196,2024-01-08,North,Books,Tech Manual,2,43.64,0,87.28,39.49,47.79,Returning
+ORD11657,2024-01-08,East,Apparel,Wool Sweater,4,25.34,5,96.29,64.24,32.05,New
+ORD10050,2024-01-09,North,Home & Kitchen,Vacuum Cleaner,5,189.52,0,947.6,543.58,404.02,Returning
+ORD11145,2024-01-09,North,Home & Kitchen,Vacuum Cleaner,3,98.92,0,296.76,180.31,116.45,Returning
+ORD10155,2024-01-09,North,Sports,Yoga Mat,5,191.04,5,907.44,439.77,467.67,VIP
+ORD11328,2024-01-10,West,Sports,Resistance Bands,2,72.34,5,137.45,68.62,68.83,Returning
+ORD10083,2024-01-10,North,Books,Cookbook,5,42.28,0,211.4,118.34,93.06,Returning
+ORD10862,2024-01-10,West,Home & Kitchen,Blender,5,22.14,10,99.63,57.31,42.32,Returning
+ORD10186,2024-01-10,North,Books,Tech Manual,1,40.37,10,36.33,21.08,15.25,New
+ORD11159,2024-01-10,East,Apparel,Cotton T-Shirt,4,48.07,0,192.28,91.94,100.34,Returning
+ORD11006,2024-01-11,South,Apparel,Cotton T-Shirt,1,118.44,0,118.44,59.6,58.84,New
+ORD11071,2024-01-11,East,Books,Biography,1,15.5,5,14.72,8.13,6.59,Returning
+ORD10387,2024-01-11,North,Sports,Cycling Helmet,1,56.14,0,56.14,25.91,30.23,New
+ORD10614,2024-01-11,North,Sports,Cycling Helmet,4,70.68,10,254.45,180.61,73.84,Returning
+ORD10844,2024-01-11,East,Books,Biography,3,16.91,0,50.73,25.97,24.76,Returning
+ORD10754,2024-01-11,South,Apparel,Wool Sweater,1,105.86,0,105.86,53.3,52.56,New
+ORD11100,2024-01-11,West,Books,Biography,3,8.72,0,26.16,13.78,12.38,VIP
+ORD10324,2024-01-12,North,Books,Fiction Novel,2,35.93,0,71.86,36.65,35.21,New
+ORD10057,2024-01-12,North,Electronics,4K Monitor,3,672.69,15,1715.36,931.49,783.87,VIP
+ORD10195,2024-01-12,East,Electronics,Smartwatch,1,222.51,10,200.26,129.72,70.54,New
+ORD11263,2024-01-13,West,Sports,Cycling Helmet,2,124.83,0,249.66,139.7,109.96,Returning
+ORD11860,2024-01-13,South,Electronics,Bluetooth Speaker,5,703.63,0,3518.15,1988.16,1529.99,New
+ORD11585,2024-01-14,South,Electronics,Smartwatch,4,485.47,0,1941.88,882.44,1059.44,Returning
+ORD10164,2024-01-14,North,Books,Tech Manual,4,22.49,0,89.96,46.95,43.01,Returning
+ORD11193,2024-01-14,North,Apparel,Running Shoes,5,61.82,15,262.74,197.62,65.12,VIP
+ORD10075,2024-01-15,East,Apparel,Wool Sweater,2,21.79,0,43.58,26.04,17.54,New
+ORD10011,2024-01-15,East,Electronics,4K Monitor,3,570.96,0,1712.88,921.3,791.58,New
+ORD11791,2024-01-16,North,Sports,Dumbbell Set,4,141.35,10,508.86,263.85,245.01,Returning
+ORD10612,2024-01-16,East,Home & Kitchen,Vacuum Cleaner,2,110.64,0,221.28,132.6,88.68,New
+ORD10777,2024-01-16,North,Electronics,Bluetooth Speaker,4,702.91,0,2811.64,1775.69,1035.95,Returning
+ORD10523,2024-01-16,North,Sports,Cycling Helmet,5,26.48,0,132.4,82.83,49.57,Returning
+ORD11763,2024-01-17,South,Sports,Yoga Mat,4,151.63,5,576.19,377.12,199.07,Returning
+ORD11992,2024-01-17,North,Apparel,Denim Jacket,4,109.09,0,436.36,264.89,171.47,Returning
+ORD10910,2024-01-17,West,Electronics,Smartwatch,3,825.88,0,2477.64,1554.16,923.48,Returning
+ORD11597,2024-01-17,East,Home & Kitchen,Coffee Maker,2,171.42,0,342.84,195.92,146.92,New
+ORD10941,2024-01-17,North,Electronics,Laptop Stand,2,461.99,0,923.98,520.05,403.93,Returning
+ORD10321,2024-01-17,North,Sports,Dumbbell Set,3,20.81,0,62.43,31.42,31.01,VIP
+ORD11858,2024-01-17,North,Home & Kitchen,Vacuum Cleaner,1,196.33,0,196.33,124.47,71.86,VIP
+ORD10118,2024-01-17,East,Apparel,Sneakers,3,20.07,20,48.17,32.47,15.7,VIP
+ORD10932,2024-01-18,West,Books,Biography,4,20.25,0,81.0,36.79,44.21,New
+ORD11730,2024-01-18,South,Electronics,Smartwatch,4,860.92,0,3443.68,1583.93,1859.75,VIP
+ORD10565,2024-01-18,North,Home & Kitchen,Coffee Maker,1,83.14,0,83.14,49.7,33.44,Returning
+ORD11649,2024-01-18,South,Electronics,Smartwatch,2,344.25,0,688.5,333.99,354.51,New
+ORD10989,2024-01-19,South,Electronics,Smartwatch,1,401.67,0,401.67,227.97,173.7,New
+ORD10276,2024-01-19,East,Apparel,Cotton T-Shirt,5,24.46,0,122.3,77.24,45.06,New
+ORD10361,2024-01-19,East,Books,Cookbook,2,19.23,0,38.46,17.86,20.6,Returning
+ORD10515,2024-01-19,West,Home & Kitchen,Vacuum Cleaner,4,110.65,0,442.6,250.57,192.03,Returning
+ORD11122,2024-01-20,North,Electronics,4K Monitor,4,190.7,0,762.8,360.1,402.7,Returning
+ORD10501,2024-01-20,West,Apparel,Denim Jacket,5,42.79,0,213.95,131.9,82.05,Returning
+ORD10169,2024-01-20,East,Sports,Dumbbell Set,1,197.54,0,197.54,114.18,83.36,New
+ORD11036,2024-01-20,South,Home & Kitchen,Blender,4,183.28,0,733.12,474.65,258.47,VIP
+ORD10230,2024-01-20,East,Books,Self-Help Book,4,29.78,0,119.12,74.43,44.69,New
+ORD10724,2024-01-21,South,Electronics,Bluetooth Speaker,4,558.08,0,2232.32,1173.02,1059.3,VIP
+ORD11127,2024-01-21,West,Apparel,Wool Sweater,2,17.98,0,35.96,23.3,12.66,New
+ORD10733,2024-01-21,North,Sports,Football,4,47.08,5,178.9,122.24,56.66,Returning
+ORD11626,2024-01-21,South,Books,Biography,4,24.57,10,88.45,44.89,43.56,New
+ORD11061,2024-01-21,West,Sports,Football,1,40.91,0,40.91,21.4,19.51,VIP
+ORD10003,2024-01-21,North,Apparel,Wool Sweater,1,66.57,0,66.57,30.13,36.44,Returning
+ORD10380,2024-01-21,East,Electronics,4K Monitor,5,270.35,10,1216.58,803.09,413.49,Returning
+ORD10142,2024-01-22,West,Electronics,Laptop Stand,2,200.51,0,401.02,184.13,216.89,Returning
+ORD11241,2024-01-23,West,Electronics,Bluetooth Speaker,2,296.75,0,593.5,272.06,321.44,Returning
+ORD11542,2024-01-23,East,Books,Tech Manual,5,13.54,15,57.54,35.89,21.65,Returning
+ORD10882,2024-01-23,North,Apparel,Running Shoes,3,108.45,0,325.35,179.23,146.12,Returning
+ORD11868,2024-01-23,North,Sports,Football,3,119.6,10,322.92,173.38,149.54,VIP
+ORD11322,2024-01-23,East,Sports,Resistance Bands,2,182.41,0,364.82,233.69,131.13,Returning
+ORD10998,2024-01-24,South,Electronics,4K Monitor,3,502.85,0,1508.55,749.27,759.28,New
+ORD10539,2024-01-25,North,Sports,Cycling Helmet,2,123.8,5,235.22,156.63,78.59,Returning
+ORD11971,2024-01-25,South,Sports,Cycling Helmet,2,28.81,0,57.62,30.91,26.71,New
+ORD11116,2024-01-25,North,Books,Self-Help Book,3,25.53,0,76.59,37.44,39.15,New
+ORD11005,2024-01-26,North,Electronics,Bluetooth Speaker,4,433.71,0,1734.84,825.9,908.94,New
+ORD11089,2024-01-27,North,Sports,Yoga Mat,2,162.24,10,292.03,172.29,119.74,Returning
+ORD11254,2024-01-27,South,Electronics,Laptop Stand,5,795.96,5,3780.81,2134.98,1645.83,VIP
+ORD10148,2024-01-27,East,Sports,Yoga Mat,5,175.7,0,878.5,529.04,349.46,Returning
+ORD10013,2024-01-28,North,Books,Cookbook,4,32.79,15,111.49,69.95,41.54,New
+ORD11396,2024-01-29,North,Books,Biography,4,39.59,0,158.36,100.63,57.73,Returning
+ORD11943,2024-01-30,East,Sports,Yoga Mat,2,126.61,10,227.9,117.18,110.72,Returning
+ORD11353,2024-01-30,South,Sports,Cycling Helmet,1,82.18,0,82.18,46.79,35.39,Returning
+ORD11255,2024-01-30,South,Home & Kitchen,Blender,4,153.99,5,585.16,369.38,215.78,New
+ORD10850,2024-01-30,South,Home & Kitchen,Blender,2,193.04,0,386.08,211.3,174.78,New
+ORD11472,2024-01-31,North,Electronics,Bluetooth Speaker,2,229.18,10,412.52,238.35,174.17,VIP
+ORD11375,2024-01-31,North,Books,Fiction Novel,5,21.13,0,105.65,59.59,46.06,New
+ORD11511,2024-01-31,West,Books,Cookbook,2,35.34,0,70.68,33.14,37.54,New
+ORD10933,2024-01-31,North,Electronics,Bluetooth Speaker,1,227.55,0,227.55,113.93,113.62,Returning
+ORD11373,2024-02-01,South,Apparel,Wool Sweater,4,84.39,10,303.8,215.97,87.83,New
+ORD11389,2024-02-01,South,Books,Tech Manual,4,29.55,0,118.2,65.12,53.08,Returning
+ORD10247,2024-02-01,North,Sports,Cycling Helmet,3,99.96,10,269.89,144.82,125.07,New
+ORD11366,2024-02-01,West,Electronics,Bluetooth Speaker,2,444.92,0,889.84,493.4,396.44,New
+ORD11513,2024-02-01,North,Apparel,Sneakers,1,37.77,15,32.1,22.67,9.43,Returning
+ORD11947,2024-02-02,East,Sports,Football,1,62.84,0,62.84,34.6,28.24,VIP
+ORD10909,2024-02-02,West,Electronics,4K Monitor,5,795.78,0,3978.9,2308.24,1670.66,Returning
+ORD10025,2024-02-02,East,Electronics,4K Monitor,3,284.12,5,809.74,470.3,339.44,Returning
+ORD10077,2024-02-03,East,Apparel,Running Shoes,4,64.83,0,259.32,147.11,112.21,Returning
+ORD11102,2024-02-04,North,Sports,Cycling Helmet,2,142.64,5,271.02,136.32,134.7,Returning
+ORD10960,2024-02-04,North,Apparel,Wool Sweater,5,91.85,5,436.29,271.97,164.32,Returning
+ORD10538,2024-02-04,North,Apparel,Denim Jacket,4,88.59,0,354.36,173.37,180.99,VIP
+ORD11151,2024-02-04,East,Home & Kitchen,Cookware Set,2,136.81,5,259.94,155.41,104.53,Returning
+ORD10043,2024-02-04,West,Sports,Resistance Bands,2,27.83,0,55.66,32.35,23.31,New
+ORD11948,2024-02-04,East,Apparel,Denim Jacket,1,52.67,5,50.04,24.89,25.15,New
+ORD11443,2024-02-05,North,Apparel,Denim Jacket,5,104.85,0,524.25,272.63,251.62,New
+ORD10191,2024-02-05,South,Apparel,Wool Sweater,2,89.68,15,152.46,112.79,39.67,New
+ORD11153,2024-02-05,North,Home & Kitchen,Blender,5,207.97,0,1039.85,476.1,563.75,New
+ORD10728,2024-02-06,North,Apparel,Running Shoes,4,45.37,0,181.48,105.58,75.9,Returning
+ORD11360,2024-02-06,East,Electronics,Smartwatch,3,776.1,10,2095.47,1275.31,820.16,Returning
+ORD11355,2024-02-07,West,Home & Kitchen,Coffee Maker,3,118.64,0,355.92,230.02,125.9,New
+ORD10969,2024-02-08,South,Apparel,Running Shoes,5,97.33,5,462.32,246.57,215.75,Returning
+ORD11869,2024-02-08,East,Sports,Dumbbell Set,1,91.91,15,78.12,53.13,24.99,Returning
+ORD10049,2024-02-08,East,Sports,Cycling Helmet,5,54.35,10,244.58,149.16,95.42,New
+ORD11697,2024-02-08,South,Electronics,4K Monitor,1,889.8,20,711.84,492.55,219.29,Returning
+ORD11214,2024-02-08,East,Home & Kitchen,Blender,2,164.13,5,311.85,164.16,147.69,Returning
+ORD11627,2024-02-09,South,Apparel,Denim Jacket,2,102.96,0,205.92,133.78,72.14,VIP
+ORD11894,2024-02-09,North,Apparel,Running Shoes,2,19.3,0,38.6,21.72,16.88,New
+ORD10654,2024-02-09,North,Books,Biography,2,26.26,0,52.52,29.61,22.91,New
+ORD10372,2024-02-10,East,Home & Kitchen,Blender,1,155.57,0,155.57,92.22,63.35,New
+ORD11980,2024-02-10,East,Apparel,Denim Jacket,1,119.65,10,107.68,77.34,30.34,New
+ORD10673,2024-02-11,North,Sports,Football,5,147.39,5,700.1,350.21,349.89,New
+ORD11666,2024-02-11,West,Books,Fiction Novel,3,41.69,0,125.07,65.31,59.76,Returning
+ORD11503,2024-02-11,North,Sports,Yoga Mat,3,66.31,0,198.93,110.62,88.31,New
+ORD10739,2024-02-11,North,Books,Self-Help Book,2,25.87,0,51.74,26.77,24.97,New
+ORD11936,2024-02-11,East,Home & Kitchen,Cookware Set,2,248.89,5,472.89,292.62,180.27,New
+ORD11076,2024-02-11,North,Home & Kitchen,Blender,4,202.8,0,811.2,447.4,363.8,VIP
+ORD10356,2024-02-12,South,Home & Kitchen,Cookware Set,4,200.83,0,803.32,363.33,439.99,Returning
+ORD11942,2024-02-12,South,Home & Kitchen,Air Fryer,1,74.26,5,70.55,38.09,32.46,Returning
+ORD10500,2024-02-12,East,Electronics,Laptop Stand,5,482.28,10,2170.26,1145.68,1024.58,New
+ORD11043,2024-02-12,West,Sports,Yoga Mat,4,196.68,0,786.72,446.98,339.74,New
+ORD10828,2024-02-12,East,Electronics,4K Monitor,2,683.17,0,1366.34,616.79,749.55,New
+ORD10769,2024-02-13,North,Books,Cookbook,4,14.22,0,56.88,35.64,21.24,Returning
+ORD11862,2024-02-13,West,Sports,Yoga Mat,4,53.46,0,213.84,122.33,91.51,Returning
+ORD11605,2024-02-13,West,Books,Self-Help Book,2,28.05,10,50.49,31.93,18.56,Returning
+ORD11296,2024-02-13,West,Sports,Dumbbell Set,5,183.39,0,916.95,589.05,327.9,New
+ORD11759,2024-02-13,South,Electronics,4K Monitor,2,641.94,0,1283.88,814.1,469.78,VIP
+ORD11224,2024-02-14,East,Apparel,Cotton T-Shirt,5,39.82,5,189.14,122.37,66.77,VIP
+ORD10385,2024-02-14,North,Books,Tech Manual,4,33.88,0,135.52,61.04,74.48,New
+ORD11941,2024-02-14,North,Electronics,4K Monitor,4,738.55,0,2954.2,1529.53,1424.67,New
+ORD11442,2024-02-14,North,Books,Biography,5,30.1,0,150.5,75.08,75.42,New
+ORD11057,2024-02-15,West,Books,Cookbook,1,29.32,0,29.32,13.27,16.05,Returning
+ORD11341,2024-02-15,East,Books,Tech Manual,5,17.69,0,88.45,49.6,38.85,VIP
+ORD10589,2024-02-15,West,Home & Kitchen,Blender,4,246.73,15,838.88,603.03,235.85,Returning
+ORD10139,2024-02-15,North,Home & Kitchen,Vacuum Cleaner,2,136.72,0,273.44,153.66,119.78,New
+ORD11261,2024-02-15,North,Sports,Resistance Bands,3,65.24,20,156.58,99.31,57.27,VIP
+ORD11096,2024-02-16,West,Books,Tech Manual,1,17.43,10,15.69,9.78,5.91,Returning
+ORD10760,2024-02-16,North,Books,Tech Manual,1,26.2,5,24.89,15.08,9.81,Returning
+ORD11756,2024-02-17,North,Electronics,Bluetooth Speaker,5,292.5,5,1389.38,766.97,622.41,New
+ORD11970,2024-02-17,South,Apparel,Cotton T-Shirt,4,43.11,0,172.44,82.77,89.67,Returning
+ORD11617,2024-02-17,North,Electronics,Wireless Earbuds,3,314.39,5,896.01,586.53,309.48,Returning
+ORD10412,2024-02-17,East,Apparel,Denim Jacket,3,87.81,0,263.43,167.45,95.98,Returning
+ORD11920,2024-02-17,North,Sports,Cycling Helmet,3,64.53,0,193.59,121.03,72.56,VIP
+ORD11892,2024-02-18,East,Books,Tech Manual,5,17.92,0,89.6,50.29,39.31,Returning
+ORD10273,2024-02-18,West,Books,Tech Manual,3,24.28,0,72.84,35.97,36.87,New
+ORD11842,2024-02-19,East,Apparel,Cotton T-Shirt,4,26.66,0,106.64,64.86,41.78,New
+ORD11301,2024-02-19,North,Home & Kitchen,Blender,2,37.65,0,75.3,40.89,34.41,Returning
+ORD11900,2024-02-19,North,Books,Fiction Novel,1,30.03,0,30.03,18.05,11.98,VIP
+ORD11439,2024-02-20,East,Home & Kitchen,Vacuum Cleaner,3,67.92,5,193.57,119.17,74.4,New
+ORD10063,2024-02-20,East,Apparel,Running Shoes,1,36.52,0,36.52,17.95,18.57,New
+ORD11404,2024-02-20,South,Home & Kitchen,Air Fryer,3,138.98,0,416.94,224.94,192.0,Returning
+ORD11656,2024-02-21,East,Books,Fiction Novel,3,31.18,0,93.54,48.57,44.97,Returning
+ORD11021,2024-02-21,West,Home & Kitchen,Cookware Set,5,197.57,5,938.46,574.17,364.29,VIP
+ORD10836,2024-02-21,East,Apparel,Sneakers,5,14.01,0,70.05,41.89,28.16,New
+ORD11762,2024-02-21,South,Apparel,Cotton T-Shirt,5,60.46,0,302.3,188.54,113.76,VIP
+ORD10814,2024-02-22,North,Electronics,4K Monitor,2,367.44,0,734.88,468.14,266.74,New
+ORD10309,2024-02-22,East,Sports,Football,2,141.28,5,268.43,158.37,110.06,Returning
+ORD11783,2024-02-23,East,Home & Kitchen,Coffee Maker,3,233.11,15,594.43,410.87,183.56,Returning
+ORD11377,2024-02-24,North,Home & Kitchen,Cookware Set,4,168.43,5,640.03,319.55,320.48,Returning
+ORD11853,2024-02-24,South,Home & Kitchen,Cookware Set,3,107.2,0,321.6,191.32,130.28,VIP
+ORD10114,2024-02-24,West,Apparel,Wool Sweater,3,89.1,15,227.2,170.37,56.83,Returning
+ORD10451,2024-02-25,West,Books,Tech Manual,5,8.95,0,44.75,25.37,19.38,New
+ORD10580,2024-02-25,East,Books,Biography,2,10.29,20,16.46,11.43,5.03,Returning
+ORD11447,2024-02-25,South,Home & Kitchen,Blender,3,72.08,20,172.99,124.63,48.36,Returning
+ORD11314,2024-02-26,West,Sports,Cycling Helmet,2,100.16,10,180.29,118.46,61.83,New
+ORD10633,2024-02-26,South,Sports,Yoga Mat,5,192.39,0,961.95,510.79,451.16,New
+ORD10604,2024-02-26,East,Apparel,Denim Jacket,5,84.0,0,420.0,229.61,190.39,New
+ORD11084,2024-02-26,South,Home & Kitchen,Vacuum Cleaner,5,132.21,10,594.95,421.3,173.65,New
+ORD10442,2024-02-27,North,Books,Cookbook,2,25.25,15,42.92,29.57,13.35,Returning
+ORD10552,2024-02-28,West,Books,Cookbook,4,37.48,0,149.92,97.05,52.87,Returning
+ORD10731,2024-02-28,South,Sports,Football,2,90.94,0,181.88,98.81,83.07,Returning
+ORD11190,2024-02-28,East,Home & Kitchen,Vacuum Cleaner,2,89.86,0,179.72,83.05,96.67,VIP
+ORD10456,2024-02-29,West,Books,Tech Manual,1,20.38,0,20.38,12.98,7.4,New
+ORD10805,2024-02-29,South,Sports,Yoga Mat,2,47.48,20,75.97,54.09,21.88,New
+ORD10423,2024-02-29,North,Sports,Cycling Helmet,5,75.36,0,376.8,197.11,179.69,Returning
+ORD11744,2024-02-29,South,Apparel,Denim Jacket,5,51.93,10,233.68,124.16,109.52,Returning
+ORD11629,2024-02-29,North,Apparel,Sneakers,3,21.49,0,64.47,38.28,26.19,Returning
+ORD10953,2024-03-01,East,Apparel,Wool Sweater,5,63.11,10,284.0,194.92,89.08,Returning
+ORD10889,2024-03-01,South,Apparel,Running Shoes,4,20.34,20,65.09,52.82,12.27,New
+ORD10627,2024-03-02,North,Home & Kitchen,Vacuum Cleaner,5,217.31,0,1086.55,644.41,442.14,Returning
+ORD11147,2024-03-02,West,Apparel,Cotton T-Shirt,1,118.1,5,112.2,70.21,41.99,VIP
+ORD11086,2024-03-02,East,Home & Kitchen,Vacuum Cleaner,3,204.64,0,613.92,355.32,258.6,New
+ORD10692,2024-03-02,North,Apparel,Denim Jacket,1,51.61,0,51.61,28.54,23.07,New
+ORD11818,2024-03-02,North,Home & Kitchen,Cookware Set,4,80.78,10,290.81,208.19,82.62,New
+ORD11180,2024-03-03,East,Books,Cookbook,2,31.94,0,63.88,31.5,32.38,Returning
+ORD10378,2024-03-03,South,Home & Kitchen,Cookware Set,4,53.21,0,212.84,114.67,98.17,New
+ORD11821,2024-03-03,West,Apparel,Denim Jacket,1,96.33,20,77.06,58.95,18.11,New
+ORD10830,2024-03-04,East,Sports,Yoga Mat,4,172.33,0,689.32,367.18,322.14,New
+ORD11754,2024-03-05,West,Home & Kitchen,Cookware Set,1,22.76,0,22.76,12.72,10.04,Returning
+ORD10808,2024-03-05,South,Home & Kitchen,Coffee Maker,1,51.81,0,51.81,26.16,25.65,Returning
+ORD11574,2024-03-05,South,Apparel,Cotton T-Shirt,4,50.02,10,180.07,129.89,50.18,Returning
+ORD11718,2024-03-05,North,Sports,Resistance Bands,4,196.95,5,748.41,448.02,300.39,VIP
+ORD10008,2024-03-05,West,Sports,Football,5,66.06,10,297.27,176.6,120.67,New
+ORD10533,2024-03-05,West,Sports,Resistance Bands,5,95.3,20,381.2,243.28,137.92,New
+ORD11221,2024-03-05,East,Apparel,Cotton T-Shirt,5,97.95,0,489.75,256.14,233.61,New
+ORD11725,2024-03-06,South,Electronics,Bluetooth Speaker,4,878.47,0,3513.88,2027.48,1486.4,Returning
+ORD11715,2024-03-06,West,Apparel,Sneakers,2,67.55,10,121.59,73.08,48.51,Returning
+ORD11484,2024-03-06,East,Sports,Football,2,76.36,0,152.72,84.33,68.39,New
+ORD10522,2024-03-07,North,Apparel,Wool Sweater,5,53.76,20,215.04,166.07,48.97,New
+ORD11417,2024-03-07,East,Books,Self-Help Book,2,33.06,20,52.9,35.94,16.96,Returning
+ORD11091,2024-03-08,East,Electronics,Smartwatch,2,522.87,10,941.17,496.96,444.21,New
+ORD11088,2024-03-08,South,Apparel,Denim Jacket,4,88.08,0,352.32,195.24,157.08,Returning
+ORD11798,2024-03-08,East,Books,Cookbook,4,40.61,0,162.44,94.89,67.55,New
+ORD11952,2024-03-08,North,Home & Kitchen,Air Fryer,5,233.02,5,1106.84,605.84,501.0,New
+ORD10266,2024-03-08,West,Books,Cookbook,1,14.05,0,14.05,8.79,5.26,VIP
+ORD11014,2024-03-08,North,Books,Tech Manual,1,39.7,20,31.76,18.97,12.79,New
+ORD10527,2024-03-08,East,Apparel,Running Shoes,4,55.7,0,222.8,104.65,118.15,New
+ORD10468,2024-03-09,North,Electronics,Wireless Earbuds,3,285.89,10,771.9,479.69,292.21,New
+ORD11323,2024-03-09,West,Books,Cookbook,4,26.47,0,105.88,68.6,37.28,Returning
+ORD10734,2024-03-09,East,Books,Biography,2,41.93,5,79.67,45.94,33.73,New
+ORD10068,2024-03-09,West,Sports,Dumbbell Set,2,186.42,10,335.56,204.51,131.05,VIP
+ORD11410,2024-03-10,West,Books,Cookbook,4,11.42,5,43.4,29.15,14.25,VIP
+ORD10241,2024-03-10,West,Electronics,4K Monitor,1,549.32,10,494.39,249.59,244.8,VIP
+ORD10792,2024-03-11,South,Books,Biography,1,33.98,10,30.58,18.27,12.31,New
+ORD11176,2024-03-11,North,Apparel,Running Shoes,1,65.42,20,52.34,41.86,10.48,Returning
+ORD11119,2024-03-11,North,Apparel,Cotton T-Shirt,1,118.51,5,112.58,74.96,37.62,VIP
+ORD11523,2024-03-11,East,Apparel,Wool Sweater,1,38.46,0,38.46,22.02,16.44,Returning
+ORD10438,2024-03-12,South,Electronics,Laptop Stand,1,693.45,5,658.78,408.53,250.25,VIP
+ORD11218,2024-03-12,West,Books,Tech Manual,1,25.21,0,25.21,15.84,9.37,VIP
+ORD10473,2024-03-12,South,Sports,Dumbbell Set,3,26.45,5,75.38,41.65,33.73,VIP
+ORD11506,2024-03-12,South,Electronics,Wireless Earbuds,5,599.47,5,2847.48,1686.19,1161.29,New
+ORD10684,2024-03-13,North,Books,Self-Help Book,4,23.22,0,92.88,48.14,44.74,New
+ORD11385,2024-03-13,West,Electronics,Bluetooth Speaker,3,191.09,0,573.27,277.13,296.14,New
+ORD10582,2024-03-14,South,Electronics,Laptop Stand,2,169.01,0,338.02,176.47,161.55,Returning
+ORD11204,2024-03-14,South,Sports,Yoga Mat,4,196.04,0,784.16,400.33,383.83,New
+ORD10110,2024-03-15,East,Sports,Dumbbell Set,5,112.25,5,533.19,312.02,221.17,Returning
+ORD10414,2024-03-15,South,Apparel,Sneakers,2,84.23,0,168.46,92.67,75.79,New
+ORD10551,2024-03-15,North,Apparel,Denim Jacket,2,36.79,0,73.58,35.13,38.45,VIP
+ORD10097,2024-03-15,West,Books,Self-Help Book,4,18.34,0,73.36,39.84,33.52,VIP
+ORD11175,2024-03-16,East,Apparel,Denim Jacket,2,54.96,5,104.42,67.39,37.03,Returning
+ORD10467,2024-03-16,South,Apparel,Sneakers,3,118.94,20,285.46,209.67,75.79,Returning
+ORD11199,2024-03-17,North,Books,Cookbook,3,6.02,20,14.45,11.39,3.06,Returning
+ORD10965,2024-03-17,South,Apparel,Running Shoes,2,55.74,0,111.48,63.23,48.25,New
+ORD10407,2024-03-17,West,Electronics,Bluetooth Speaker,5,535.65,0,2678.25,1657.77,1020.48,Returning
+ORD10189,2024-03-17,East,Books,Cookbook,3,29.28,0,87.84,48.26,39.58,Returning
+ORD11508,2024-03-17,South,Home & Kitchen,Cookware Set,5,195.72,0,978.6,472.79,505.81,New
+ORD11012,2024-03-17,East,Home & Kitchen,Vacuum Cleaner,5,55.8,0,279.0,148.96,130.04,New
+ORD11062,2024-03-18,West,Apparel,Wool Sweater,3,93.1,0,279.3,160.81,118.49,Returning
+ORD10368,2024-03-19,East,Books,Biography,2,42.87,0,85.74,54.69,31.05,New
+ORD11299,2024-03-19,South,Home & Kitchen,Coffee Maker,1,49.41,10,44.47,30.04,14.43,Returning
+ORD11368,2024-03-20,South,Home & Kitchen,Air Fryer,5,177.17,5,841.56,469.79,371.77,Returning
+ORD10624,2024-03-20,North,Apparel,Cotton T-Shirt,1,65.21,5,61.95,38.7,23.25,Returning
+ORD10980,2024-03-20,North,Electronics,Smartwatch,4,806.2,20,2579.84,1810.93,768.91,New
+ORD11295,2024-03-20,North,Electronics,Smartwatch,5,179.01,5,850.3,532.9,317.4,Returning
+ORD10872,2024-03-20,East,Apparel,Wool Sweater,5,17.3,20,69.2,46.58,22.62,Returning
+ORD11956,2024-03-20,West,Home & Kitchen,Blender,1,109.77,10,98.79,50.64,48.15,New
+ORD11121,2024-03-21,North,Electronics,Laptop Stand,3,516.25,5,1471.31,700.84,770.47,New
+ORD10946,2024-03-21,East,Electronics,Laptop Stand,4,878.96,0,3515.84,2182.17,1333.67,New
+ORD10600,2024-03-21,East,Electronics,Laptop Stand,3,587.01,15,1496.88,857.19,639.69,Returning
+ORD10016,2024-03-21,South,Electronics,Smartwatch,2,871.84,5,1656.5,1125.24,531.26,New
+ORD11277,2024-03-22,East,Home & Kitchen,Coffee Maker,1,226.51,0,226.51,112.4,114.11,Returning
+ORD10642,2024-03-22,South,Home & Kitchen,Blender,3,182.6,0,547.8,310.4,237.4,VIP
+ORD10298,2024-03-22,East,Electronics,Bluetooth Speaker,3,582.96,10,1573.99,997.6,576.39,New
+ORD11134,2024-03-22,North,Apparel,Sneakers,3,16.78,0,50.34,28.93,21.41,Returning
+ORD11554,2024-03-22,North,Books,Self-Help Book,4,34.86,0,139.44,67.94,71.5,New
+ORD11608,2024-03-22,South,Home & Kitchen,Air Fryer,1,26.16,10,23.54,16.3,7.24,New
+ORD10675,2024-03-22,West,Books,Self-Help Book,2,29.73,0,59.46,27.43,32.03,Returning
+ORD11498,2024-03-23,South,Home & Kitchen,Blender,5,153.68,10,691.56,384.0,307.56,Returning
+ORD10263,2024-03-23,South,Electronics,Wireless Earbuds,2,466.08,20,745.73,573.47,172.26,VIP
+ORD10834,2024-03-23,West,Electronics,Bluetooth Speaker,3,646.01,10,1744.23,1018.17,726.06,New
+ORD11067,2024-03-24,North,Books,Cookbook,5,36.26,0,181.3,96.04,85.26,New
+ORD10344,2024-03-24,North,Home & Kitchen,Vacuum Cleaner,4,116.47,10,419.29,228.72,190.57,Returning
+ORD11209,2024-03-24,North,Electronics,Laptop Stand,4,242.48,0,969.92,449.11,520.81,Returning
+ORD10145,2024-03-24,West,Books,Tech Manual,2,16.93,10,30.47,17.09,13.38,Returning
+ORD10653,2024-03-24,West,Apparel,Cotton T-Shirt,2,42.33,20,67.73,38.99,28.74,VIP
+ORD10156,2024-03-24,East,Home & Kitchen,Cookware Set,2,220.32,5,418.61,270.1,148.51,New
+ORD11495,2024-03-25,North,Sports,Resistance Bands,2,135.86,0,271.72,151.46,120.26,New
+ORD10990,2024-03-25,West,Sports,Resistance Bands,5,18.32,10,82.44,53.92,28.52,VIP
+ORD10759,2024-03-25,West,Books,Fiction Novel,3,12.71,0,38.13,24.39,13.74,Returning
+ORD11098,2024-03-26,West,Apparel,Running Shoes,2,18.37,5,34.9,20.82,14.08,Returning
+ORD10765,2024-03-26,North,Electronics,4K Monitor,1,860.67,0,860.67,430.7,429.97,Returning
+ORD11891,2024-03-27,South,Books,Cookbook,3,27.62,0,82.86,52.07,30.79,VIP
+ORD10831,2024-03-28,East,Apparel,Sneakers,1,92.35,0,92.35,45.14,47.21,New
+ORD10826,2024-03-28,North,Home & Kitchen,Coffee Maker,4,41.51,0,166.04,90.5,75.54,VIP
+ORD10419,2024-03-28,North,Books,Cookbook,3,40.44,5,115.25,57.63,57.62,VIP
+ORD10358,2024-03-29,East,Books,Cookbook,3,43.1,10,116.37,66.2,50.17,New
+ORD11615,2024-03-29,North,Sports,Cycling Helmet,5,30.4,0,152.0,77.6,74.4,New
+ORD11589,2024-03-29,East,Home & Kitchen,Blender,1,65.46,10,58.91,34.01,24.9,VIP
+ORD11172,2024-03-30,West,Apparel,Denim Jacket,4,106.56,0,426.24,221.9,204.34,New
+ORD10154,2024-03-30,North,Books,Biography,2,19.31,20,30.9,23.56,7.34,Returning
+ORD11693,2024-03-30,North,Sports,Resistance Bands,3,175.47,0,526.41,322.51,203.9,Returning
+ORD10883,2024-03-30,East,Apparel,Wool Sweater,1,64.53,0,64.53,33.63,30.9,New
+ORD10408,2024-03-31,North,Books,Cookbook,3,44.96,15,114.65,83.84,30.81,Returning
+ORD10004,2024-04-01,West,Home & Kitchen,Coffee Maker,5,90.06,0,450.3,213.63,236.67,New
+ORD11272,2024-04-01,North,Electronics,Bluetooth Speaker,1,695.78,0,695.78,398.57,297.21,VIP
+ORD11265,2024-04-01,South,Books,Cookbook,5,10.6,0,53.0,33.7,19.3,Returning
+ORD10632,2024-04-01,South,Home & Kitchen,Air Fryer,2,225.6,0,451.2,289.86,161.34,VIP
+ORD10690,2024-04-01,North,Electronics,Wireless Earbuds,4,308.57,0,1234.28,576.15,658.13,New
+ORD10136,2024-04-01,East,Apparel,Sneakers,3,39.37,10,106.3,73.64,32.66,VIP
+ORD10660,2024-04-01,South,Home & Kitchen,Vacuum Cleaner,3,127.47,15,325.05,235.43,89.62,VIP
+ORD10389,2024-04-02,East,Home & Kitchen,Air Fryer,2,66.84,0,133.68,63.24,70.44,Returning
+ORD10392,2024-04-02,East,Home & Kitchen,Cookware Set,4,222.76,5,846.49,551.26,295.23,Returning
+ORD11998,2024-04-02,South,Sports,Dumbbell Set,2,58.04,10,104.47,52.98,51.49,Returning
+ORD10332,2024-04-02,East,Home & Kitchen,Vacuum Cleaner,3,125.48,0,376.44,236.98,139.46,Returning
+ORD10070,2024-04-02,East,Sports,Football,3,78.95,10,213.17,135.1,78.07,VIP
+ORD10994,2024-04-03,North,Sports,Yoga Mat,1,143.8,0,143.8,84.05,59.75,New
+ORD10584,2024-04-03,North,Electronics,Laptop Stand,5,844.54,0,4222.7,2526.5,1696.2,New
+ORD10907,2024-04-04,North,Home & Kitchen,Vacuum Cleaner,3,90.05,0,270.15,138.87,131.28,VIP
+ORD11880,2024-04-04,North,Apparel,Denim Jacket,5,65.69,0,328.45,170.71,157.74,VIP
+ORD11309,2024-04-04,North,Electronics,4K Monitor,5,809.02,0,4045.1,1850.86,2194.24,New
+ORD11488,2024-04-04,South,Sports,Football,3,98.98,0,296.94,174.1,122.84,New
+ORD11063,2024-04-04,East,Home & Kitchen,Coffee Maker,2,188.43,0,376.86,243.05,133.81,New
+ORD10491,2024-04-05,West,Books,Biography,5,34.07,15,144.8,99.81,44.99,Returning
+ORD10353,2024-04-05,North,Electronics,Wireless Earbuds,2,486.61,5,924.56,594.35,330.21,New
+ORD11467,2024-04-05,West,Apparel,Running Shoes,2,57.02,5,108.34,57.17,51.17,Returning
+ORD11117,2024-04-05,North,Apparel,Denim Jacket,5,68.45,10,308.03,197.32,110.71,New
+ORD10397,2024-04-05,South,Apparel,Wool Sweater,2,89.5,0,179.0,88.34,90.66,New
+ORD10249,2024-04-06,East,Home & Kitchen,Air Fryer,3,41.65,15,106.21,76.18,30.03,New
+ORD10576,2024-04-06,North,Home & Kitchen,Vacuum Cleaner,4,239.8,20,767.36,466.0,301.36,New
+ORD10663,2024-04-06,East,Apparel,Wool Sweater,5,61.04,15,259.42,141.92,117.5,VIP
+ORD11743,2024-04-07,West,Electronics,Wireless Earbuds,2,725.95,10,1306.71,717.14,589.57,Returning
+ORD11641,2024-04-07,South,Sports,Football,4,140.51,0,562.04,280.9,281.14,New
+ORD11613,2024-04-07,West,Books,Biography,1,34.22,0,34.22,22.01,12.21,VIP
+ORD10470,2024-04-08,North,Electronics,Wireless Earbuds,4,646.29,0,2585.16,1592.54,992.62,New
+ORD10703,2024-04-08,East,Electronics,4K Monitor,2,337.76,0,675.52,425.4,250.12,Returning
+ORD10343,2024-04-08,North,Books,Biography,3,28.26,0,84.78,52.39,32.39,New
+ORD10206,2024-04-08,South,Home & Kitchen,Blender,1,193.48,0,193.48,117.35,76.13,New
+ORD10687,2024-04-09,West,Books,Tech Manual,1,14.57,0,14.57,7.35,7.22,VIP
+ORD11411,2024-04-09,North,Sports,Dumbbell Set,1,56.07,0,56.07,30.06,26.01,New
+ORD11037,2024-04-10,West,Electronics,Smartwatch,4,589.11,5,2238.62,1307.24,931.38,Returning
+ORD10585,2024-04-10,East,Books,Self-Help Book,2,26.38,5,50.12,25.87,24.25,Returning
+ORD11039,2024-04-11,West,Sports,Cycling Helmet,1,100.01,10,90.01,50.26,39.75,New
+ORD11972,2024-04-11,South,Electronics,Smartwatch,2,814.83,0,1629.66,872.58,757.08,Returning
+ORD10352,2024-04-11,North,Home & Kitchen,Air Fryer,4,103.19,5,392.12,244.23,147.89,Returning
+ORD10329,2024-04-11,West,Sports,Football,1,133.92,0,133.92,72.85,61.07,New
+ORD10499,2024-04-11,North,Sports,Resistance Bands,4,62.5,0,250.0,151.52,98.48,New
+ORD11663,2024-04-12,North,Sports,Dumbbell Set,1,135.31,0,135.31,70.01,65.3,VIP
+ORD10756,2024-04-12,South,Books,Cookbook,2,32.91,5,62.53,30.11,32.42,Returning
+ORD11833,2024-04-12,South,Home & Kitchen,Blender,3,82.71,0,248.13,160.0,88.13,New
+ORD11167,2024-04-12,North,Books,Cookbook,2,32.25,0,64.5,34.32,30.18,New
+ORD10579,2024-04-12,West,Electronics,Wireless Earbuds,4,571.4,5,2171.32,1405.56,765.76,Returning
+ORD11847,2024-04-13,North,Home & Kitchen,Vacuum Cleaner,4,146.03,10,525.71,297.18,228.53,New
+ORD10807,2024-04-13,South,Books,Biography,4,37.27,0,149.08,67.53,81.55,New
+ORD10492,2024-04-13,West,Apparel,Sneakers,3,39.92,15,101.8,64.49,37.31,New
+ORD10919,2024-04-13,North,Electronics,4K Monitor,3,713.09,0,2139.27,975.96,1163.31,New
+ORD10088,2024-04-13,East,Electronics,Wireless Earbuds,1,324.16,0,324.16,153.45,170.71,Returning
+ORD10962,2024-04-14,East,Sports,Football,3,62.57,15,159.55,93.41,66.14,New
+ORD10618,2024-04-14,East,Apparel,Denim Jacket,5,57.15,0,285.75,181.7,104.05,Returning
+ORD10183,2024-04-15,North,Apparel,Sneakers,3,98.33,0,294.99,175.0,119.99,Returning
+ORD10465,2024-04-15,South,Electronics,4K Monitor,3,826.19,0,2478.57,1600.34,878.23,New
+ORD10426,2024-04-15,East,Sports,Yoga Mat,2,96.72,10,174.1,101.12,72.98,New
+ORD10789,2024-04-15,East,Home & Kitchen,Blender,5,90.31,5,428.97,291.04,137.93,Returning
+ORD11533,2024-04-16,South,Sports,Yoga Mat,4,163.45,0,653.8,321.39,332.41,New
+ORD11854,2024-04-16,South,Sports,Dumbbell Set,4,84.25,0,337.0,218.36,118.64,New
+ORD10586,2024-04-16,West,Books,Biography,4,43.08,0,172.32,88.37,83.95,New
+ORD11568,2024-04-16,North,Books,Fiction Novel,5,44.8,10,201.6,143.5,58.1,New
+ORD11407,2024-04-17,South,Electronics,Laptop Stand,4,678.3,5,2577.54,1535.09,1042.45,VIP
+ORD10611,2024-04-17,South,Apparel,Denim Jacket,2,66.68,0,133.36,70.07,63.29,VIP
+ORD10184,2024-04-17,North,Sports,Dumbbell Set,3,37.55,0,112.65,62.52,50.13,New
+ORD10484,2024-04-17,South,Electronics,Laptop Stand,2,735.69,5,1397.81,746.82,650.99,New
+ORD11220,2024-04-17,West,Books,Tech Manual,1,23.92,10,21.53,12.6,8.93,New
+ORD10452,2024-04-17,North,Apparel,Denim Jacket,4,91.28,5,346.86,176.9,169.96,New
+ORD10117,2024-04-17,East,Home & Kitchen,Air Fryer,3,76.67,0,230.01,116.02,113.99,Returning
+ORD10535,2024-04-18,North,Home & Kitchen,Cookware Set,3,180.85,5,515.42,265.39,250.03,New
+ORD10434,2024-04-18,North,Electronics,4K Monitor,2,220.33,0,440.66,252.05,188.61,VIP
+ORD10682,2024-04-18,South,Apparel,Running Shoes,3,21.79,0,65.37,30.69,34.68,New
+ORD11999,2024-04-18,North,Home & Kitchen,Cookware Set,4,142.61,5,541.92,354.72,187.2,Returning
+ORD10232,2024-04-18,North,Sports,Cycling Helmet,3,107.18,0,321.54,207.84,113.7,Returning
+ORD11374,2024-04-19,South,Apparel,Cotton T-Shirt,2,10.39,10,18.7,10.91,7.79,Returning
+ORD11512,2024-04-19,East,Books,Biography,4,18.48,5,70.22,35.73,34.49,VIP
+ORD11873,2024-04-19,West,Electronics,4K Monitor,3,759.82,0,2279.46,1171.95,1107.51,VIP
+ORD11951,2024-04-19,East,Home & Kitchen,Vacuum Cleaner,3,73.94,0,221.82,100.84,120.98,Returning
+ORD11118,2024-04-19,West,Books,Biography,2,8.02,0,16.04,7.4,8.64,VIP
+ORD10940,2024-04-19,South,Home & Kitchen,Blender,3,192.31,5,548.08,309.9,238.18,New
+ORD11829,2024-04-20,West,Home & Kitchen,Coffee Maker,1,97.27,5,92.41,49.2,43.21,Returning
+ORD11808,2024-04-20,West,Home & Kitchen,Blender,5,197.27,5,937.03,496.99,440.04,New
+ORD11870,2024-04-20,North,Electronics,Bluetooth Speaker,1,177.99,10,160.19,87.27,72.92,New
+ORD11945,2024-04-20,North,Apparel,Cotton T-Shirt,5,29.42,5,139.74,89.97,49.77,Returning
+ORD11672,2024-04-20,West,Books,Fiction Novel,2,37.0,10,66.6,43.57,23.03,Returning
+ORD11217,2024-04-21,North,Apparel,Cotton T-Shirt,4,28.93,10,104.15,56.82,47.33,New
+ORD10416,2024-04-21,North,Home & Kitchen,Air Fryer,2,212.59,0,425.18,205.91,219.27,New
+ORD10227,2024-04-21,North,Home & Kitchen,Vacuum Cleaner,3,188.61,0,565.83,317.34,248.49,Returning
+ORD11591,2024-04-21,South,Electronics,Wireless Earbuds,2,462.5,15,786.25,488.91,297.34,New
+ORD11331,2024-04-21,East,Sports,Cycling Helmet,1,155.93,0,155.93,83.17,72.76,Returning
+ORD10570,2024-04-21,West,Apparel,Running Shoes,1,69.07,20,55.26,44.81,10.45,Returning
+ORD11351,2024-04-21,South,Apparel,Running Shoes,3,102.06,0,306.18,182.47,123.71,VIP
+ORD11587,2024-04-22,West,Home & Kitchen,Vacuum Cleaner,1,151.12,0,151.12,86.62,64.5,Returning
+ORD11349,2024-04-22,East,Books,Self-Help Book,1,10.7,10,9.63,5.09,4.54,Returning
+ORD10413,2024-04-22,West,Sports,Resistance Bands,5,132.12,20,528.48,421.45,107.03,Returning
+ORD11532,2024-04-22,West,Apparel,Running Shoes,3,116.83,0,350.49,168.51,181.98,VIP
+ORD10233,2024-04-22,North,Sports,Cycling Helmet,4,96.44,0,385.76,180.43,205.33,New
+ORD10300,2024-04-23,North,Apparel,Cotton T-Shirt,5,13.39,15,56.91,39.34,17.57,Returning
+ORD10666,2024-04-23,West,Electronics,Smartwatch,5,497.72,15,2115.31,1381.33,733.98,New
+ORD10858,2024-04-23,North,Apparel,Wool Sweater,3,24.42,0,73.26,42.28,30.98,Returning
+ORD10341,2024-04-23,West,Sports,Resistance Bands,3,119.35,0,358.05,223.95,134.1,VIP
+ORD10678,2024-04-24,West,Apparel,Running Shoes,1,37.87,0,37.87,24.07,13.8,VIP
+ORD10967,2024-04-24,West,Sports,Yoga Mat,4,23.77,15,80.82,46.54,34.28,New
+ORD11497,2024-04-24,South,Books,Biography,4,34.34,0,137.36,89.06,48.3,New
+ORD10896,2024-04-24,South,Sports,Dumbbell Set,2,59.25,10,106.65,68.91,37.74,Returning
+ORD10951,2024-04-24,North,Books,Tech Manual,2,21.81,0,43.62,19.79,23.83,New
+ORD11967,2024-04-25,East,Apparel,Denim Jacket,4,111.25,10,400.5,213.58,186.92,New
+ORD10655,2024-04-25,North,Books,Self-Help Book,5,28.17,0,140.85,64.82,76.03,Returning
+ORD11740,2024-04-26,North,Home & Kitchen,Coffee Maker,3,130.85,5,372.92,204.51,168.41,Returning
+ORD10203,2024-04-26,West,Books,Biography,1,25.1,10,22.59,13.7,8.89,New
+ORD11370,2024-04-26,West,Books,Biography,4,9.61,0,38.44,18.57,19.87,Returning
+ORD10036,2024-04-26,North,Apparel,Wool Sweater,2,91.84,0,183.68,98.39,85.29,New
+ORD11290,2024-04-26,North,Home & Kitchen,Air Fryer,3,25.9,0,77.7,38.07,39.63,VIP
+ORD10732,2024-04-27,South,Apparel,Sneakers,2,22.98,0,45.96,29.81,16.15,New
+ORD11623,2024-04-27,North,Sports,Cycling Helmet,1,93.07,0,93.07,53.16,39.91,Returning
+ORD10234,2024-04-27,North,Apparel,Wool Sweater,3,90.92,5,259.12,145.72,113.4,Returning
+ORD10636,2024-04-27,East,Electronics,Wireless Earbuds,3,618.91,15,1578.22,1192.3,385.92,New
+ORD10037,2024-04-27,East,Electronics,Smartwatch,2,836.41,0,1672.82,973.65,699.17,Returning
+ORD11758,2024-04-28,North,Home & Kitchen,Air Fryer,5,144.53,0,722.65,340.06,382.59,New
+ORD11494,2024-04-28,East,Books,Cookbook,4,40.85,0,163.4,93.66,69.74,New
+ORD10322,2024-04-28,East,Electronics,Laptop Stand,2,181.24,5,344.36,219.15,125.21,Returning
+ORD11017,2024-04-28,South,Books,Self-Help Book,5,15.54,0,77.7,41.59,36.11,New
+ORD11851,2024-04-28,East,Books,Fiction Novel,4,19.31,0,77.24,37.75,39.49,Returning
+ORD10173,2024-04-28,East,Books,Tech Manual,2,43.53,5,82.71,51.07,31.64,VIP
+ORD11543,2024-04-28,North,Apparel,Wool Sweater,1,98.08,10,88.27,50.78,37.49,Returning
+ORD10647,2024-04-28,West,Sports,Yoga Mat,4,147.46,0,589.84,323.48,266.36,New
+ORD11965,2024-04-29,South,Sports,Football,2,107.48,5,204.21,99.67,104.54,New
+ORD11850,2024-04-29,North,Electronics,Wireless Earbuds,2,293.06,0,586.12,371.52,214.6,Returning
+ORD11534,2024-04-29,West,Apparel,Cotton T-Shirt,2,81.91,0,163.82,99.31,64.51,VIP
+ORD11772,2024-04-30,West,Books,Tech Manual,3,13.62,0,40.86,24.51,16.35,Returning
+ORD10706,2024-04-30,East,Apparel,Denim Jacket,4,116.24,20,371.97,281.47,90.5,Returning
+ORD10459,2024-05-01,East,Electronics,Bluetooth Speaker,4,416.0,5,1580.8,1019.92,560.88,Returning
+ORD10977,2024-05-01,South,Sports,Yoga Mat,1,111.86,15,95.08,50.78,44.3,New
+ORD10835,2024-05-01,East,Books,Biography,5,32.04,0,160.2,91.53,68.67,New
+ORD11886,2024-05-02,North,Home & Kitchen,Blender,2,240.64,0,481.28,237.82,243.46,Returning
+ORD10521,2024-05-02,North,Books,Tech Manual,3,35.55,0,106.65,51.93,54.72,New
+ORD10905,2024-05-02,East,Apparel,Running Shoes,5,63.82,0,319.1,171.95,147.15,Returning
+ORD11713,2024-05-02,North,Apparel,Running Shoes,2,38.53,0,77.06,49.35,27.71,Returning
+ORD10305,2024-05-02,East,Books,Tech Manual,5,32.91,20,131.64,96.48,35.16,VIP
+ORD11244,2024-05-02,South,Apparel,Cotton T-Shirt,4,103.16,10,371.38,238.65,132.73,New
+ORD11588,2024-05-03,East,Sports,Dumbbell Set,4,100.89,0,403.56,196.66,206.9,Returning
+ORD11934,2024-05-04,East,Apparel,Denim Jacket,1,110.05,5,104.55,70.03,34.52,New
+ORD11069,2024-05-04,North,Apparel,Running Shoes,5,82.0,0,410.0,228.09,181.91,Returning
+ORD10801,2024-05-04,East,Books,Fiction Novel,3,40.47,5,115.34,56.81,58.53,Returning
+ORD10839,2024-05-05,West,Electronics,Laptop Stand,3,593.11,5,1690.36,828.57,861.79,VIP
+ORD11739,2024-05-06,North,Sports,Football,4,144.38,0,577.52,320.16,257.36,VIP
+ORD10157,2024-05-06,North,Sports,Football,2,125.53,0,251.06,149.71,101.35,Returning
+ORD11475,2024-05-06,East,Electronics,Smartwatch,1,731.12,0,731.12,401.73,329.39,New
+ORD10094,2024-05-06,West,Sports,Football,4,119.55,10,430.38,270.31,160.07,New
+ORD10225,2024-05-07,North,Apparel,Sneakers,4,20.31,5,77.18,39.17,38.01,New
+ORD10490,2024-05-07,North,Sports,Resistance Bands,5,121.72,0,608.6,292.21,316.39,VIP
+ORD10776,2024-05-07,East,Electronics,Laptop Stand,3,172.84,0,518.52,310.83,207.69,Returning
+ORD10817,2024-05-07,North,Books,Cookbook,1,34.42,15,29.26,17.05,12.21,New
+ORD11453,2024-05-08,North,Electronics,Smartwatch,4,287.67,0,1150.68,581.77,568.91,New
+ORD11454,2024-05-08,West,Apparel,Sneakers,1,55.48,10,49.93,31.78,18.15,Returning
+ORD10339,2024-05-08,East,Home & Kitchen,Cookware Set,3,86.44,20,207.46,156.16,51.3,New
+ORD10379,2024-05-08,North,Sports,Resistance Bands,4,101.86,0,407.44,216.73,190.71,Returning
+ORD10798,2024-05-09,South,Home & Kitchen,Blender,5,102.54,10,461.43,233.26,228.17,New
+ORD10581,2024-05-09,East,Sports,Yoga Mat,3,50.73,10,136.97,84.23,52.74,New
+ORD10813,2024-05-09,East,Sports,Dumbbell Set,2,187.44,20,299.9,207.5,92.4,New
+ORD10201,2024-05-09,North,Sports,Yoga Mat,3,74.67,0,224.01,143.69,80.32,New
+ORD11966,2024-05-09,South,Sports,Football,3,79.03,10,213.38,130.5,82.88,Returning
+ORD10498,2024-05-10,South,Home & Kitchen,Vacuum Cleaner,5,217.7,5,1034.08,634.95,399.13,Returning
+ORD10851,2024-05-10,East,Electronics,4K Monitor,1,619.69,0,619.69,337.32,282.37,Returning
+ORD11420,2024-05-10,South,Apparel,Running Shoes,1,64.91,0,64.91,36.49,28.42,Returning
+ORD10022,2024-05-10,East,Apparel,Running Shoes,3,40.68,5,115.94,64.79,51.15,VIP
+ORD11334,2024-05-11,West,Electronics,Smartwatch,4,605.72,0,2422.88,1152.43,1270.45,Returning
+ORD10812,2024-05-11,North,Electronics,Bluetooth Speaker,1,746.66,0,746.66,475.73,270.93,Returning
+ORD11843,2024-05-11,East,Books,Biography,3,29.77,5,84.84,45.29,39.55,VIP
+ORD11106,2024-05-11,South,Home & Kitchen,Coffee Maker,5,175.82,10,791.19,490.75,300.44,New
+ORD11128,2024-05-11,North,Home & Kitchen,Vacuum Cleaner,4,123.09,0,492.36,292.02,200.34,New
+ORD11940,2024-05-12,North,Electronics,Laptop Stand,2,273.58,5,519.8,340.03,179.77,VIP
+ORD11051,2024-05-12,East,Sports,Dumbbell Set,4,117.15,0,468.6,225.43,243.17,Returning
+ORD11803,2024-05-12,East,Home & Kitchen,Vacuum Cleaner,3,156.36,0,469.08,213.59,255.49,Returning
+ORD10793,2024-05-12,South,Home & Kitchen,Cookware Set,2,116.13,0,232.26,131.1,101.16,New
+ORD11340,2024-05-12,North,Books,Cookbook,3,26.75,0,80.25,41.62,38.63,Returning
+ORD11726,2024-05-12,North,Home & Kitchen,Air Fryer,5,75.97,20,303.88,239.76,64.12,New
+ORD11572,2024-05-12,East,Apparel,Sneakers,1,52.61,0,52.61,29.5,23.11,Returning
+ORD10055,2024-05-13,South,Sports,Yoga Mat,1,30.33,0,30.33,19.58,10.75,Returning
+ORD11292,2024-05-14,North,Electronics,Smartwatch,5,542.02,0,2710.1,1727.87,982.23,VIP
+ORD11450,2024-05-14,North,Electronics,Wireless Earbuds,1,702.54,0,702.54,410.76,291.78,New
+ORD11811,2024-05-15,South,Electronics,Wireless Earbuds,5,473.33,0,2366.65,1221.32,1145.33,Returning
+ORD10383,2024-05-16,East,Electronics,Smartwatch,1,353.62,0,353.62,217.75,135.87,New
+ORD10773,2024-05-17,North,Home & Kitchen,Cookware Set,1,108.23,0,108.23,53.86,54.37,Returning
+ORD10450,2024-05-17,West,Sports,Cycling Helmet,3,119.82,0,359.46,162.53,196.93,New
+ORD10820,2024-05-17,North,Electronics,Wireless Earbuds,4,304.42,0,1217.68,776.07,441.61,New
+ORD10592,2024-05-19,East,Home & Kitchen,Blender,4,161.02,0,644.08,358.83,285.25,VIP
+ORD10360,2024-05-19,North,Electronics,Laptop Stand,3,365.72,0,1097.16,567.02,530.14,Returning
+ORD10082,2024-05-19,North,Home & Kitchen,Cookware Set,1,117.85,5,111.96,67.42,44.54,New
+ORD11416,2024-05-20,North,Electronics,4K Monitor,2,770.95,10,1387.71,998.74,388.97,Returning
+ORD10790,2024-05-20,North,Apparel,Wool Sweater,3,71.15,10,192.1,123.35,68.75,Returning
+ORD10865,2024-05-20,South,Electronics,Laptop Stand,2,886.6,5,1684.54,913.47,771.07,Returning
+ORD10460,2024-05-20,East,Electronics,Bluetooth Speaker,3,871.7,0,2615.1,1458.07,1157.03,Returning
+ORD11065,2024-05-20,East,Home & Kitchen,Air Fryer,4,48.4,0,193.6,93.75,99.85,New
+ORD10313,2024-05-20,North,Electronics,Bluetooth Speaker,4,799.91,10,2879.68,1681.29,1198.39,New
+ORD10242,2024-05-21,East,Sports,Resistance Bands,4,24.67,10,88.81,63.77,25.04,Returning
+ORD10827,2024-05-21,South,Books,Self-Help Book,5,24.92,10,112.14,57.24,54.9,Returning
+ORD10327,2024-05-22,North,Home & Kitchen,Air Fryer,4,75.01,0,300.04,181.64,118.4,Returning
+ORD10260,2024-05-22,North,Electronics,Laptop Stand,3,320.38,5,913.08,438.89,474.19,New
+ORD10199,2024-05-22,South,Sports,Dumbbell Set,3,110.4,10,298.08,205.44,92.64,VIP
+ORD11776,2024-05-22,East,Electronics,Wireless Earbuds,4,300.2,0,1200.8,754.03,446.77,New
+ORD11284,2024-05-22,West,Books,Tech Manual,3,5.09,0,15.27,7.37,7.9,Returning
+ORD11844,2024-05-23,East,Apparel,Sneakers,1,89.72,0,89.72,57.55,32.17,Returning
+ORD10482,2024-05-23,East,Apparel,Wool Sweater,2,59.11,0,118.22,53.76,64.46,Returning
+ORD10018,2024-05-23,South,Electronics,4K Monitor,3,624.23,10,1685.42,962.85,722.57,Returning
+ORD10701,2024-05-23,North,Apparel,Running Shoes,2,63.67,0,127.34,70.23,57.11,Returning
+ORD11784,2024-05-23,South,Sports,Cycling Helmet,1,56.14,20,44.91,36.47,8.44,New
+ORD10818,2024-05-23,West,Home & Kitchen,Coffee Maker,5,142.44,0,712.2,358.09,354.11,New
+ORD10870,2024-05-24,North,Sports,Cycling Helmet,2,82.36,10,148.25,83.17,65.08,New
+ORD11668,2024-05-25,East,Sports,Cycling Helmet,2,115.87,5,220.15,113.33,106.82,Returning
+ORD11509,2024-05-25,North,Home & Kitchen,Cookware Set,5,61.36,0,306.8,183.22,123.58,New
+ORD11139,2024-05-25,North,Home & Kitchen,Cookware Set,1,239.52,15,203.59,152.46,51.13,New
+ORD11246,2024-05-25,North,Apparel,Cotton T-Shirt,1,77.49,0,77.49,39.27,38.22,Returning
+ORD10158,2024-05-26,North,Sports,Football,5,44.52,5,211.47,115.17,96.3,VIP
+ORD10662,2024-05-26,South,Sports,Dumbbell Set,2,194.36,0,388.72,196.31,192.41,Returning
+ORD10529,2024-05-26,North,Sports,Resistance Bands,1,66.91,5,63.56,33.33,30.23,VIP
+ORD11923,2024-05-27,West,Apparel,Denim Jacket,3,106.77,0,320.31,182.21,138.1,Returning
+ORD11205,2024-05-27,North,Home & Kitchen,Cookware Set,5,159.58,0,797.9,400.74,397.16,New
+ORD11032,2024-05-28,East,Electronics,Smartwatch,1,379.5,5,360.52,202.1,158.42,New
+ORD10710,2024-05-28,West,Electronics,Wireless Earbuds,2,241.2,10,434.16,255.71,178.45,Returning
+ORD11939,2024-05-29,North,Apparel,Denim Jacket,2,19.19,10,34.54,22.79,11.75,New
+ORD11313,2024-05-30,South,Books,Biography,2,12.74,0,25.48,11.68,13.8,Returning
+ORD10626,2024-05-30,North,Sports,Football,5,52.74,0,263.7,145.7,118.0,VIP
+ORD11530,2024-05-30,East,Electronics,Laptop Stand,2,388.63,10,699.53,361.9,337.63,VIP
+ORD10122,2024-05-31,West,Home & Kitchen,Blender,1,210.65,5,200.12,99.87,100.25,New
+ORD11240,2024-05-31,South,Sports,Football,3,171.79,0,515.37,261.48,253.89,Returning
+ORD10750,2024-05-31,South,Books,Biography,3,32.93,0,98.79,44.81,53.98,New
+ORD10634,2024-06-01,West,Apparel,Denim Jacket,1,73.64,0,73.64,40.66,32.98,New
+ORD10587,2024-06-02,South,Sports,Resistance Bands,2,176.44,15,299.95,226.66,73.29,New
+ORD10311,2024-06-02,North,Sports,Yoga Mat,1,73.75,0,73.75,41.94,31.81,Returning
+ORD10365,2024-06-02,South,Apparel,Denim Jacket,2,41.62,5,79.08,38.74,40.34,Returning
+ORD11356,2024-06-02,South,Home & Kitchen,Coffee Maker,2,152.89,10,275.2,154.28,120.92,New
+ORD11126,2024-06-02,North,Home & Kitchen,Cookware Set,4,23.28,20,74.5,44.71,29.79,New
+ORD10338,2024-06-03,North,Home & Kitchen,Cookware Set,3,60.91,0,182.73,99.8,82.93,New
+ORD10030,2024-06-03,East,Home & Kitchen,Blender,2,151.11,5,287.11,155.5,131.61,New
+ORD11352,2024-06-03,North,Home & Kitchen,Coffee Maker,3,91.91,0,275.73,171.0,104.73,VIP
+ORD11500,2024-06-03,West,Electronics,Bluetooth Speaker,5,527.8,0,2639.0,1238.1,1400.9,Returning
+ORD10208,2024-06-03,East,Home & Kitchen,Vacuum Cleaner,5,223.92,0,1119.6,689.12,430.48,New
+ORD10288,2024-06-03,East,Books,Self-Help Book,3,24.42,0,73.26,46.53,26.73,New
+ORD11343,2024-06-03,North,Electronics,Bluetooth Speaker,4,609.24,10,2193.26,1406.87,786.39,New
+ORD10596,2024-06-03,East,Books,Cookbook,3,12.67,0,38.01,17.75,20.26,VIP
+ORD11982,2024-06-03,South,Electronics,4K Monitor,5,434.93,20,1739.72,1262.22,477.5,New
+ORD11531,2024-06-03,East,Sports,Football,3,136.48,5,388.97,206.42,182.55,New
+ORD11436,2024-06-03,South,Apparel,Denim Jacket,1,65.26,20,52.21,33.18,19.03,New
+ORD10516,2024-06-03,West,Electronics,Smartwatch,5,510.96,10,2299.32,1596.18,703.14,New
+ORD10855,2024-06-04,West,Apparel,Sneakers,3,92.47,0,277.41,150.14,127.27,Returning
+ORD11768,2024-06-04,East,Sports,Football,2,69.31,0,138.62,85.24,53.38,Returning
+ORD11338,2024-06-04,East,Apparel,Running Shoes,2,56.99,10,102.58,60.95,41.63,New
+ORD11448,2024-06-04,South,Home & Kitchen,Air Fryer,3,46.23,0,138.69,65.26,73.43,Returning
+ORD10168,2024-06-04,North,Books,Tech Manual,1,26.34,10,23.71,14.79,8.92,VIP
+ORD11432,2024-06-04,East,Home & Kitchen,Vacuum Cleaner,2,113.35,15,192.7,105.64,87.06,Returning
+ORD10099,2024-06-04,North,Books,Fiction Novel,3,19.5,5,55.58,32.35,23.23,New
+ORD10312,2024-06-05,West,Home & Kitchen,Air Fryer,4,98.29,5,373.5,241.93,131.57,VIP
+ORD10091,2024-06-05,North,Books,Biography,4,23.28,0,93.12,50.96,42.16,Returning
+ORD11774,2024-06-06,North,Books,Self-Help Book,4,34.28,15,116.55,73.22,43.33,New
+ORD11742,2024-06-06,East,Sports,Dumbbell Set,1,36.6,0,36.6,18.68,17.92,New
+ORD10948,2024-06-06,West,Home & Kitchen,Air Fryer,1,68.19,0,68.19,41.46,26.73,VIP
+ORD10868,2024-06-06,North,Books,Cookbook,5,40.24,0,201.2,127.87,73.33,VIP
+ORD10847,2024-06-06,North,Home & Kitchen,Air Fryer,5,76.29,0,381.45,179.67,201.78,New
+ORD11815,2024-06-06,East,Books,Biography,5,16.36,10,73.62,42.57,31.05,Returning
+ORD10160,2024-06-07,North,Apparel,Cotton T-Shirt,1,34.26,10,30.83,21.22,9.61,New
+ORD11194,2024-06-07,South,Sports,Dumbbell Set,3,47.59,0,142.77,91.07,51.7,New
+ORD11317,2024-06-08,South,Electronics,Wireless Earbuds,1,180.21,10,162.19,81.93,80.26,New
+ORD10041,2024-06-08,South,Electronics,4K Monitor,2,662.97,0,1325.94,749.28,576.66,VIP
+ORD11922,2024-06-08,West,Books,Tech Manual,5,27.88,5,132.43,85.53,46.9,VIP
+ORD11962,2024-06-08,East,Books,Fiction Novel,1,25.23,20,20.18,14.73,5.45,New
+ORD11287,2024-06-08,East,Sports,Resistance Bands,2,32.94,0,65.88,42.06,23.82,New
+ORD11087,2024-06-08,East,Home & Kitchen,Vacuum Cleaner,1,127.61,10,114.85,81.97,32.88,New
+ORD11674,2024-06-09,East,Sports,Dumbbell Set,1,79.4,0,79.4,43.49,35.91,Returning
+ORD10175,2024-06-09,North,Books,Tech Manual,4,28.09,0,112.36,70.13,42.23,New
+ORD11807,2024-06-09,North,Electronics,Laptop Stand,3,630.26,0,1890.78,951.69,939.09,New
+ORD11185,2024-06-09,East,Electronics,Wireless Earbuds,4,732.3,10,2636.28,1844.31,791.97,VIP
+ORD10029,2024-06-09,East,Sports,Yoga Mat,5,28.94,0,144.7,70.02,74.68,New
+ORD10271,2024-06-10,North,Sports,Resistance Bands,4,194.59,20,622.69,503.42,119.27,Returning
+ORD11398,2024-06-10,East,Electronics,Smartwatch,3,297.61,0,892.83,438.58,454.25,New
+ORD10103,2024-06-10,North,Books,Cookbook,2,19.93,10,35.87,18.14,17.73,New
+ORD11727,2024-06-10,East,Electronics,Bluetooth Speaker,2,895.02,0,1790.04,1093.81,696.23,New
+ORD10254,2024-06-10,West,Electronics,4K Monitor,5,888.08,5,4218.38,2781.4,1436.98,New
+ORD10024,2024-06-11,East,Books,Self-Help Book,2,11.43,0,22.86,11.31,11.55,Returning
+ORD11639,2024-06-11,West,Books,Fiction Novel,5,18.61,0,93.05,44.4,48.65,New
+ORD11954,2024-06-11,North,Books,Self-Help Book,2,9.95,5,18.9,11.01,7.89,VIP
+ORD10916,2024-06-11,West,Books,Fiction Novel,3,7.14,0,21.42,12.81,8.61,Returning
+ORD10544,2024-06-12,East,Electronics,4K Monitor,5,150.7,0,753.5,440.78,312.72,Returning
+ORD10806,2024-06-12,East,Books,Self-Help Book,5,36.71,0,183.55,114.95,68.6,New
+ORD10202,2024-06-12,East,Home & Kitchen,Air Fryer,5,152.29,10,685.3,363.85,321.45,Returning
+ORD11600,2024-06-12,East,Sports,Cycling Helmet,5,170.47,5,809.73,407.56,402.17,New
+ORD10477,2024-06-12,West,Apparel,Wool Sweater,1,70.22,0,70.22,33.36,36.86,New
+ORD11909,2024-06-13,West,Books,Biography,5,33.03,0,165.15,80.18,84.97,Returning
+ORD10294,2024-06-13,North,Books,Fiction Novel,2,34.38,5,65.32,32.98,32.34,Returning
+ORD10086,2024-06-13,North,Books,Cookbook,4,36.81,0,147.24,85.85,61.39,Returning
+ORD11522,2024-06-13,South,Home & Kitchen,Vacuum Cleaner,1,69.07,0,69.07,39.55,29.52,New
+ORD11630,2024-06-13,East,Home & Kitchen,Air Fryer,4,176.81,0,707.24,397.46,309.78,New
+ORD10455,2024-06-14,West,Apparel,Sneakers,1,97.33,0,97.33,53.18,44.15,Returning
+ORD10658,2024-06-14,East,Sports,Yoga Mat,5,99.8,0,499.0,311.0,188.0,New
+ORD10424,2024-06-14,South,Books,Biography,4,13.42,0,53.68,25.82,27.86,VIP
+ORD11905,2024-06-14,South,Apparel,Denim Jacket,2,40.99,0,81.98,51.99,29.99,VIP
+ORD11575,2024-06-14,South,Apparel,Cotton T-Shirt,5,30.45,0,152.25,83.76,68.49,New
+ORD10987,2024-06-15,North,Home & Kitchen,Cookware Set,4,25.06,0,100.24,54.73,45.51,Returning
+ORD11466,2024-06-15,East,Apparel,Cotton T-Shirt,3,33.76,0,101.28,57.69,43.59,New
+ORD11973,2024-06-15,North,Sports,Football,1,186.03,0,186.03,105.13,80.9,Returning
+ORD11705,2024-06-15,East,Apparel,Running Shoes,1,117.58,0,117.58,57.21,60.37,New
+ORD11269,2024-06-15,East,Home & Kitchen,Air Fryer,1,128.17,20,102.54,79.32,23.22,Returning
+ORD11367,2024-06-15,South,Sports,Football,4,57.65,15,196.01,132.69,63.32,New
+ORD10190,2024-06-15,West,Apparel,Sneakers,2,84.34,0,168.68,76.44,92.24,Returning
+ORD11415,2024-06-16,West,Electronics,4K Monitor,2,718.24,0,1436.48,874.22,562.26,Returning
+ORD11563,2024-06-16,North,Sports,Cycling Helmet,2,182.75,0,365.5,168.28,197.22,VIP
+ORD10537,2024-06-16,South,Electronics,Bluetooth Speaker,5,364.22,0,1821.1,1028.5,792.6,New
+ORD10357,2024-06-16,East,Home & Kitchen,Vacuum Cleaner,3,42.43,0,127.29,70.13,57.16,New
+ORD10509,2024-06-17,North,Electronics,Smartwatch,1,697.87,20,558.3,350.68,207.62,New
+ORD11865,2024-06-17,East,Sports,Resistance Bands,1,147.73,0,147.73,95.45,52.28,VIP
+ORD10613,2024-06-17,West,Books,Tech Manual,2,30.95,5,58.8,31.69,27.11,New
+ORD10699,2024-06-17,East,Apparel,Cotton T-Shirt,2,66.98,10,120.56,83.8,36.76,New
+ORD10937,2024-06-17,East,Books,Cookbook,2,39.66,0,79.32,46.77,32.55,New
+ORD11016,2024-06-18,South,Books,Fiction Novel,2,12.42,0,24.84,11.92,12.92,New
+ORD10133,2024-06-18,North,Sports,Resistance Bands,1,179.42,10,161.48,104.25,57.23,Returning
+ORD10995,2024-06-18,East,Books,Biography,5,41.14,10,185.13,111.59,73.54,Returning
+ORD11579,2024-06-18,North,Sports,Resistance Bands,2,94.98,5,180.46,110.05,70.41,New
+ORD10124,2024-06-18,East,Electronics,4K Monitor,2,611.9,0,1223.8,550.77,673.03,VIP
+ORD11143,2024-06-19,North,Home & Kitchen,Blender,5,70.86,0,354.3,226.31,127.99,New
+ORD10888,2024-06-19,West,Apparel,Sneakers,4,93.67,5,355.95,235.49,120.46,New
+ORD11765,2024-06-19,West,Apparel,Running Shoes,4,49.97,5,189.89,98.95,90.94,Returning
+ORD10221,2024-06-20,East,Home & Kitchen,Air Fryer,4,57.65,0,230.6,144.67,85.93,New
+ORD11592,2024-06-20,South,Apparel,Running Shoes,1,14.88,10,13.39,7.99,5.4,Returning
+ORD10693,2024-06-20,East,Sports,Cycling Helmet,1,166.86,0,166.86,94.47,72.39,New
+ORD10284,2024-06-20,West,Sports,Football,3,162.7,0,488.1,261.72,226.38,VIP
+ORD11297,2024-06-20,North,Home & Kitchen,Vacuum Cleaner,4,147.84,0,591.36,342.38,248.98,Returning
+ORD10210,2024-06-21,North,Books,Self-Help Book,5,14.65,0,73.25,38.4,34.85,New
+ORD10744,2024-06-21,North,Home & Kitchen,Blender,3,190.32,5,542.41,339.16,203.25,Returning
+ORD10214,2024-06-21,South,Apparel,Denim Jacket,1,52.5,5,49.88,31.37,18.51,New
+ORD10707,2024-06-21,East,Books,Self-Help Book,1,9.02,0,9.02,4.46,4.56,New
+ORD11840,2024-06-22,West,Apparel,Cotton T-Shirt,1,78.51,0,78.51,49.97,28.54,New
+ORD10269,2024-06-22,West,Electronics,4K Monitor,4,670.84,15,2280.86,1530.55,750.31,Returning
+ORD11607,2024-06-22,North,Books,Fiction Novel,4,13.34,10,48.02,34.68,13.34,Returning
+ORD10314,2024-06-23,West,Apparel,Sneakers,2,22.76,0,45.52,26.98,18.54,New
+ORD11130,2024-06-23,East,Books,Cookbook,2,8.11,0,16.22,7.82,8.4,Returning
+ORD10388,2024-06-23,South,Apparel,Wool Sweater,3,72.91,0,218.73,136.55,82.18,Returning
+ORD10323,2024-06-23,East,Home & Kitchen,Cookware Set,5,48.88,0,244.4,115.86,128.54,Returning
+ORD10355,2024-06-23,East,Books,Cookbook,1,9.75,5,9.26,5.46,3.8,New
+ORD11008,2024-06-24,East,Electronics,Smartwatch,1,284.74,0,284.74,172.88,111.86,New
+ORD11876,2024-06-24,South,Apparel,Cotton T-Shirt,1,23.12,15,19.65,12.4,7.25,New
+ORD10803,2024-06-24,North,Sports,Resistance Bands,2,189.6,10,341.28,179.23,162.05,New
+ORD10588,2024-06-25,South,Books,Cookbook,2,19.07,0,38.14,22.69,15.45,New
+ORD10047,2024-06-25,South,Electronics,Laptop Stand,5,769.84,10,3464.28,2470.06,994.22,New
+ORD11212,2024-06-25,East,Home & Kitchen,Cookware Set,3,114.66,0,343.98,178.5,165.48,New
+ORD10815,2024-06-26,South,Apparel,Cotton T-Shirt,3,83.75,20,201.0,117.35,83.65,New
+ORD10991,2024-06-26,North,Books,Tech Manual,4,35.85,10,129.06,87.14,41.92,Returning
+ORD11150,2024-06-26,North,Apparel,Sneakers,5,113.0,5,536.75,276.08,260.67,Returning
+ORD10871,2024-06-26,West,Sports,Football,3,184.04,5,524.51,297.24,227.27,New
+ORD10880,2024-06-26,South,Apparel,Running Shoes,2,85.23,10,153.41,86.35,67.06,Returning
+ORD11275,2024-06-26,West,Sports,Football,4,39.67,0,158.68,79.77,78.91,New
+ORD11379,2024-06-26,East,Electronics,4K Monitor,1,497.88,0,497.88,272.87,225.01,New
+ORD10520,2024-06-27,West,Electronics,4K Monitor,4,460.61,0,1842.44,1039.73,802.71,Returning
+ORD10098,2024-06-27,South,Apparel,Running Shoes,3,74.58,0,223.74,126.53,97.21,New
+ORD10359,2024-06-27,North,Apparel,Running Shoes,3,97.63,10,263.6,171.28,92.32,New
+ORD10270,2024-06-27,West,Books,Tech Manual,4,30.25,10,108.9,66.85,42.05,New
+ORD10652,2024-06-28,West,Apparel,Running Shoes,1,30.12,0,30.12,14.61,15.51,New
+ORD11827,2024-06-28,South,Sports,Yoga Mat,4,142.91,5,543.06,328.75,214.31,New
+ORD10755,2024-06-28,South,Electronics,Laptop Stand,4,825.23,0,3300.92,2029.75,1271.17,Returning
+ORD10040,2024-06-28,South,Books,Self-Help Book,5,29.63,10,133.34,85.21,48.13,New
+ORD11423,2024-06-29,North,Books,Biography,5,14.72,5,69.92,47.54,22.38,New
+ORD10508,2024-06-29,West,Books,Fiction Novel,2,21.59,5,41.02,25.03,15.99,New
+ORD11822,2024-06-29,West,Apparel,Wool Sweater,5,13.65,0,68.25,39.87,28.38,VIP
+ORD11679,2024-06-29,West,Apparel,Running Shoes,1,59.03,0,59.03,30.66,28.37,New
+ORD10485,2024-06-30,North,Apparel,Sneakers,3,24.86,5,70.85,43.74,27.11,Returning
+ORD10238,2024-06-30,East,Home & Kitchen,Blender,1,120.48,0,120.48,57.38,63.1,New
+ORD11929,2024-06-30,South,Home & Kitchen,Air Fryer,3,56.33,10,152.09,86.1,65.99,Returning
+ORD11698,2024-06-30,North,Electronics,Bluetooth Speaker,3,581.75,0,1745.25,1126.0,619.25,VIP
+ORD10069,2024-07-01,South,Apparel,Cotton T-Shirt,3,36.42,0,109.26,57.91,51.35,Returning
+ORD10275,2024-07-01,North,Books,Fiction Novel,5,29.68,0,148.4,81.43,66.97,VIP
+ORD10220,2024-07-01,East,Sports,Dumbbell Set,1,38.7,15,32.9,20.33,12.57,New
+ORD10548,2024-07-01,North,Electronics,Laptop Stand,4,746.29,10,2686.64,1736.0,950.64,New
+ORD10594,2024-07-01,South,Sports,Dumbbell Set,3,43.33,15,110.49,78.51,31.98,Returning
+ORD10444,2024-07-02,West,Home & Kitchen,Cookware Set,3,65.65,0,196.95,94.55,102.4,Returning
+ORD11874,2024-07-02,West,Apparel,Cotton T-Shirt,5,10.4,15,44.2,25.24,18.96,VIP
+ORD10171,2024-07-03,South,Apparel,Cotton T-Shirt,1,11.91,5,11.31,5.97,5.34,Returning
+ORD11867,2024-07-03,East,Home & Kitchen,Vacuum Cleaner,5,163.71,0,818.55,448.06,370.49,New
+ORD11989,2024-07-03,East,Sports,Resistance Bands,1,103.15,0,103.15,50.87,52.28,VIP
+ORD11184,2024-07-04,West,Books,Tech Manual,1,5.82,5,5.53,3.29,2.24,New
+ORD10162,2024-07-04,East,Home & Kitchen,Cookware Set,2,117.0,20,187.2,115.16,72.04,VIP
+ORD11049,2024-07-04,East,Apparel,Sneakers,5,22.87,0,114.35,52.78,61.57,VIP
+ORD11527,2024-07-04,South,Electronics,Wireless Earbuds,5,193.53,5,919.27,595.09,324.18,Returning
+ORD11250,2024-07-04,East,Books,Cookbook,1,8.29,10,7.46,5.08,2.38,Returning
+ORD11881,2024-07-04,North,Sports,Resistance Bands,1,42.05,0,42.05,19.65,22.4,New
+ORD10854,2024-07-04,East,Apparel,Running Shoes,5,77.21,10,347.44,211.02,136.42,New
+ORD11633,2024-07-04,East,Electronics,Bluetooth Speaker,2,844.55,20,1351.28,779.0,572.28,Returning
+ORD11418,2024-07-04,North,Sports,Cycling Helmet,1,163.58,0,163.58,73.81,89.77,Returning
+ORD11015,2024-07-05,North,Apparel,Wool Sweater,2,70.95,5,134.8,67.16,67.64,Returning
+ORD11138,2024-07-06,East,Apparel,Sneakers,4,30.54,0,122.16,58.53,63.63,New
+ORD10303,2024-07-06,South,Books,Fiction Novel,5,7.76,10,34.92,23.41,11.51,Returning
+ORD10510,2024-07-06,East,Home & Kitchen,Blender,1,97.76,0,97.76,58.35,39.41,New
+ORD11042,2024-07-06,North,Electronics,Laptop Stand,3,774.14,0,2322.42,1116.14,1206.28,New
+ORD10481,2024-07-07,North,Sports,Cycling Helmet,3,46.28,0,138.84,89.83,49.01,Returning
+ORD11753,2024-07-07,West,Apparel,Wool Sweater,5,82.32,0,411.6,195.43,216.17,New
+ORD10033,2024-07-08,West,Sports,Dumbbell Set,3,32.39,0,97.17,55.21,41.96,New
+ORD11547,2024-07-09,South,Books,Tech Manual,2,12.98,0,25.96,14.92,11.04,Returning
+ORD11348,2024-07-09,East,Home & Kitchen,Blender,4,25.31,0,101.24,61.81,39.43,Returning
+ORD11247,2024-07-09,West,Home & Kitchen,Coffee Maker,5,125.61,0,628.05,348.6,279.45,Returning
+ORD11428,2024-07-10,North,Books,Tech Manual,1,10.49,0,10.49,5.87,4.62,Returning
+ORD11001,2024-07-10,South,Apparel,Wool Sweater,4,101.26,5,384.79,220.37,164.42,New
+ORD10027,2024-07-10,South,Books,Biography,3,33.9,0,101.7,49.37,52.33,Returning
+ORD10547,2024-07-10,South,Sports,Dumbbell Set,3,149.33,0,447.99,237.28,210.71,Returning
+ORD10342,2024-07-11,West,Home & Kitchen,Blender,1,70.8,0,70.8,44.13,26.67,New
+ORD11278,2024-07-11,South,Home & Kitchen,Coffee Maker,2,179.56,0,359.12,207.14,151.98,New
+ORD10497,2024-07-11,North,Apparel,Sneakers,3,19.64,10,53.03,32.13,20.9,New
+ORD10644,2024-07-12,East,Sports,Football,1,169.93,10,152.94,99.84,53.1,Returning
+ORD10301,2024-07-12,East,Home & Kitchen,Coffee Maker,5,165.49,0,827.45,493.67,333.78,New
+ORD10608,2024-07-12,South,Books,Biography,4,14.25,20,45.6,35.51,10.09,VIP
+ORD11462,2024-07-13,North,Books,Fiction Novel,1,9.18,0,9.18,5.56,3.62,Returning
+ORD11671,2024-07-13,South,Books,Self-Help Book,2,24.92,0,49.84,27.28,22.56,Returning
+ORD11157,2024-07-13,North,Apparel,Running Shoes,1,101.91,0,101.91,63.11,38.8,New
+ORD11997,2024-07-14,West,Home & Kitchen,Cookware Set,1,94.5,15,80.32,48.15,32.17,New
+ORD11795,2024-07-14,North,Books,Fiction Novel,3,21.24,0,63.72,40.19,23.53,Returning
+ORD10044,2024-07-14,South,Home & Kitchen,Coffee Maker,3,98.34,0,295.02,153.31,141.71,Returning
+ORD10141,2024-07-14,South,Home & Kitchen,Cookware Set,5,165.5,0,827.5,499.95,327.55,New
+ORD10894,2024-07-15,West,Books,Biography,5,25.25,0,126.25,62.5,63.75,Returning
+ORD11799,2024-07-15,North,Electronics,Smartwatch,3,162.65,0,487.95,229.34,258.61,New
+ORD10742,2024-07-15,West,Home & Kitchen,Coffee Maker,1,101.63,0,101.63,49.28,52.35,Returning
+ORD11501,2024-07-15,North,Electronics,Laptop Stand,3,781.47,0,2344.41,1413.71,930.7,New
+ORD11487,2024-07-16,West,Books,Cookbook,3,35.49,0,106.47,55.34,51.13,Returning
+ORD10568,2024-07-16,North,Home & Kitchen,Air Fryer,4,21.61,20,69.15,53.2,15.95,New
+ORD11213,2024-07-16,South,Electronics,Smartwatch,1,165.89,0,165.89,103.2,62.69,New
+ORD10859,2024-07-17,West,Electronics,Wireless Earbuds,5,370.01,0,1850.05,988.05,862.0,Returning
+ORD10623,2024-07-17,East,Home & Kitchen,Air Fryer,4,97.96,5,372.25,249.52,122.73,New
+ORD10119,2024-07-18,North,Apparel,Sneakers,5,93.49,5,444.08,256.11,187.97,New
+ORD10290,2024-07-19,South,Sports,Resistance Bands,4,102.69,20,328.61,208.54,120.07,VIP
+ORD11170,2024-07-19,East,Electronics,Laptop Stand,3,634.01,15,1616.73,905.69,711.04,New
+ORD10268,2024-07-19,North,Sports,Resistance Bands,1,125.81,5,119.52,73.45,46.07,VIP
+ORD10912,2024-07-19,South,Books,Tech Manual,1,35.24,0,35.24,21.35,13.89,Returning
+ORD11946,2024-07-19,South,Home & Kitchen,Vacuum Cleaner,2,204.85,5,389.22,251.32,137.9,New
+ORD10488,2024-07-19,West,Home & Kitchen,Air Fryer,1,233.64,0,233.64,142.84,90.8,Returning
+ORD11165,2024-07-19,West,Apparel,Denim Jacket,1,18.76,0,18.76,11.17,7.59,New
+ORD10428,2024-07-19,East,Electronics,Laptop Stand,5,161.87,0,809.35,442.42,366.93,Returning
+ORD10363,2024-07-20,North,Home & Kitchen,Air Fryer,2,245.48,0,490.96,316.24,174.72,New
+ORD10979,2024-07-20,East,Apparel,Cotton T-Shirt,2,54.81,0,109.62,54.92,54.7,Returning
+ORD11271,2024-07-20,North,Books,Self-Help Book,3,33.48,0,100.44,59.35,41.09,New
+ORD11841,2024-07-20,North,Home & Kitchen,Blender,3,93.09,0,279.27,142.84,136.43,VIP
+ORD11707,2024-07-20,North,Home & Kitchen,Vacuum Cleaner,3,170.32,0,510.96,299.27,211.69,VIP
+ORD11188,2024-07-20,South,Sports,Dumbbell Set,4,45.75,0,183.0,106.76,76.24,Returning
+ORD10860,2024-07-21,West,Home & Kitchen,Air Fryer,5,220.6,0,1103.0,518.67,584.33,New
+ORD11806,2024-07-21,West,Books,Fiction Novel,5,28.88,0,144.4,82.58,61.82,Returning
+ORD11789,2024-07-21,East,Books,Cookbook,4,26.84,0,107.36,62.65,44.71,Returning
+ORD11286,2024-07-21,North,Books,Self-Help Book,1,18.78,0,18.78,9.19,9.59,Returning
+ORD11294,2024-07-22,East,Sports,Cycling Helmet,2,127.13,0,254.26,140.17,114.09,New
+ORD10364,2024-07-22,North,Electronics,4K Monitor,4,292.36,0,1169.44,667.86,501.58,New
+ORD10638,2024-07-22,North,Sports,Resistance Bands,1,25.31,10,22.78,11.69,11.09,Returning
+ORD10752,2024-07-23,South,Sports,Resistance Bands,4,66.34,0,265.36,153.79,111.57,Returning
+ORD10825,2024-07-23,South,Sports,Cycling Helmet,4,53.9,10,194.04,113.5,80.54,Returning
+ORD11545,2024-07-23,North,Sports,Football,5,72.35,5,343.66,224.24,119.42,New
+ORD10326,2024-07-23,South,Apparel,Sneakers,2,35.11,5,66.71,38.25,28.46,Returning
+ORD10396,2024-07-24,West,Apparel,Denim Jacket,3,45.33,0,135.99,63.06,72.93,New
+ORD10494,2024-07-24,West,Home & Kitchen,Vacuum Cleaner,4,43.79,5,166.4,78.82,87.58,New
+ORD11586,2024-07-24,East,Electronics,Smartwatch,3,549.39,0,1648.17,814.17,834.0,New
+ORD10170,2024-07-24,North,Books,Tech Manual,1,8.54,0,8.54,4.52,4.02,Returning
+ORD11007,2024-07-25,South,Sports,Resistance Bands,3,98.27,5,280.07,144.86,135.21,New
+ORD10261,2024-07-25,South,Sports,Football,1,176.17,10,158.55,111.24,47.31,New
+ORD10914,2024-07-26,North,Books,Tech Manual,1,25.01,5,23.76,15.44,8.32,Returning
+ORD11266,2024-07-26,West,Home & Kitchen,Air Fryer,2,134.44,5,255.44,142.34,113.1,New
+ORD11095,2024-07-27,West,Books,Cookbook,1,22.17,0,22.17,12.01,10.16,Returning
+ORD10559,2024-07-27,West,Books,Fiction Novel,3,10.53,0,31.59,19.71,11.88,Returning
+ORD11773,2024-07-27,North,Apparel,Sneakers,1,65.44,10,58.9,36.98,21.92,New
+ORD10546,2024-07-27,South,Books,Fiction Novel,4,11.08,0,44.32,28.5,15.82,New
+ORD11381,2024-07-27,South,Electronics,Laptop Stand,5,291.11,10,1310.0,738.45,571.55,New
+ORD11463,2024-07-27,East,Electronics,Laptop Stand,4,550.13,20,1760.42,1326.21,434.21,New
+ORD11365,2024-07-27,South,Books,Cookbook,5,9.68,0,48.4,29.83,18.57,Returning
+ORD10443,2024-07-28,East,Sports,Football,2,198.17,0,396.34,221.24,175.1,VIP
+ORD11953,2024-07-28,East,Apparel,Running Shoes,4,78.32,0,313.28,163.53,149.75,Returning
+ORD10665,2024-07-28,West,Electronics,Bluetooth Speaker,3,479.35,0,1438.05,817.59,620.46,New
+ORD11050,2024-07-28,North,Sports,Football,2,89.66,0,179.32,97.79,81.53,New
+ORD10093,2024-07-28,West,Home & Kitchen,Coffee Maker,4,237.88,15,808.79,431.63,377.16,Returning
+ORD11680,2024-07-29,West,Home & Kitchen,Air Fryer,4,165.45,0,661.8,356.32,305.48,Returning
+ORD11688,2024-07-29,South,Apparel,Cotton T-Shirt,2,41.79,0,83.58,44.46,39.12,VIP
+ORD10575,2024-07-29,West,Electronics,Laptop Stand,5,647.52,0,3237.6,1724.68,1512.92,New
+ORD11721,2024-07-31,North,Electronics,Wireless Earbuds,5,553.75,0,2768.75,1250.85,1517.9,New
+ORD11824,2024-08-01,North,Apparel,Wool Sweater,2,97.47,0,194.94,117.05,77.89,New
+ORD10152,2024-08-01,North,Books,Fiction Novel,1,39.4,0,39.4,18.88,20.52,Returning
+ORD11908,2024-08-01,East,Books,Biography,4,26.79,0,107.16,48.33,58.83,VIP
+ORD10679,2024-08-02,North,Apparel,Denim Jacket,1,118.23,0,118.23,64.03,54.2,Returning
+ORD10550,2024-08-02,West,Apparel,Denim Jacket,1,94.11,15,79.99,48.53,31.46,VIP
+ORD10672,2024-08-03,North,Sports,Resistance Bands,1,75.45,0,75.45,40.6,34.85,VIP
+ORD11507,2024-08-03,North,Apparel,Wool Sweater,2,28.13,5,53.45,33.72,19.73,New
+ORD10200,2024-08-03,North,Electronics,Smartwatch,5,554.8,0,2774.0,1648.54,1125.46,Returning
+ORD10702,2024-08-03,South,Electronics,Smartwatch,2,837.57,0,1675.14,994.8,680.34,Returning
+ORD11930,2024-08-04,East,Apparel,Cotton T-Shirt,5,43.24,0,216.2,123.31,92.89,Returning
+ORD10052,2024-08-04,East,Books,Fiction Novel,1,40.21,15,34.18,20.91,13.27,Returning
+ORD11386,2024-08-04,North,Books,Cookbook,2,41.14,0,82.28,40.6,41.68,New
+ORD10669,2024-08-04,North,Apparel,Denim Jacket,3,36.91,0,110.73,55.21,55.52,VIP
+ORD10645,2024-08-04,North,Sports,Resistance Bands,4,24.56,10,88.42,50.41,38.01,New
+ORD11115,2024-08-05,East,Electronics,Wireless Earbuds,3,638.4,0,1915.2,1176.78,738.42,New
+ORD11320,2024-08-05,South,Apparel,Running Shoes,4,39.44,20,126.21,96.08,30.13,New
+ORD10039,2024-08-05,North,Books,Fiction Novel,4,17.46,0,69.84,42.7,27.14,Returning
+ORD11112,2024-08-06,East,Apparel,Wool Sweater,2,33.06,20,52.9,42.68,10.22,New
+ORD11258,2024-08-06,East,Electronics,Bluetooth Speaker,4,269.46,0,1077.84,500.78,577.06,Returning
+ORD11197,2024-08-07,North,Electronics,4K Monitor,3,819.6,0,2458.8,1259.49,1199.31,New
+ORD10400,2024-08-07,East,Sports,Resistance Bands,4,86.52,0,346.08,166.72,179.36,New
+ORD10775,2024-08-07,North,Home & Kitchen,Blender,3,28.27,10,76.33,52.66,23.67,VIP
+ORD11473,2024-08-07,West,Electronics,Wireless Earbuds,2,798.54,10,1437.37,735.23,702.14,New
+ORD11225,2024-08-07,North,Books,Fiction Novel,4,7.16,0,28.64,17.35,11.29,Returning
+ORD11002,2024-08-08,West,Books,Cookbook,3,34.85,10,94.1,67.05,27.05,VIP
+ORD11268,2024-08-08,South,Apparel,Running Shoes,3,94.11,0,282.33,141.52,140.81,Returning
+ORD10478,2024-08-08,North,Sports,Resistance Bands,2,77.44,0,154.88,80.14,74.74,New
+ORD10955,2024-08-08,North,Home & Kitchen,Cookware Set,2,189.15,5,359.38,177.95,181.43,VIP
+ORD10861,2024-08-08,North,Electronics,4K Monitor,5,248.67,20,994.68,586.87,407.81,VIP
+ORD11482,2024-08-08,East,Books,Fiction Novel,5,33.04,0,165.2,93.19,72.01,New
+ORD11573,2024-08-08,West,Electronics,Wireless Earbuds,5,800.97,0,4004.85,2139.89,1864.96,New
+ORD11113,2024-08-08,West,Home & Kitchen,Air Fryer,5,121.48,0,607.4,391.9,215.5,Returning
+ORD10849,2024-08-09,North,Books,Tech Manual,3,24.67,0,74.01,34.34,39.67,Returning
+ORD11048,2024-08-09,South,Books,Fiction Novel,4,16.14,0,64.56,33.04,31.52,VIP
+ORD11709,2024-08-09,North,Books,Biography,2,5.89,0,11.78,6.27,5.51,VIP
+ORD11206,2024-08-09,South,Apparel,Denim Jacket,1,28.44,0,28.44,15.6,12.84,Returning
+ORD10102,2024-08-09,North,Apparel,Denim Jacket,4,67.68,0,270.72,130.23,140.49,Returning
+ORD11714,2024-08-10,West,Sports,Dumbbell Set,1,28.99,0,28.99,17.57,11.42,VIP
+ORD10080,2024-08-10,West,Apparel,Cotton T-Shirt,5,12.01,20,48.04,33.94,14.1,VIP
+ORD10758,2024-08-10,South,Electronics,Smartwatch,5,502.35,0,2511.75,1160.48,1351.27,Returning
+ORD11529,2024-08-11,West,Books,Biography,3,22.08,0,66.24,31.72,34.52,Returning
+ORD11813,2024-08-11,North,Home & Kitchen,Coffee Maker,5,95.15,0,475.75,230.82,244.93,New
+ORD10429,2024-08-11,West,Electronics,Bluetooth Speaker,4,749.79,0,2999.16,1467.44,1531.72,New
+ORD11578,2024-08-12,South,Home & Kitchen,Coffee Maker,1,220.29,0,220.29,130.68,89.61,New
+ORD10659,2024-08-12,South,Home & Kitchen,Coffee Maker,4,119.36,10,429.7,270.71,158.99,New
+ORD10617,2024-08-13,South,Books,Biography,3,20.52,0,61.56,39.29,22.27,Returning
+ORD11796,2024-08-14,North,Electronics,Wireless Earbuds,3,808.38,0,2425.14,1402.55,1022.59,New
+ORD11440,2024-08-14,South,Electronics,Smartwatch,3,201.2,0,603.6,359.02,244.58,VIP
+ORD11000,2024-08-14,South,Electronics,Smartwatch,2,585.55,0,1171.1,606.79,564.31,New
+ORD11164,2024-08-14,West,Home & Kitchen,Vacuum Cleaner,4,234.13,0,936.52,529.17,407.35,Returning
+ORD10240,2024-08-15,West,Home & Kitchen,Coffee Maker,4,214.3,0,857.2,396.48,460.72,New
+ORD11752,2024-08-15,East,Apparel,Denim Jacket,3,96.83,0,290.49,152.3,138.19,VIP
+ORD11890,2024-08-15,West,Books,Biography,4,15.93,10,57.35,32.49,24.86,Returning
+ORD11306,2024-08-15,East,Electronics,Laptop Stand,3,210.64,15,537.13,334.26,202.87,Returning
+ORD10165,2024-08-16,East,Electronics,Bluetooth Speaker,4,384.11,0,1536.44,872.21,664.23,New
+ORD10583,2024-08-16,North,Electronics,4K Monitor,1,559.12,0,559.12,296.03,263.09,Returning
+ORD11208,2024-08-17,East,Apparel,Sneakers,2,26.0,10,46.8,27.92,18.88,Returning
+ORD10819,2024-08-17,South,Books,Self-Help Book,1,39.24,0,39.24,23.69,15.55,New
+ORD11245,2024-08-17,South,Home & Kitchen,Blender,3,135.17,0,405.51,210.35,195.16,Returning
+ORD10938,2024-08-19,West,Apparel,Cotton T-Shirt,2,24.88,0,49.76,24.35,25.41,New
+ORD10606,2024-08-19,South,Home & Kitchen,Coffee Maker,2,127.24,0,254.48,120.52,133.96,Returning
+ORD11011,2024-08-19,East,Apparel,Running Shoes,4,12.48,0,49.92,29.22,20.7,Returning
+ORD10727,2024-08-19,East,Home & Kitchen,Blender,2,228.36,0,456.72,216.81,239.91,New
+ORD10709,2024-08-19,West,Apparel,Denim Jacket,2,39.57,5,75.18,38.14,37.04,New
+ORD11346,2024-08-19,East,Home & Kitchen,Cookware Set,5,182.64,0,913.2,566.76,346.44,New
+ORD10440,2024-08-20,East,Home & Kitchen,Vacuum Cleaner,3,192.37,0,577.11,308.01,269.1,New
+ORD10307,2024-08-20,North,Apparel,Cotton T-Shirt,5,12.42,10,55.89,28.36,27.53,New
+ORD11926,2024-08-20,West,Electronics,Bluetooth Speaker,4,432.75,0,1731.0,1093.48,637.52,New
+ORD11107,2024-08-20,North,Books,Biography,1,42.72,15,36.31,24.44,11.87,Returning
+ORD11837,2024-08-20,East,Electronics,Smartwatch,2,467.56,10,841.61,593.32,248.29,Returning
+ORD11820,2024-08-20,West,Apparel,Wool Sweater,3,117.42,0,352.26,228.17,124.09,Returning
+ORD10982,2024-08-21,North,Books,Cookbook,2,18.67,0,37.34,22.49,14.85,VIP
+ORD10774,2024-08-21,South,Books,Tech Manual,1,40.65,0,40.65,19.93,20.72,Returning
+ORD11645,2024-08-21,West,Electronics,Laptop Stand,2,742.99,15,1263.08,756.96,506.12,New
+ORD11305,2024-08-22,West,Home & Kitchen,Blender,3,209.92,15,535.3,305.0,230.3,VIP
+ORD10729,2024-08-22,West,Sports,Dumbbell Set,5,112.69,0,563.45,343.96,219.49,VIP
+ORD11915,2024-08-22,South,Home & Kitchen,Air Fryer,2,170.17,5,323.32,212.76,110.56,New
+ORD10386,2024-08-22,East,Sports,Dumbbell Set,1,69.91,0,69.91,43.79,26.12,Returning
+ORD11111,2024-08-22,North,Apparel,Running Shoes,4,50.46,5,191.75,105.76,85.99,Returning
+ORD11602,2024-08-23,West,Sports,Cycling Helmet,5,175.91,10,791.6,441.97,349.63,Returning
+ORD10431,2024-08-24,South,Apparel,Wool Sweater,3,28.18,0,84.54,53.31,31.23,New
+ORD10109,2024-08-24,North,Apparel,Running Shoes,1,63.33,0,63.33,31.26,32.07,New
+ORD11030,2024-08-24,North,Apparel,Denim Jacket,1,34.36,0,34.36,21.02,13.34,New
+ORD10251,2024-08-25,South,Electronics,Laptop Stand,1,357.33,0,357.33,172.09,185.24,Returning
+ORD11412,2024-08-25,East,Books,Tech Manual,2,16.62,0,33.24,15.24,18.0,New
+ORD11719,2024-08-25,North,Apparel,Sneakers,1,57.57,0,57.57,32.29,25.28,New
+ORD11794,2024-08-26,South,Electronics,Smartwatch,4,729.85,10,2627.46,1690.82,936.64,New
+ORD11879,2024-08-26,West,Apparel,Running Shoes,4,39.8,5,151.24,84.55,66.69,New
+ORD11898,2024-08-26,South,Electronics,4K Monitor,3,407.2,0,1221.6,617.37,604.23,Returning
+ORD11781,2024-08-26,East,Sports,Resistance Bands,4,109.19,5,414.92,202.28,212.64,Returning
+ORD11889,2024-08-27,East,Electronics,Wireless Earbuds,2,659.76,0,1319.52,822.85,496.67,New
+ORD11646,2024-08-28,East,Electronics,Wireless Earbuds,5,681.84,15,2897.82,1706.53,1191.29,New
+ORD10956,2024-08-28,South,Sports,Football,3,62.61,0,187.83,92.83,95.0,Returning
+ORD10942,2024-08-28,South,Apparel,Cotton T-Shirt,5,113.95,0,569.75,347.73,222.02,Returning
+ORD11384,2024-08-28,South,Books,Fiction Novel,4,37.47,0,149.88,75.17,74.71,Returning
+ORD10213,2024-08-29,East,Electronics,Wireless Earbuds,5,756.66,0,3783.3,2384.81,1398.49,New
+ORD10735,2024-08-30,South,Apparel,Cotton T-Shirt,2,16.15,0,32.3,16.92,15.38,New
+ORD11490,2024-08-30,East,Home & Kitchen,Blender,5,213.2,10,959.4,628.88,330.52,Returning
+ORD11177,2024-08-31,West,Home & Kitchen,Vacuum Cleaner,5,55.53,10,249.88,165.39,84.49,VIP
+ORD10115,2024-08-31,East,Electronics,Smartwatch,4,173.39,0,693.56,380.95,312.61,New
+ORD11872,2024-08-31,East,Home & Kitchen,Air Fryer,3,162.35,15,413.99,238.44,175.55,Returning
+ORD11960,2024-08-31,West,Books,Biography,4,21.42,0,85.68,53.62,32.06,Returning
+ORD11281,2024-08-31,West,Electronics,4K Monitor,2,161.52,5,306.89,155.32,151.57,Returning
+ORD11054,2024-09-01,East,Home & Kitchen,Vacuum Cleaner,5,29.63,0,148.15,83.66,64.49,New
+ORD11638,2024-09-01,East,Apparel,Wool Sweater,2,44.57,0,89.14,44.03,45.11,New
+ORD10934,2024-09-01,West,Books,Cookbook,2,27.67,0,55.34,35.19,20.15,VIP
+ORD11010,2024-09-01,West,Books,Tech Manual,1,41.06,0,41.06,22.06,19.0,New
+ORD11298,2024-09-02,North,Books,Self-Help Book,2,39.22,10,70.6,43.63,26.97,Returning
+ORD10829,2024-09-02,West,Apparel,Sneakers,3,42.21,0,126.63,81.14,45.49,New
+ORD11931,2024-09-02,East,Home & Kitchen,Coffee Maker,3,208.9,0,626.7,363.43,263.27,New
+ORD11550,2024-09-02,West,Electronics,Laptop Stand,2,168.49,0,336.98,159.07,177.91,New
+ORD11364,2024-09-02,North,Sports,Yoga Mat,2,196.19,20,313.9,210.02,103.88,VIP
+ORD10496,2024-09-03,West,Home & Kitchen,Vacuum Cleaner,3,247.43,0,742.29,354.52,387.77,Returning
+ORD11228,2024-09-03,East,Apparel,Cotton T-Shirt,4,44.83,0,179.32,93.57,85.75,VIP
+ORD11611,2024-09-03,South,Sports,Dumbbell Set,3,165.75,0,497.25,226.98,270.27,Returning
+ORD11535,2024-09-03,North,Sports,Resistance Bands,5,150.03,0,750.15,346.84,403.31,New
+ORD11120,2024-09-04,North,Home & Kitchen,Coffee Maker,5,146.3,0,731.5,330.36,401.14,New
+ORD10892,2024-09-04,South,Home & Kitchen,Cookware Set,4,51.8,0,207.2,118.07,89.13,VIP
+ORD10196,2024-09-04,West,Books,Biography,5,43.97,5,208.86,135.96,72.9,Returning
+ORD11785,2024-09-05,North,Books,Self-Help Book,4,21.75,0,87.0,50.87,36.13,New
+ORD11187,2024-09-05,North,Books,Biography,4,15.79,0,63.16,36.92,26.24,Returning
+ORD10072,2024-09-05,South,Home & Kitchen,Air Fryer,5,135.79,0,678.95,398.92,280.03,Returning
+ORD11514,2024-09-05,North,Sports,Cycling Helmet,2,57.11,0,114.22,54.1,60.12,Returning
+ORD11624,2024-09-05,South,Home & Kitchen,Blender,1,167.12,0,167.12,81.85,85.27,VIP
+ORD10976,2024-09-05,East,Electronics,Wireless Earbuds,5,697.89,0,3489.45,1726.45,1763.0,New
+ORD11561,2024-09-06,West,Home & Kitchen,Coffee Maker,4,179.32,0,717.28,392.21,325.07,New
+ORD10936,2024-09-06,South,Books,Fiction Novel,1,23.84,0,23.84,11.36,12.48,Returning
+ORD10448,2024-09-06,West,Books,Tech Manual,5,26.26,0,131.3,78.36,52.94,New
+ORD10277,2024-09-06,East,Sports,Resistance Bands,5,72.23,5,343.09,224.84,118.25,Returning
+ORD11893,2024-09-06,South,Home & Kitchen,Air Fryer,4,227.96,0,911.84,493.94,417.9,VIP
+ORD11599,2024-09-06,South,Electronics,Smartwatch,4,458.01,0,1832.04,1078.73,753.31,Returning
+ORD10704,2024-09-07,South,Home & Kitchen,Air Fryer,1,163.28,0,163.28,88.77,74.51,New
+ORD10391,2024-09-07,North,Electronics,4K Monitor,1,732.37,10,659.13,411.69,247.44,Returning
+ORD11895,2024-09-07,North,Sports,Dumbbell Set,2,186.19,0,372.38,170.18,202.2,New
+ORD11363,2024-09-07,West,Sports,Dumbbell Set,1,29.73,0,29.73,16.2,13.53,New
+ORD11701,2024-09-08,South,Books,Biography,4,37.69,0,150.76,92.92,57.84,New
+ORD11750,2024-09-08,North,Sports,Cycling Helmet,2,87.19,10,156.94,106.08,50.86,New
+ORD10319,2024-09-08,West,Sports,Resistance Bands,1,141.21,10,127.09,82.38,44.71,New
+ORD10822,2024-09-09,South,Home & Kitchen,Coffee Maker,2,204.35,0,408.7,187.0,221.7,New
+ORD10971,2024-09-09,West,Books,Biography,5,32.26,0,161.3,89.97,71.33,VIP
+ORD10474,2024-09-09,East,Sports,Football,3,90.94,10,245.54,136.92,108.62,New
+ORD10073,2024-09-09,South,Apparel,Sneakers,4,10.29,10,37.04,22.94,14.1,VIP
+ORD10531,2024-09-09,East,Sports,Football,3,122.0,0,366.0,234.77,131.23,New
+ORD10023,2024-09-10,West,Sports,Cycling Helmet,4,188.09,10,677.12,353.83,323.29,New
+ORD11835,2024-09-10,North,Home & Kitchen,Air Fryer,4,93.39,0,373.56,229.8,143.76,VIP
+ORD10347,2024-09-10,South,Electronics,4K Monitor,5,361.85,0,1809.25,1006.67,802.58,Returning
+ORD10762,2024-09-10,North,Apparel,Wool Sweater,1,104.26,0,104.26,65.13,39.13,New
+ORD10966,2024-09-10,West,Apparel,Sneakers,2,110.48,0,220.96,110.37,110.59,New
+ORD11567,2024-09-10,North,Sports,Dumbbell Set,4,175.36,0,701.44,396.16,305.28,New
+ORD10925,2024-09-11,South,Electronics,Laptop Stand,1,268.71,10,241.84,134.2,107.64,New
+ORD10949,2024-09-11,East,Home & Kitchen,Cookware Set,2,59.42,5,112.9,74.39,38.51,VIP
+ORD11022,2024-09-11,West,Apparel,Cotton T-Shirt,2,69.62,0,139.24,73.61,65.63,New
+ORD11814,2024-09-11,East,Sports,Dumbbell Set,2,16.95,0,33.9,16.71,17.19,Returning
+ORD10514,2024-09-11,South,Sports,Football,2,168.3,0,336.6,159.84,176.76,VIP
+ORD10717,2024-09-12,East,Home & Kitchen,Cookware Set,2,145.64,0,291.28,146.38,144.9,New
+ORD11024,2024-09-12,North,Sports,Dumbbell Set,3,44.35,10,119.75,81.28,38.47,New
+ORD11660,2024-09-12,East,Books,Biography,3,23.04,15,58.75,31.77,26.98,Returning
+ORD10997,2024-09-12,East,Sports,Dumbbell Set,3,134.62,10,363.47,249.05,114.42,Returning
+ORD11402,2024-09-13,West,Books,Cookbook,1,35.74,0,35.74,17.24,18.5,New
+ORD10869,2024-09-13,West,Electronics,Laptop Stand,1,691.78,0,691.78,446.65,245.13,New
+ORD11963,2024-09-13,North,Electronics,Laptop Stand,4,686.04,5,2606.95,1394.52,1212.43,Returning
+ORD11393,2024-09-13,West,Apparel,Cotton T-Shirt,1,12.33,10,11.1,6.53,4.57,VIP
+ORD10867,2024-09-13,North,Home & Kitchen,Coffee Maker,5,221.25,0,1106.25,643.62,462.63,VIP
+ORD10747,2024-09-14,West,Apparel,Cotton T-Shirt,5,43.34,15,184.2,100.36,83.84,VIP
+ORD11267,2024-09-14,South,Sports,Dumbbell Set,5,122.14,0,610.7,392.0,218.7,New
+ORD11644,2024-09-15,North,Sports,Resistance Bands,4,120.12,10,432.43,300.72,131.71,Returning
+ORD11025,2024-09-15,North,Home & Kitchen,Air Fryer,3,203.43,10,549.26,348.03,201.23,Returning
+ORD11906,2024-09-15,North,Books,Biography,1,18.39,0,18.39,11.07,7.32,Returning
+ORD11362,2024-09-15,North,Apparel,Running Shoes,2,51.33,0,102.66,51.54,51.12,Returning
+ORD11060,2024-09-16,North,Sports,Dumbbell Set,4,16.35,0,65.4,32.99,32.41,New
+ORD10688,2024-09-16,North,Home & Kitchen,Air Fryer,2,79.15,0,158.3,75.86,82.44,Returning
+ORD11401,2024-09-16,East,Sports,Resistance Bands,2,144.29,0,288.58,180.59,107.99,New
+ORD10505,2024-09-16,North,Electronics,4K Monitor,1,676.58,20,541.26,406.79,134.47,New
+ORD10415,2024-09-16,East,Electronics,Wireless Earbuds,3,202.35,5,576.7,297.96,278.74,New
+ORD11699,2024-09-16,West,Home & Kitchen,Blender,5,137.25,0,686.25,425.65,260.6,VIP
+ORD10913,2024-09-16,North,Apparel,Cotton T-Shirt,3,99.35,10,268.24,177.12,91.12,New
+ORD10885,2024-09-16,South,Sports,Dumbbell Set,4,135.83,0,543.32,324.28,219.04,Returning
+ORD11293,2024-09-17,North,Home & Kitchen,Vacuum Cleaner,5,106.24,0,531.2,298.19,233.01,New
+ORD10740,2024-09-17,South,Home & Kitchen,Vacuum Cleaner,4,179.28,0,717.12,361.13,355.99,New
+ORD11977,2024-09-17,South,Sports,Football,5,110.59,10,497.66,306.75,190.91,New
+ORD11887,2024-09-18,East,Home & Kitchen,Blender,4,76.29,0,305.16,163.87,141.29,Returning
+ORD11144,2024-09-18,West,Apparel,Wool Sweater,5,49.12,0,245.6,130.02,115.58,Returning
+ORD11737,2024-09-18,East,Sports,Dumbbell Set,4,120.59,0,482.36,261.29,221.07,New
+ORD10370,2024-09-18,South,Electronics,Smartwatch,5,449.28,5,2134.08,1056.66,1077.42,VIP
+ORD10318,2024-09-19,South,Apparel,Running Shoes,5,97.59,0,487.95,291.51,196.44,New
+ORD11445,2024-09-19,South,Home & Kitchen,Air Fryer,4,239.46,0,957.84,476.33,481.51,VIP
+ORD10959,2024-09-19,West,Books,Cookbook,2,15.86,0,31.72,15.98,15.74,VIP
+ORD11771,2024-09-19,East,Home & Kitchen,Blender,1,71.56,5,67.98,43.63,24.35,Returning
+ORD11202,2024-09-19,East,Sports,Cycling Helmet,4,65.72,5,249.74,169.74,80.0,New
+ORD10670,2024-09-20,East,Books,Cookbook,5,30.24,10,136.08,81.29,54.79,Returning
+ORD11078,2024-09-20,North,Electronics,4K Monitor,1,625.57,0,625.57,334.66,290.91,New
+ORD10034,2024-09-20,North,Sports,Dumbbell Set,3,167.18,0,501.54,247.34,254.2,Returning
+ORD11056,2024-09-21,East,Home & Kitchen,Vacuum Cleaner,5,140.88,0,704.4,379.08,325.32,VIP
+ORD11505,2024-09-21,West,Electronics,Laptop Stand,1,582.33,5,553.21,285.54,267.67,VIP
+ORD10964,2024-09-21,East,Home & Kitchen,Coffee Maker,3,131.79,0,395.37,248.53,146.84,Returning
+ORD11857,2024-09-21,East,Books,Biography,3,34.77,0,104.31,52.02,52.29,Returning
+ORD10425,2024-09-22,North,Home & Kitchen,Blender,5,149.58,0,747.9,358.11,389.79,Returning
+ORD11848,2024-09-22,West,Home & Kitchen,Coffee Maker,5,160.52,0,802.6,465.95,336.65,New
+ORD10280,2024-09-22,South,Books,Fiction Novel,3,30.86,0,92.58,44.23,48.35,Returning
+ORD11583,2024-09-22,North,Home & Kitchen,Air Fryer,3,86.2,5,245.67,160.97,84.7,VIP
+ORD11391,2024-09-22,North,Home & Kitchen,Vacuum Cleaner,2,224.63,0,449.26,275.29,173.97,Returning
+ORD10295,2024-09-23,West,Books,Biography,3,41.28,15,105.26,67.08,38.18,New
+ORD10042,2024-09-24,South,Sports,Yoga Mat,3,99.78,10,269.41,192.25,77.16,New
+ORD11682,2024-09-24,West,Electronics,Smartwatch,4,387.56,0,1550.24,998.34,551.9,Returning
+ORD11174,2024-09-25,East,Home & Kitchen,Cookware Set,2,57.39,15,97.56,57.27,40.29,VIP
+ORD11640,2024-09-25,South,Apparel,Denim Jacket,5,82.25,0,411.25,192.87,218.38,Returning
+ORD11584,2024-09-25,North,Electronics,Smartwatch,3,787.64,0,2362.92,1145.75,1217.17,VIP
+ORD10390,2024-09-25,East,Books,Tech Manual,2,22.56,0,45.12,28.39,16.73,New
+ORD11839,2024-09-25,East,Books,Tech Manual,2,10.78,15,18.33,11.42,6.91,New
+ORD10035,2024-09-25,East,Sports,Resistance Bands,3,50.96,5,145.24,90.65,54.59,VIP
+ORD11634,2024-09-25,West,Home & Kitchen,Blender,2,180.42,10,324.76,175.32,149.44,Returning
+ORD10006,2024-09-26,North,Home & Kitchen,Coffee Maker,2,123.44,10,222.19,127.22,94.97,Returning
+ORD11897,2024-09-26,West,Apparel,Running Shoes,1,51.98,0,51.98,30.54,21.44,New
+ORD10166,2024-09-26,East,Sports,Resistance Bands,3,58.85,10,158.9,95.29,63.61,New
+ORD11525,2024-09-26,North,Sports,Resistance Bands,1,115.4,0,115.4,67.88,47.52,New
+ORD11559,2024-09-27,North,Books,Biography,1,33.3,0,33.3,18.72,14.58,Returning
+ORD10427,2024-09-27,North,Electronics,Smartwatch,1,650.41,10,585.37,309.12,276.25,New
+ORD11968,2024-09-27,West,Books,Biography,3,32.89,10,88.8,49.09,39.71,Returning
+ORD10542,2024-09-28,West,Sports,Yoga Mat,2,72.13,15,122.62,81.0,41.62,New
+ORD11142,2024-09-28,West,Home & Kitchen,Air Fryer,2,43.55,0,87.1,51.62,35.48,New
+ORD10259,2024-09-28,East,Electronics,4K Monitor,3,754.65,5,2150.75,1161.37,989.38,New
+ORD10435,2024-09-28,West,Apparel,Sneakers,1,61.49,10,55.34,37.02,18.32,Returning
+ORD11620,2024-09-28,South,Electronics,Smartwatch,4,322.74,15,1097.32,821.96,275.36,New
+ORD11357,2024-09-29,North,Apparel,Sneakers,2,87.88,0,175.76,79.74,96.02,New
+ORD10507,2024-09-29,West,Books,Cookbook,3,8.07,5,23.0,11.45,11.55,New
+ORD11441,2024-09-29,East,Electronics,4K Monitor,2,723.17,0,1446.34,711.9,734.44,New
+ORD11537,2024-09-29,South,Sports,Dumbbell Set,4,175.32,20,561.02,363.2,197.82,New
+ORD10441,2024-09-29,North,Books,Cookbook,3,16.75,5,47.74,24.55,23.19,Returning
+ORD10334,2024-09-30,West,Apparel,Denim Jacket,4,67.48,0,269.92,125.41,144.51,Returning
+ORD10541,2024-09-30,East,Home & Kitchen,Air Fryer,2,38.76,10,69.77,41.09,28.68,New
+ORD11993,2024-09-30,South,Home & Kitchen,Coffee Maker,1,193.11,0,193.11,102.15,90.96,New
+ORD11875,2024-09-30,East,Sports,Dumbbell Set,3,67.77,5,193.14,116.78,76.36,Returning
+ORD10899,2024-10-01,South,Home & Kitchen,Vacuum Cleaner,1,110.55,10,99.5,71.62,27.88,Returning
+ORD11408,2024-10-01,South,Sports,Yoga Mat,1,166.37,5,158.05,90.51,67.54,New
+ORD11553,2024-10-01,East,Books,Cookbook,5,34.58,0,172.9,87.35,85.55,VIP
+ORD10609,2024-10-01,East,Electronics,Laptop Stand,2,786.14,0,1572.28,790.92,781.36,New
+ORD10433,2024-10-02,East,Electronics,4K Monitor,4,805.55,0,3222.2,1599.54,1622.66,New
+ORD11124,2024-10-02,South,Electronics,4K Monitor,5,898.95,10,4045.28,2762.37,1282.91,Returning
+ORD10650,2024-10-03,East,Sports,Cycling Helmet,2,91.06,0,182.12,117.52,64.6,New
+ORD10026,2024-10-03,East,Books,Cookbook,3,40.68,0,122.04,69.0,53.04,Returning
+ORD10257,2024-10-03,South,Books,Self-Help Book,4,37.77,0,151.08,70.62,80.46,New
+ORD11990,2024-10-03,North,Books,Fiction Novel,5,6.22,0,31.1,17.18,13.92,VIP
+ORD11110,2024-10-04,North,Apparel,Sneakers,2,29.75,0,59.5,30.96,28.54,New
+ORD11677,2024-10-04,West,Electronics,4K Monitor,1,397.76,0,397.76,218.13,179.63,Returning
+ORD10595,2024-10-04,West,Apparel,Denim Jacket,5,113.04,10,508.68,349.53,159.15,New
+ORD10968,2024-10-04,East,Home & Kitchen,Coffee Maker,3,90.2,0,270.6,161.84,108.76,New
+ORD11596,2024-10-05,West,Electronics,Smartwatch,2,792.82,0,1585.64,914.74,670.9,VIP
+ORD11152,2024-10-06,North,Electronics,Laptop Stand,2,336.97,5,640.24,430.64,209.6,Returning
+ORD11242,2024-10-06,North,Electronics,Laptop Stand,1,862.76,0,862.76,483.81,378.95,New
+ORD11684,2024-10-06,East,Apparel,Sneakers,4,101.24,0,404.96,205.11,199.85,Returning
+ORD10028,2024-10-06,West,Books,Tech Manual,4,40.34,0,161.36,90.45,70.91,New
+ORD11186,2024-10-06,West,Home & Kitchen,Air Fryer,5,175.74,5,834.76,446.27,388.49,Returning
+ORD11700,2024-10-07,South,Apparel,Wool Sweater,3,14.43,0,43.29,27.19,16.1,New
+ORD11812,2024-10-07,North,Apparel,Sneakers,3,92.61,0,277.83,134.43,143.4,Returning
+ORD10700,2024-10-08,North,Home & Kitchen,Cookware Set,2,100.9,5,191.71,120.63,71.08,Returning
+ORD10446,2024-10-08,West,Home & Kitchen,Blender,3,32.79,0,98.37,61.11,37.26,Returning
+ORD10975,2024-10-08,North,Apparel,Cotton T-Shirt,1,118.54,10,106.69,60.42,46.27,Returning
+ORD11896,2024-10-08,East,Apparel,Denim Jacket,2,45.71,0,91.42,52.63,38.79,New
+ORD10737,2024-10-09,North,Sports,Football,3,59.6,0,178.8,105.4,73.4,New
+ORD10272,2024-10-09,North,Electronics,Smartwatch,4,421.39,5,1601.28,851.82,749.46,New
+ORD11618,2024-10-09,North,Books,Fiction Novel,1,33.17,0,33.17,16.18,16.99,New
+ORD10014,2024-10-09,West,Home & Kitchen,Cookware Set,1,101.95,0,101.95,62.56,39.39,New
+ORD10553,2024-10-09,East,Sports,Cycling Helmet,5,176.51,0,882.55,435.58,446.97,VIP
+ORD11885,2024-10-09,West,Books,Self-Help Book,2,9.51,0,19.02,10.22,8.8,Returning
+ORD11631,2024-10-09,East,Sports,Resistance Bands,2,148.82,0,297.64,147.04,150.6,VIP
+ORD10605,2024-10-09,South,Sports,Yoga Mat,4,99.51,0,398.04,245.03,153.01,New
+ORD10252,2024-10-09,East,Sports,Dumbbell Set,3,73.6,0,220.8,142.79,78.01,New
+ORD10461,2024-10-10,North,Sports,Cycling Helmet,4,20.39,0,81.56,48.29,33.27,Returning
+ORD10745,2024-10-10,North,Apparel,Cotton T-Shirt,4,11.99,0,47.96,29.6,18.36,Returning
+ORD11877,2024-10-10,South,Apparel,Cotton T-Shirt,5,60.76,0,303.8,136.73,167.07,VIP
+ORD11804,2024-10-11,South,Books,Fiction Novel,5,11.52,0,57.6,30.75,26.85,New
+ORD11775,2024-10-11,North,Books,Self-Help Book,3,20.37,10,55.0,38.88,16.12,New
+ORD10821,2024-10-11,North,Electronics,Bluetooth Speaker,5,532.49,0,2662.45,1402.35,1260.1,VIP
+ORD10144,2024-10-11,South,Apparel,Cotton T-Shirt,2,85.16,0,170.32,80.13,90.19,VIP
+ORD11805,2024-10-11,East,Apparel,Denim Jacket,4,63.34,0,253.36,147.99,105.37,Returning
+ORD10569,2024-10-12,North,Electronics,Wireless Earbuds,3,252.77,0,758.31,489.49,268.82,New
+ORD11665,2024-10-13,East,Books,Self-Help Book,1,26.3,10,23.67,16.94,6.73,Returning
+ORD11571,2024-10-13,East,Home & Kitchen,Air Fryer,5,93.32,0,466.6,264.87,201.73,New
+ORD10205,2024-10-13,East,Books,Cookbook,4,29.78,0,119.12,72.2,46.92,New
+ORD11358,2024-10-13,East,Electronics,4K Monitor,4,183.3,0,733.2,331.55,401.65,New
+ORD11329,2024-10-13,North,Books,Fiction Novel,4,23.77,0,95.08,43.21,51.87,VIP
+ORD11425,2024-10-14,North,Sports,Dumbbell Set,2,91.97,0,183.94,92.39,91.55,New
+ORD11961,2024-10-14,West,Books,Self-Help Book,1,15.64,15,13.29,7.96,5.33,New
+ORD11959,2024-10-15,North,Apparel,Running Shoes,2,80.24,0,160.48,76.16,84.32,New
+ORD10244,2024-10-15,North,Books,Biography,1,21.72,10,19.55,10.27,9.28,Returning
+ORD10691,2024-10-15,East,Books,Tech Manual,1,44.1,0,44.1,20.73,23.37,New
+ORD10761,2024-10-15,East,Books,Tech Manual,1,38.33,5,36.41,24.84,11.57,Returning
+ORD10310,2024-10-16,East,Books,Cookbook,2,36.01,0,72.02,41.48,30.54,New
+ORD11622,2024-10-16,North,Home & Kitchen,Cookware Set,2,196.34,0,392.68,189.24,203.44,VIP
+ORD10771,2024-10-16,East,Home & Kitchen,Blender,3,168.93,0,506.79,291.1,215.69,Returning
+ORD10285,2024-10-16,South,Home & Kitchen,Blender,4,158.25,0,633.0,339.36,293.64,New
+ORD10511,2024-10-17,North,Home & Kitchen,Cookware Set,2,147.04,10,264.67,147.29,117.38,New
+ORD10495,2024-10-17,East,Electronics,Laptop Stand,5,340.86,20,1363.44,955.47,407.97,VIP
+ORD10092,2024-10-18,South,Books,Self-Help Book,3,5.49,5,15.65,9.38,6.27,Returning
+ORD11558,2024-10-18,North,Apparel,Wool Sweater,4,87.55,0,350.2,186.85,163.35,Returning
+ORD11041,2024-10-18,West,Electronics,Laptop Stand,5,668.63,15,2841.68,2008.34,833.34,New
+ORD10113,2024-10-18,South,Home & Kitchen,Cookware Set,1,240.48,0,240.48,111.5,128.98,Returning
+ORD11748,2024-10-19,West,Books,Fiction Novel,4,19.84,0,79.36,36.08,43.28,New
+ORD11064,2024-10-19,East,Books,Cookbook,1,9.42,0,9.42,5.19,4.23,Returning
+ORD11133,2024-10-20,East,Apparel,Denim Jacket,4,114.56,0,458.24,208.54,249.7,New
+ORD10376,2024-10-21,East,Apparel,Denim Jacket,5,57.02,0,285.1,149.3,135.8,New
+ORD11751,2024-10-21,North,Books,Self-Help Book,4,27.2,0,108.8,49.87,58.93,New
+ORD10087,2024-10-21,East,Sports,Yoga Mat,1,177.28,5,168.42,111.67,56.75,Returning
+ORD11421,2024-10-21,West,Apparel,Cotton T-Shirt,5,117.24,0,586.2,380.51,205.69,VIP
+ORD11745,2024-10-22,South,Home & Kitchen,Air Fryer,1,33.02,0,33.02,16.93,16.09,Returning
+ORD11131,2024-10-22,North,Apparel,Running Shoes,4,10.3,0,41.2,20.98,20.22,Returning
+ORD11414,2024-10-22,North,Home & Kitchen,Air Fryer,1,223.95,20,179.16,102.15,77.01,Returning
+ORD10116,2024-10-22,East,Home & Kitchen,Air Fryer,5,197.31,0,986.55,541.71,444.84,Returning
+ORD10778,2024-10-23,East,Sports,Cycling Helmet,5,29.8,10,134.1,94.65,39.45,VIP
+ORD10974,2024-10-23,West,Apparel,Cotton T-Shirt,2,115.91,0,231.82,108.55,123.27,VIP
+ORD11610,2024-10-23,North,Apparel,Running Shoes,5,104.17,5,494.81,308.58,186.23,New
+ORD11229,2024-10-23,North,Apparel,Cotton T-Shirt,2,50.48,0,100.96,50.19,50.77,VIP
+ORD11546,2024-10-24,East,Sports,Yoga Mat,2,92.84,0,185.68,103.38,82.3,Returning
+ORD10749,2024-10-24,East,Apparel,Running Shoes,1,88.5,0,88.5,42.35,46.15,Returning
+ORD10486,2024-10-24,East,Sports,Football,5,157.19,0,785.95,451.97,333.98,New
+ORD10981,2024-10-24,South,Sports,Dumbbell Set,2,119.12,20,190.59,145.53,45.06,VIP
+ORD10163,2024-10-24,East,Books,Fiction Novel,4,10.26,15,34.88,26.44,8.44,New
+ORD11023,2024-10-25,South,Sports,Dumbbell Set,2,66.93,0,133.86,77.89,55.97,New
+ORD11481,2024-10-25,East,Sports,Football,4,87.59,0,350.36,207.76,142.6,VIP
+ORD10800,2024-10-25,West,Sports,Yoga Mat,2,57.93,10,104.27,55.7,48.57,New
+ORD11325,2024-10-26,South,Apparel,Denim Jacket,3,104.68,0,314.04,199.62,114.42,VIP
+ORD10480,2024-10-26,North,Books,Biography,3,31.26,0,93.78,60.82,32.96,New
+ORD10837,2024-10-26,South,Apparel,Running Shoes,5,87.05,0,435.25,229.24,206.01,VIP
+ORD10884,2024-10-26,South,Apparel,Sneakers,3,85.67,0,257.01,147.33,109.68,New
+ORD10402,2024-10-26,South,Apparel,Cotton T-Shirt,5,30.39,0,151.95,85.33,66.62,Returning
+ORD11330,2024-10-27,East,Sports,Dumbbell Set,5,59.33,15,252.15,137.76,114.39,VIP
+ORD11720,2024-10-27,West,Sports,Resistance Bands,5,56.58,5,268.75,182.14,86.61,Returning
+ORD10369,2024-10-27,North,Sports,Dumbbell Set,5,84.11,0,420.55,210.54,210.01,Returning
+ORD11694,2024-10-27,North,Apparel,Wool Sweater,1,26.9,5,25.55,12.9,12.65,New
+ORD10591,2024-10-27,North,Electronics,Bluetooth Speaker,1,234.63,5,222.9,110.56,112.34,New
+ORD11675,2024-10-28,North,Home & Kitchen,Air Fryer,1,152.11,0,152.11,72.55,79.56,Returning
+ORD10753,2024-10-28,North,Apparel,Running Shoes,4,49.6,0,198.4,115.81,82.59,New
+ORD11195,2024-10-28,South,Sports,Yoga Mat,4,178.92,0,715.68,394.08,321.6,New
+ORD11580,2024-10-28,North,Sports,Dumbbell Set,1,150.82,0,150.82,89.05,61.77,New
+ORD11464,2024-10-29,North,Sports,Resistance Bands,1,83.71,0,83.71,39.67,44.04,Returning
+ORD11516,2024-10-29,East,Home & Kitchen,Blender,2,221.72,0,443.44,258.25,185.19,New
+ORD10065,2024-10-29,West,Sports,Resistance Bands,3,31.36,0,94.08,57.1,36.98,New
+ORD11422,2024-10-30,East,Books,Biography,3,39.26,0,117.78,56.07,61.71,Returning
+ORD11836,2024-10-30,North,Books,Cookbook,5,21.07,0,105.35,65.05,40.3,New
+ORD11734,2024-10-30,South,Apparel,Cotton T-Shirt,5,89.05,20,356.2,269.19,87.01,Returning
+ORD11809,2024-10-30,West,Home & Kitchen,Vacuum Cleaner,1,245.77,15,208.9,159.72,49.18,Returning
+ORD10180,2024-10-30,West,Sports,Resistance Bands,1,165.55,0,165.55,92.17,73.38,Returning
+ORD11274,2024-10-30,West,Sports,Football,2,27.64,0,55.28,33.83,21.45,VIP
+ORD10864,2024-11-01,North,Apparel,Denim Jacket,4,28.6,10,102.96,65.86,37.1,VIP
+ORD10560,2024-11-01,East,Sports,Resistance Bands,3,90.98,10,245.65,145.69,99.96,Returning
+ORD10921,2024-11-01,North,Books,Cookbook,2,32.81,0,65.62,31.86,33.76,New
+ORD10483,2024-11-01,South,Electronics,Bluetooth Speaker,4,567.14,5,2155.13,1234.53,920.6,New
+ORD10066,2024-11-01,East,Apparel,Cotton T-Shirt,4,109.35,20,349.92,231.14,118.78,Returning
+ORD11991,2024-11-02,East,Sports,Cycling Helmet,3,54.87,0,164.61,81.63,82.98,Returning
+ORD11326,2024-11-02,East,Books,Tech Manual,5,9.59,0,47.95,21.91,26.04,Returning
+ORD11160,2024-11-02,North,Electronics,Smartwatch,5,510.54,0,2552.7,1235.36,1317.34,New
+ORD11427,2024-11-03,North,Apparel,Sneakers,4,101.54,0,406.16,212.03,194.13,Returning
+ORD11308,2024-11-03,West,Apparel,Running Shoes,2,83.52,0,167.04,98.7,68.34,New
+ORD11593,2024-11-03,East,Electronics,Laptop Stand,2,526.28,0,1052.56,501.34,551.22,New
+ORD11004,2024-11-03,North,Apparel,Running Shoes,4,47.85,0,191.4,98.31,93.09,VIP
+ORD10620,2024-11-04,South,Sports,Dumbbell Set,3,163.34,5,465.52,313.39,152.13,New
+ORD10601,2024-11-04,South,Apparel,Running Shoes,1,76.27,0,76.27,46.73,29.54,Returning
+ORD10983,2024-11-04,South,Sports,Resistance Bands,5,112.45,0,562.25,342.15,220.1,Returning
+ORD11469,2024-11-04,South,Apparel,Wool Sweater,4,40.14,0,160.56,98.59,61.97,New
+ORD11706,2024-11-04,North,Home & Kitchen,Air Fryer,1,21.03,10,18.93,12.2,6.73,New
+ORD11182,2024-11-05,South,Apparel,Wool Sweater,1,71.42,0,71.42,40.42,31.0,Returning
+ORD10430,2024-11-05,West,Books,Cookbook,4,34.45,0,137.8,77.24,60.56,New
+ORD10681,2024-11-05,East,Sports,Resistance Bands,3,70.79,0,212.37,119.97,92.4,New
+ORD10129,2024-11-05,West,Home & Kitchen,Air Fryer,4,190.97,0,763.88,422.07,341.81,Returning
+ORD10993,2024-11-06,West,Home & Kitchen,Vacuum Cleaner,3,217.86,0,653.58,316.58,337.0,New
+ORD11035,2024-11-06,East,Home & Kitchen,Blender,2,237.85,0,475.7,219.78,255.92,New
+ORD10893,2024-11-07,West,Books,Tech Manual,4,11.81,10,42.52,26.02,16.5,Returning
+ORD11123,2024-11-07,South,Books,Tech Manual,5,28.93,0,144.65,81.96,62.69,Returning
+ORD11280,2024-11-07,South,Apparel,Running Shoes,3,31.47,10,84.97,53.43,31.54,Returning
+ORD11390,2024-11-08,West,Home & Kitchen,Coffee Maker,4,112.68,0,450.72,255.15,195.57,New
+ORD10738,2024-11-08,East,Home & Kitchen,Blender,1,166.89,15,141.86,95.49,46.37,VIP
+ORD10167,2024-11-08,East,Electronics,Wireless Earbuds,3,487.08,15,1242.05,706.54,535.51,New
+ORD10766,2024-11-09,South,Books,Biography,4,29.71,0,118.84,66.06,52.78,New
+ORD10258,2024-11-09,East,Apparel,Wool Sweater,3,109.59,0,328.77,176.58,152.19,Returning
+ORD11303,2024-11-10,North,Sports,Resistance Bands,3,20.92,0,62.76,40.41,22.35,New
+ORD10526,2024-11-10,South,Apparel,Sneakers,2,114.39,15,194.46,133.63,60.83,New
+ORD11074,2024-11-10,East,Electronics,Smartwatch,1,569.39,0,569.39,342.85,226.54,New
+ORD10058,2024-11-11,South,Sports,Resistance Bands,4,66.32,5,252.02,123.5,128.52,Returning
+ORD10809,2024-11-12,South,Electronics,Smartwatch,1,753.82,0,753.82,358.06,395.76,New
+ORD11077,2024-11-12,West,Books,Self-Help Book,2,16.26,0,32.52,19.31,13.21,Returning
+ORD10274,2024-11-13,North,Sports,Yoga Mat,5,77.69,0,388.45,178.25,210.2,New
+ORD10972,2024-11-13,North,Home & Kitchen,Vacuum Cleaner,3,181.81,0,545.43,247.87,297.56,VIP
+ORD10768,2024-11-13,North,Sports,Dumbbell Set,2,24.17,0,48.34,27.56,20.78,Returning
+ORD11635,2024-11-13,East,Books,Self-Help Book,1,39.53,0,39.53,22.3,17.23,VIP
+ORD11944,2024-11-14,West,Home & Kitchen,Coffee Maker,1,188.97,15,160.62,91.52,69.1,Returning
+ORD10963,2024-11-14,West,Sports,Dumbbell Set,3,59.56,0,178.68,89.34,89.34,Returning
+ORD11540,2024-11-15,West,Sports,Resistance Bands,2,181.39,10,326.5,186.89,139.61,Returning
+ORD10265,2024-11-15,South,Books,Tech Manual,1,7.73,0,7.73,3.92,3.81,Returning
+ORD11518,2024-11-17,North,Sports,Yoga Mat,3,144.17,5,410.88,228.48,182.4,New
+ORD11149,2024-11-17,West,Apparel,Wool Sweater,3,52.4,10,141.48,91.64,49.84,New
+ORD10984,2024-11-17,East,Home & Kitchen,Blender,2,183.34,5,348.35,189.42,158.93,New
+ORD11732,2024-11-18,North,Home & Kitchen,Cookware Set,2,110.66,0,221.32,141.13,80.19,VIP
+ORD11912,2024-11-18,East,Electronics,Bluetooth Speaker,3,817.73,20,1962.55,1335.65,626.9,New
+ORD10278,2024-11-19,North,Books,Fiction Novel,2,29.15,0,58.3,31.55,26.75,New
+ORD10779,2024-11-19,North,Electronics,Bluetooth Speaker,5,651.99,0,3259.95,1991.81,1268.14,New
+ORD11163,2024-11-19,East,Apparel,Sneakers,3,78.42,5,223.5,130.22,93.28,Returning
+ORD11044,2024-11-20,East,Home & Kitchen,Vacuum Cleaner,1,138.81,0,138.81,65.27,73.54,New
+ORD11521,2024-11-20,North,Electronics,Wireless Earbuds,4,252.8,10,910.08,624.32,285.76,Returning
+ORD10561,2024-11-20,South,Home & Kitchen,Coffee Maker,2,234.09,5,444.77,210.83,233.94,New
+ORD10628,2024-11-20,West,Sports,Yoga Mat,4,45.74,0,182.96,99.04,83.92,New
+ORD11405,2024-11-20,East,Home & Kitchen,Cookware Set,4,225.4,0,901.6,579.64,321.96,Returning
+ORD10140,2024-11-21,North,Home & Kitchen,Cookware Set,5,22.09,10,99.4,50.11,49.29,New
+ORD10367,2024-11-21,North,Apparel,Cotton T-Shirt,1,84.36,5,80.14,42.54,37.6,New
+ORD11717,2024-11-22,West,Electronics,Bluetooth Speaker,3,378.05,10,1020.74,683.14,337.6,New
+ORD10302,2024-11-22,East,Apparel,Cotton T-Shirt,2,32.07,10,57.73,29.43,28.3,New
+ORD11227,2024-11-23,South,Electronics,Smartwatch,5,771.7,20,3086.8,1812.46,1274.34,New
+ORD10698,2024-11-23,North,Electronics,Bluetooth Speaker,1,788.69,5,749.26,504.05,245.21,Returning
+ORD11093,2024-11-23,South,Sports,Cycling Helmet,1,166.79,0,166.79,84.58,82.21,New
+ORD11653,2024-11-25,West,Books,Cookbook,5,10.86,0,54.3,30.96,23.34,New
+ORD10988,2024-11-25,West,Sports,Dumbbell Set,5,34.97,0,174.85,93.46,81.39,Returning
+ORD10543,2024-11-25,East,Books,Biography,2,37.31,10,67.16,35.56,31.6,New
+ORD10694,2024-11-25,West,Home & Kitchen,Vacuum Cleaner,2,213.88,0,427.76,207.37,220.39,Returning
+ORD10767,2024-11-26,North,Apparel,Wool Sweater,5,13.57,0,67.85,36.38,31.47,Returning
+ORD10471,2024-11-26,West,Electronics,Smartwatch,2,844.85,15,1436.24,763.64,672.6,New
+ORD11935,2024-11-26,East,Sports,Dumbbell Set,5,114.41,0,572.05,344.91,227.14,Returning
+ORD10395,2024-11-28,East,Sports,Football,5,134.94,0,674.7,362.11,312.59,Returning
+ORD11031,2024-11-28,West,Home & Kitchen,Blender,2,159.5,10,287.1,178.42,108.68,New
+ORD11315,2024-11-28,South,Electronics,Bluetooth Speaker,4,461.78,0,1847.12,1056.0,791.12,VIP
+ORD10757,2024-11-28,East,Home & Kitchen,Coffee Maker,1,144.33,15,122.68,66.82,55.86,Returning
+ORD11264,2024-11-28,East,Home & Kitchen,Coffee Maker,5,129.0,0,645.0,409.37,235.63,New
+ORD10890,2024-11-28,West,Electronics,Wireless Earbuds,4,180.09,0,720.36,444.38,275.98,VIP
+ORD11058,2024-11-28,East,Apparel,Wool Sweater,2,81.4,15,138.38,76.47,61.91,New
+ORD10577,2024-11-29,South,Electronics,4K Monitor,2,255.9,0,511.8,308.92,202.88,Returning
+ORD10182,2024-11-29,North,Apparel,Cotton T-Shirt,5,16.63,0,83.15,41.69,41.46,Returning
+ORD11059,2024-11-29,West,Home & Kitchen,Blender,2,55.38,15,94.15,59.65,34.5,Returning
+ORD10657,2024-11-30,West,Apparel,Sneakers,2,43.45,10,78.21,53.61,24.6,Returning
+ORD11712,2024-11-30,East,Home & Kitchen,Coffee Maker,5,117.04,0,585.2,356.09,229.11,Returning
+ORD10181,2024-12-01,East,Home & Kitchen,Cookware Set,5,239.77,10,1078.97,754.8,324.17,Returning
+ORD11231,2024-12-01,East,Books,Fiction Novel,5,12.63,0,63.15,30.94,32.21,New
+ORD11493,2024-12-01,North,Apparel,Sneakers,3,49.65,0,148.95,79.7,69.25,VIP
+ORD10686,2024-12-02,West,Sports,Football,4,105.51,0,422.04,227.84,194.2,New
+ORD10879,2024-12-02,East,Home & Kitchen,Cookware Set,2,88.55,0,177.1,98.37,78.73,New
+ORD11311,2024-12-02,West,Apparel,Sneakers,3,38.29,0,114.87,58.92,55.95,Returning
+ORD10299,2024-12-02,East,Books,Cookbook,1,13.02,0,13.02,8.18,4.84,Returning
+ORD10151,2024-12-03,South,Books,Fiction Novel,2,5.46,5,10.37,6.22,4.15,Returning
+ORD10007,2024-12-03,East,Sports,Yoga Mat,5,192.82,0,964.1,546.98,417.12,Returning
+ORD11378,2024-12-04,West,Sports,Yoga Mat,1,70.8,0,70.8,44.11,26.69,New
+ORD10906,2024-12-04,West,Books,Cookbook,1,39.01,0,39.01,20.47,18.54,Returning
+ORD10411,2024-12-04,East,Apparel,Cotton T-Shirt,5,78.71,0,393.55,255.07,138.48,Returning
+ORD10126,2024-12-05,East,Sports,Yoga Mat,1,157.13,0,157.13,78.21,78.92,Returning
+ORD11576,2024-12-05,North,Apparel,Wool Sweater,3,34.17,0,102.51,49.62,52.89,Returning
+ORD10405,2024-12-05,West,Home & Kitchen,Vacuum Cleaner,4,207.44,0,829.76,497.5,332.26,Returning
+ORD11335,2024-12-05,North,Sports,Resistance Bands,2,75.51,0,151.02,92.71,58.31,Returning
+ORD10799,2024-12-05,North,Apparel,Running Shoes,1,54.7,10,49.23,31.85,17.38,Returning
+ORD11476,2024-12-06,North,Electronics,Wireless Earbuds,3,465.44,0,1396.32,674.51,721.81,Returning
+ORD10874,2024-12-06,North,Sports,Yoga Mat,3,49.85,0,149.55,68.79,80.76,New
+ORD11140,2024-12-06,North,Electronics,Smartwatch,2,356.35,5,677.06,440.26,236.8,VIP
+ORD10193,2024-12-07,North,Home & Kitchen,Blender,5,142.58,0,712.9,462.55,250.35,Returning
+ORD11976,2024-12-07,West,Apparel,Denim Jacket,2,11.92,5,22.65,11.88,10.77,New
+ORD11273,2024-12-07,North,Electronics,Wireless Earbuds,1,865.76,0,865.76,428.74,437.02,New
+ORD10671,2024-12-07,South,Electronics,Smartwatch,4,714.84,0,2859.36,1513.51,1345.85,VIP
+ORD10239,2024-12-07,South,Sports,Yoga Mat,4,191.97,0,767.88,383.48,384.4,New
+ORD11125,2024-12-07,North,Electronics,Wireless Earbuds,1,367.98,0,367.98,182.51,185.47,Returning
+ORD10111,2024-12-07,West,Electronics,Smartwatch,1,565.63,0,565.63,356.35,209.28,New
+ORD10562,2024-12-07,South,Books,Fiction Novel,1,21.75,0,21.75,13.02,8.73,Returning
+ORD11327,2024-12-07,West,Books,Fiction Novel,2,20.97,0,41.94,25.1,16.84,VIP
+ORD11233,2024-12-08,South,Apparel,Wool Sweater,2,96.5,20,154.4,91.73,62.67,VIP
+ORD10349,2024-12-08,North,Sports,Cycling Helmet,1,137.66,10,123.89,86.62,37.27,Returning
+ORD11471,2024-12-08,West,Sports,Cycling Helmet,2,35.83,5,68.08,34.09,33.99,New
+ORD11179,2024-12-09,North,Sports,Resistance Bands,4,106.82,0,427.28,228.41,198.87,Returning
+ORD11234,2024-12-09,East,Electronics,Smartwatch,1,772.14,0,772.14,348.7,423.44,New
+ORD10177,2024-12-09,West,Books,Fiction Novel,5,17.69,10,79.6,51.28,28.32,New
+ORD11716,2024-12-09,South,Electronics,Bluetooth Speaker,5,589.59,0,2947.95,1871.87,1076.08,Returning
+ORD10841,2024-12-10,North,Home & Kitchen,Air Fryer,1,124.68,0,124.68,69.08,55.6,VIP
+ORD10174,2024-12-10,South,Electronics,Smartwatch,1,801.68,0,801.68,469.23,332.45,Returning
+ORD11198,2024-12-11,East,Books,Tech Manual,1,44.73,0,44.73,24.33,20.4,Returning
+ORD10843,2024-12-11,North,Books,Self-Help Book,4,37.22,0,148.88,76.99,71.89,Returning
+ORD10667,2024-12-11,North,Electronics,Bluetooth Speaker,2,508.4,5,965.96,512.09,453.87,Returning
+ORD11517,2024-12-11,East,Home & Kitchen,Air Fryer,5,199.05,5,945.49,569.88,375.61,Returning
+ORD11810,2024-12-11,East,Home & Kitchen,Coffee Maker,1,46.14,10,41.53,25.29,16.24,Returning
+ORD10019,2024-12-11,North,Books,Cookbook,3,28.64,0,85.92,42.56,43.36,Returning
+ORD11103,2024-12-12,North,Sports,Resistance Bands,5,98.3,0,491.5,283.45,208.05,New
+ORD11658,2024-12-12,East,Electronics,Smartwatch,2,163.35,0,326.7,205.52,121.18,Returning
+ORD11984,2024-12-13,East,Apparel,Cotton T-Shirt,3,33.66,5,95.93,56.01,39.92,New
+ORD11168,2024-12-13,North,Books,Biography,4,6.65,15,22.61,15.48,7.13,New
+ORD10135,2024-12-14,West,Books,Fiction Novel,5,7.46,0,37.3,21.05,16.25,VIP
+ORD11312,2024-12-14,North,Home & Kitchen,Blender,3,220.03,20,528.07,349.22,178.85,VIP
+ORD11336,2024-12-14,East,Home & Kitchen,Vacuum Cleaner,3,230.56,0,691.68,364.35,327.33,New
+ORD10558,2024-12-14,North,Electronics,4K Monitor,4,881.83,0,3527.32,1898.17,1629.15,Returning
+ORD10432,2024-12-14,East,Electronics,Bluetooth Speaker,3,854.17,0,2562.51,1242.88,1319.63,Returning
+ORD10856,2024-12-14,South,Books,Fiction Novel,5,44.26,10,199.17,120.74,78.43,Returning
+ORD11243,2024-12-15,South,Sports,Cycling Helmet,3,114.22,5,325.53,174.27,151.26,New
+ORD11496,2024-12-15,West,Sports,Football,3,179.51,0,538.53,328.43,210.1,New
+ORD11409,2024-12-15,West,Apparel,Denim Jacket,5,84.05,0,420.25,245.19,175.06,New
+ORD11520,2024-12-15,East,Books,Fiction Novel,1,12.46,0,12.46,7.48,4.98,New
+ORD11097,2024-12-16,West,Electronics,Bluetooth Speaker,4,771.33,0,3085.32,1466.18,1619.14,VIP
+ORD11259,2024-12-16,South,Home & Kitchen,Air Fryer,2,91.25,0,182.5,90.56,91.94,New
+ORD10708,2024-12-16,East,Apparel,Denim Jacket,3,33.33,5,94.99,45.39,49.6,New
+ORD11332,2024-12-16,East,Sports,Dumbbell Set,2,118.91,0,237.82,120.04,117.78,New
+ORD10845,2024-12-16,North,Sports,Yoga Mat,4,185.8,0,743.2,422.51,320.69,New
+ORD10159,2024-12-17,North,Books,Cookbook,2,11.47,5,21.79,12.59,9.2,Returning
+ORD11834,2024-12-17,East,Electronics,Smartwatch,5,516.48,0,2582.4,1436.83,1145.57,VIP
+ORD10784,2024-12-18,East,Sports,Resistance Bands,3,83.54,10,225.56,156.58,68.98,VIP
+ORD11603,2024-12-18,South,Electronics,4K Monitor,5,356.96,0,1784.8,978.66,806.14,New
+ORD10970,2024-12-19,North,Books,Cookbook,5,42.34,0,211.7,121.03,90.67,Returning
+ORD11223,2024-12-19,West,Home & Kitchen,Coffee Maker,5,94.16,10,423.72,212.97,210.75,VIP
+ORD10335,2024-12-19,East,Home & Kitchen,Cookware Set,5,210.76,15,895.73,557.5,338.23,Returning
+ORD11689,2024-12-19,North,Sports,Dumbbell Set,3,169.01,10,456.33,229.73,226.6,VIP
+ORD10696,2024-12-19,East,Home & Kitchen,Cookware Set,2,114.52,0,229.04,109.68,119.36,New
+ORD10316,2024-12-20,West,Electronics,4K Monitor,4,523.93,10,1886.15,1030.63,855.52,Returning
+ORD10842,2024-12-20,East,Books,Cookbook,2,20.52,0,41.04,18.58,22.46,Returning
+ORD11566,2024-12-20,East,Books,Biography,4,18.24,5,69.31,40.88,28.43,New
+ORD11166,2024-12-20,East,Home & Kitchen,Blender,5,69.35,20,277.4,213.09,64.31,Returning
+ORD11079,2024-12-21,South,Electronics,Bluetooth Speaker,5,517.37,0,2586.85,1643.97,942.88,VIP
+ORD10410,2024-12-21,North,Books,Cookbook,2,5.63,5,10.7,6.95,3.75,New
+ORD10237,2024-12-21,South,Books,Biography,2,37.11,15,63.09,34.6,28.49,New
+ORD10863,2024-12-21,South,Apparel,Denim Jacket,2,92.9,10,167.22,94.18,73.04,Returning
+ORD10616,2024-12-22,East,Sports,Resistance Bands,4,73.81,0,295.24,135.07,160.17,New
+ORD10132,2024-12-22,North,Apparel,Sneakers,1,34.62,0,34.62,21.65,12.97,New
+ORD11251,2024-12-22,East,Home & Kitchen,Coffee Maker,1,25.88,0,25.88,13.22,12.66,Returning
+ORD11902,2024-12-22,West,Books,Cookbook,5,14.52,0,72.6,46.94,25.66,New
+ORD10282,2024-12-22,North,Sports,Cycling Helmet,5,98.04,0,490.2,275.36,214.84,New
+ORD11082,2024-12-23,South,Apparel,Denim Jacket,1,96.26,0,96.26,49.69,46.57,Returning
+ORD11778,2024-12-23,North,Sports,Dumbbell Set,5,88.28,0,441.4,204.73,236.67,New
+ORD11621,2024-12-23,East,Sports,Cycling Helmet,3,124.6,20,299.04,179.7,119.34,Returning
+ORD11955,2024-12-23,West,Sports,Dumbbell Set,2,122.95,0,245.9,123.47,122.43,New
+ORD10304,2024-12-23,West,Home & Kitchen,Air Fryer,4,186.32,0,745.28,417.23,328.05,New
+ORD11724,2024-12-24,West,Books,Tech Manual,2,44.42,0,88.84,42.53,46.31,New
+ORD10721,2024-12-24,South,Apparel,Running Shoes,5,49.46,0,247.3,151.12,96.18,New
+ORD10340,2024-12-24,South,Sports,Football,3,154.54,0,463.62,241.74,221.88,Returning
+ORD10816,2024-12-24,West,Apparel,Denim Jacket,5,44.09,0,220.45,133.65,86.8,VIP
+ORD11838,2024-12-25,East,Electronics,Bluetooth Speaker,1,826.89,0,826.89,476.6,350.29,New
+ORD10100,2024-12-25,West,Electronics,Wireless Earbuds,4,567.98,0,2271.92,1292.9,979.02,Returning
+ORD10445,2024-12-25,West,Electronics,Smartwatch,2,292.05,15,496.48,368.49,127.99,Returning
+ORD11996,2024-12-25,East,Apparel,Running Shoes,4,89.53,0,358.12,213.44,144.68,New
+ORD11345,2024-12-25,East,Home & Kitchen,Coffee Maker,4,76.42,10,275.11,140.82,134.29,New
+ORD11350,2024-12-26,East,Home & Kitchen,Air Fryer,5,153.19,5,727.65,392.74,334.91,VIP
+ORD11816,2024-12-26,East,Sports,Dumbbell Set,5,95.3,0,476.5,287.2,189.3,Returning
+ORD10330,2024-12-26,West,Electronics,Smartwatch,2,667.57,0,1335.14,636.67,698.47,New
+ORD10833,2024-12-26,West,Electronics,Bluetooth Speaker,4,212.53,0,850.12,502.55,347.57,Returning
+ORD11215,2024-12-26,West,Sports,Cycling Helmet,4,172.09,0,688.36,312.74,375.62,New
+ORD11903,2024-12-27,North,Electronics,Bluetooth Speaker,3,185.81,0,557.43,265.88,291.55,New
+ORD10377,2024-12-28,West,Electronics,Smartwatch,5,740.54,0,3702.7,2283.56,1419.14,Returning
+ORD10138,2024-12-28,West,Electronics,Bluetooth Speaker,2,809.3,0,1618.6,1022.53,596.07,New
+ORD10802,2024-12-28,South,Books,Tech Manual,4,43.46,0,173.84,90.21,83.63,VIP
+ORD10787,2024-12-28,East,Sports,Cycling Helmet,2,111.22,0,222.44,140.12,82.32,Returning
+ORD10449,2024-12-29,East,Electronics,Smartwatch,1,560.02,0,560.02,325.78,234.24,Returning
+ORD10939,2024-12-29,North,Home & Kitchen,Vacuum Cleaner,1,152.21,0,152.21,79.02,73.19,New
+ORD10518,2024-12-29,East,Apparel,Denim Jacket,5,52.15,15,221.64,160.13,61.51,New
+ORD11741,2024-12-30,West,Home & Kitchen,Air Fryer,2,155.93,10,280.67,194.98,85.69,VIP
+ORD11085,2024-12-30,South,Sports,Cycling Helmet,2,38.08,15,64.74,37.66,27.08,Returning
+ORD10918,2024-12-30,North,Apparel,Wool Sweater,1,74.06,5,70.36,38.42,31.94,Returning
+ORD11337,2024-12-30,North,Sports,Dumbbell Set,5,137.31,10,617.9,368.3,249.6,New
+ORD10420,2024-12-31,North,Books,Self-Help Book,1,32.65,0,32.65,15.13,17.52,New
+ORD11746,2024-12-31,North,Books,Tech Manual,5,29.11,0,145.55,84.09,61.46,Returning
+ORD11927,2024-12-31,South,Home & Kitchen,Blender,5,86.83,0,434.15,254.92,179.23,New
+ORD11304,2024-12-31,North,Sports,Dumbbell Set,5,103.94,5,493.72,334.27,159.45,New
+ORD10253,2024-12-31,North,Electronics,4K Monitor,3,699.48,0,2098.44,1314.64,783.8,New
+ORD10373,2024-12-31,North,Electronics,4K Monitor,4,808.1,0,3232.4,1614.62,1617.78,New
+ORD11650,2024-12-31,North,Books,Biography,2,13.47,0,26.94,16.93,10.01,New
+ORD10437,2025-01-01,South,Books,Biography,1,16.14,0,16.14,7.34,8.8,New
+ORD10371,2025-01-01,North,Home & Kitchen,Blender,5,224.71,15,955.02,603.21,351.81,New
+ORD11731,2025-01-01,East,Electronics,4K Monitor,3,501.31,20,1203.14,904.51,298.63,VIP
+ORD10048,2025-01-01,West,Electronics,Laptop Stand,4,862.55,0,3450.2,1615.87,1834.33,New
+ORD11802,2025-01-01,West,Sports,Football,4,54.13,10,194.87,107.22,87.65,New
+ORD10528,2025-01-01,West,Books,Tech Manual,4,11.78,0,47.12,26.74,20.38,New
+ORD10635,2025-01-02,North,Sports,Football,5,31.09,0,155.45,80.36,75.09,VIP
+ORD10622,2025-01-02,West,Sports,Resistance Bands,1,68.51,0,68.51,42.69,25.82,VIP
+ORD11459,2025-01-02,North,Home & Kitchen,Air Fryer,3,131.61,0,394.83,184.18,210.65,New
+ORD10217,2025-01-02,South,Home & Kitchen,Vacuum Cleaner,2,146.41,0,292.82,149.07,143.75,VIP
+ORD11949,2025-01-03,East,Home & Kitchen,Vacuum Cleaner,4,203.22,10,731.59,471.49,260.1,Returning
+ORD10403,2025-01-03,East,Home & Kitchen,Cookware Set,2,122.09,20,195.34,143.69,51.65,New
+ORD10810,2025-01-03,North,Books,Fiction Novel,5,15.19,0,75.95,42.98,32.97,New
+ORD11499,2025-01-03,East,Apparel,Cotton T-Shirt,4,52.43,10,188.75,99.83,88.92,Returning
+ORD11757,2025-01-04,East,Books,Biography,2,28.19,0,56.38,26.78,29.6,VIP
+ORD11916,2025-01-04,South,Sports,Football,2,157.35,0,314.7,148.51,166.19,New
+ORD11986,2025-01-05,South,Home & Kitchen,Blender,5,238.6,10,1073.7,620.31,453.39,New
+ORD11904,2025-01-05,North,Home & Kitchen,Air Fryer,1,107.43,0,107.43,63.13,44.3,Returning
+ORD11137,2025-01-05,North,Sports,Resistance Bands,3,57.07,0,171.21,100.01,71.2,Returning
+ORD10715,2025-01-05,South,Electronics,Bluetooth Speaker,3,636.19,10,1717.71,1149.93,567.78,Returning
+ORD11369,2025-01-06,West,Sports,Resistance Bands,4,167.21,5,635.4,433.14,202.26,New
+ORD11582,2025-01-06,South,Home & Kitchen,Cookware Set,2,212.28,0,424.56,226.24,198.32,New
+ORD11845,2025-01-08,West,Sports,Football,5,143.29,0,716.45,458.43,258.02,VIP
+ORD11380,2025-01-08,South,Books,Fiction Novel,5,18.5,10,83.25,43.68,39.57,New
+ORD10015,2025-01-08,West,Apparel,Running Shoes,1,63.33,0,63.33,35.57,27.76,New
+ORD11026,2025-01-08,East,Books,Cookbook,1,42.1,0,42.1,18.96,23.14,New
+ORD11733,2025-01-08,North,Books,Biography,1,40.08,0,40.08,22.7,17.38,Returning
+ORD10219,2025-01-08,West,Home & Kitchen,Coffee Maker,4,203.7,0,814.8,516.63,298.17,Returning
+ORD11382,2025-01-08,West,Apparel,Denim Jacket,2,81.19,0,162.38,76.61,85.77,Returning
+ORD11819,2025-01-09,South,Sports,Football,5,51.37,0,256.85,147.41,109.44,New
+ORD11344,2025-01-09,West,Books,Self-Help Book,3,35.52,0,106.56,53.17,53.39,New
+ORD10603,2025-01-09,North,Sports,Yoga Mat,5,75.66,0,378.3,173.99,204.31,New
+ORD10846,2025-01-09,West,Home & Kitchen,Air Fryer,4,242.58,0,970.32,487.42,482.9,Returning
+ORD10264,2025-01-09,East,Sports,Football,1,196.63,0,196.63,113.46,83.17,Returning
+ORD10877,2025-01-09,North,Sports,Cycling Helmet,5,197.21,5,936.75,582.66,354.09,VIP
+ORD10172,2025-01-09,East,Sports,Football,5,38.26,0,191.3,93.29,98.01,New
+ORD11769,2025-01-10,West,Books,Fiction Novel,4,20.74,0,82.96,47.79,35.17,Returning
+ORD10973,2025-01-10,South,Apparel,Running Shoes,2,36.58,10,65.84,40.23,25.61,Returning
+ORD10649,2025-01-10,West,Apparel,Sneakers,1,31.9,5,30.3,14.93,15.37,VIP
+ORD11524,2025-01-10,West,Apparel,Sneakers,2,56.13,15,95.42,70.66,24.76,Returning
+ORD11901,2025-01-10,West,Electronics,Laptop Stand,5,456.14,0,2280.7,1381.49,899.21,Returning
+ORD11283,2025-01-11,East,Books,Fiction Novel,1,36.81,0,36.81,18.22,18.59,VIP
+ORD10256,2025-01-11,South,Electronics,Laptop Stand,3,838.66,10,2264.38,1545.64,718.74,Returning
+ORD10404,2025-01-12,North,Apparel,Sneakers,5,45.7,10,205.65,132.75,72.9,New
+ORD11161,2025-01-12,East,Books,Tech Manual,5,25.75,0,128.75,72.22,56.53,New
+ORD11013,2025-01-12,South,Apparel,Wool Sweater,5,25.04,0,125.2,76.63,48.57,New
+ORD10447,2025-01-12,South,Sports,Football,1,73.07,0,73.07,45.5,27.57,Returning
+ORD11985,2025-01-12,South,Electronics,Wireless Earbuds,4,324.1,0,1296.4,630.55,665.85,New
+ORD10279,2025-01-12,South,Apparel,Wool Sweater,1,70.45,0,70.45,42.27,28.18,New
+ORD10641,2025-01-13,West,Electronics,4K Monitor,1,318.29,0,318.29,184.5,133.79,New
+ORD10009,2025-01-13,South,Apparel,Cotton T-Shirt,3,87.75,10,236.92,137.34,99.58,New
+ORD11392,2025-01-14,South,Books,Biography,1,30.19,0,30.19,17.05,13.14,New
+ORD11786,2025-01-14,South,Books,Cookbook,4,37.46,0,149.84,79.47,70.37,Returning
+ORD10207,2025-01-14,North,Sports,Yoga Mat,1,109.24,0,109.24,62.79,46.45,New
+ORD10697,2025-01-15,North,Sports,Resistance Bands,2,58.75,0,117.5,64.77,52.73,New
+ORD11270,2025-01-15,East,Books,Biography,2,12.23,0,24.46,13.31,11.15,Returning
+ORD10902,2025-01-15,East,Apparel,Sneakers,1,22.47,0,22.47,14.25,8.22,VIP
+ORD11918,2025-01-15,East,Electronics,Smartwatch,1,718.15,5,682.24,465.01,217.23,New
+ORD10248,2025-01-15,South,Sports,Resistance Bands,4,137.03,10,493.31,354.63,138.68,Returning
+ORD10255,2025-01-16,South,Apparel,Sneakers,1,71.57,0,71.57,46.14,25.43,New
+ORD10218,2025-01-16,East,Electronics,Wireless Earbuds,2,436.45,0,872.9,404.9,468.0,New
+ORD11486,2025-01-16,West,Sports,Resistance Bands,3,161.37,0,484.11,288.52,195.59,New
+ORD11020,2025-01-16,South,Sports,Football,5,36.37,0,181.85,87.91,93.94,New
+ORD10875,2025-01-17,North,Electronics,Bluetooth Speaker,4,858.03,10,3088.91,1632.44,1456.47,New
+ORD10243,2025-01-18,North,Apparel,Denim Jacket,1,31.03,0,31.03,15.1,15.93,VIP
+ORD10185,2025-01-19,East,Electronics,Smartwatch,4,288.92,0,1155.68,641.75,513.93,New
+ORD11257,2025-01-19,West,Sports,Cycling Helmet,1,27.29,10,24.56,15.88,8.68,New
+ORD10001,2025-01-20,South,Apparel,Sneakers,4,116.69,15,396.75,227.16,169.59,New
+ORD11907,2025-01-20,South,Home & Kitchen,Cookware Set,2,33.7,5,64.03,33.91,30.12,Returning
+ORD10489,2025-01-20,West,Sports,Dumbbell Set,4,93.88,5,356.74,241.48,115.26,Returning
+ORD11132,2025-01-20,East,Books,Biography,5,30.88,0,154.4,83.83,70.57,New
+ORD10900,2025-01-21,North,Electronics,Laptop Stand,4,328.82,10,1183.75,742.52,441.23,New
+ORD10375,2025-01-21,West,Apparel,Wool Sweater,5,112.6,10,506.7,337.0,169.7,Returning
+ORD10281,2025-01-21,North,Sports,Cycling Helmet,3,148.94,5,424.48,213.77,210.71,Returning
+ORD11324,2025-01-21,North,Sports,Yoga Mat,3,194.32,0,582.96,367.0,215.96,New
+ORD10887,2025-01-22,West,Electronics,Wireless Earbuds,5,176.38,5,837.8,529.78,308.02,Returning
+ORD11661,2025-01-22,East,Apparel,Sneakers,4,73.82,0,295.28,155.27,140.01,New
+ORD11974,2025-01-22,North,Apparel,Running Shoes,5,22.27,0,111.35,62.46,48.89,Returning
+ORD11856,2025-01-23,North,Sports,Yoga Mat,3,99.42,0,298.26,166.12,132.14,Returning
+ORD11200,2025-01-23,South,Sports,Dumbbell Set,2,78.09,15,132.75,71.46,61.29,New
+ORD10840,2025-01-23,East,Electronics,Wireless Earbuds,3,251.62,10,679.37,410.3,269.07,New
+ORD10005,2025-01-24,South,Apparel,Running Shoes,4,38.47,0,153.88,86.72,67.16,New
+ORD10788,2025-01-24,West,Apparel,Denim Jacket,5,76.6,0,383.0,223.12,159.88,Returning
+ORD11687,2025-01-24,South,Home & Kitchen,Coffee Maker,4,47.19,10,169.88,102.66,67.22,Returning
+ORD11465,2025-01-24,West,Home & Kitchen,Air Fryer,4,233.9,0,935.6,559.64,375.96,New
+ORD10457,2025-01-24,East,Electronics,Smartwatch,5,174.49,0,872.45,507.14,365.31,New
+ORD11683,2025-01-24,South,Home & Kitchen,Vacuum Cleaner,4,189.08,0,756.32,384.12,372.2,New
+ORD11548,2025-01-24,North,Electronics,Wireless Earbuds,4,844.66,5,3209.71,1947.89,1261.82,New
+ORD11581,2025-01-25,East,Apparel,Sneakers,1,28.68,0,28.68,15.44,13.24,Returning
+ORD11003,2025-01-25,South,Home & Kitchen,Vacuum Cleaner,5,214.65,0,1073.25,497.23,576.02,New
+ORD11333,2025-01-26,North,Apparel,Running Shoes,2,79.72,5,151.47,88.82,62.65,New
+ORD11924,2025-01-26,East,Electronics,Wireless Earbuds,2,733.9,0,1467.8,825.05,642.75,Returning
+ORD10081,2025-01-26,West,Electronics,Bluetooth Speaker,2,765.65,0,1531.3,945.91,585.39,Returning
+ORD11510,2025-01-26,North,Home & Kitchen,Cookware Set,3,112.31,5,320.08,187.7,132.38,New
+ORD11978,2025-01-26,North,Apparel,Running Shoes,5,86.35,5,410.16,194.51,215.65,New
+ORD11395,2025-01-27,North,Books,Cookbook,2,23.55,10,42.39,27.35,15.04,New
+ORD10848,2025-01-27,East,Books,Biography,4,36.51,10,131.44,86.19,45.25,New
+ORD10328,2025-01-28,North,Home & Kitchen,Cookware Set,1,162.54,5,154.41,82.12,72.29,New
+ORD11823,2025-01-28,South,Home & Kitchen,Air Fryer,4,150.1,5,570.38,308.3,262.08,VIP
+ORD11767,2025-01-29,North,Books,Tech Manual,4,18.73,0,74.92,37.3,37.62,Returning
+ORD11664,2025-01-29,East,Sports,Yoga Mat,3,174.4,0,523.2,303.65,219.55,New
+ORD11921,2025-01-30,North,Apparel,Running Shoes,2,95.63,0,191.26,95.38,95.88,New
+ORD10794,2025-01-30,South,Home & Kitchen,Vacuum Cleaner,5,191.68,10,862.56,460.41,402.15,Returning
+ORD10317,2025-01-31,South,Sports,Yoga Mat,1,24.69,0,24.69,14.66,10.03,New
+ORD10212,2025-01-31,South,Electronics,4K Monitor,2,445.86,10,802.55,419.49,383.06,New
+ORD11526,2025-01-31,East,Books,Fiction Novel,5,11.5,0,57.5,33.63,23.87,Returning
+ORD11695,2025-01-31,East,Home & Kitchen,Cookware Set,3,79.01,10,213.33,109.11,104.22,New
+ORD10999,2025-02-01,South,Books,Biography,1,35.54,10,31.99,16.44,15.55,New
+ORD11291,2025-02-01,North,Books,Tech Manual,1,26.96,0,26.96,16.29,10.67,New
+ORD11855,2025-02-02,South,Home & Kitchen,Blender,5,201.71,10,907.7,557.64,350.06,Returning
+ORD10127,2025-02-02,North,Home & Kitchen,Cookware Set,5,184.58,0,922.9,540.75,382.15,New
+ORD11667,2025-02-02,West,Home & Kitchen,Cookware Set,1,196.92,0,196.92,118.63,78.29,VIP
+ORD11397,2025-02-02,West,Books,Biography,2,23.72,0,47.44,24.97,22.47,New
+ORD10216,2025-02-02,West,Books,Self-Help Book,4,23.48,0,93.92,56.99,36.93,VIP
+ORD11027,2025-02-02,South,Home & Kitchen,Coffee Maker,1,222.26,0,222.26,121.71,100.55,New
+ORD11670,2025-02-02,North,Electronics,4K Monitor,5,581.35,0,2906.75,1809.17,1097.58,New
+ORD10736,2025-02-02,North,Apparel,Wool Sweater,5,28.79,0,143.95,70.83,73.12,Returning
+ORD10458,2025-02-02,West,Electronics,Wireless Earbuds,5,686.06,0,3430.3,2187.49,1242.81,Returning
+ORD11642,2025-02-03,North,Home & Kitchen,Coffee Maker,4,152.19,10,547.88,373.69,174.19,Returning
+ORD10475,2025-02-03,North,Home & Kitchen,Cookware Set,5,123.51,5,586.67,359.76,226.91,New
+ORD10120,2025-02-04,North,Home & Kitchen,Air Fryer,2,237.13,0,474.26,267.29,206.97,New
+ORD10112,2025-02-04,West,Home & Kitchen,Cookware Set,5,165.61,0,828.05,436.07,391.98,New
+ORD10536,2025-02-04,South,Books,Tech Manual,4,22.62,0,90.48,44.02,46.46,Returning
+ORD11681,2025-02-04,East,Apparel,Denim Jacket,4,30.56,5,116.13,56.02,60.11,New
+ORD11372,2025-02-05,South,Apparel,Denim Jacket,5,48.24,0,241.2,156.75,84.45,New
+ORD11489,2025-02-05,South,Electronics,Bluetooth Speaker,2,430.75,0,861.5,398.84,462.66,New
+ORD10540,2025-02-05,East,Apparel,Running Shoes,4,39.57,10,142.45,88.8,53.65,New
+ORD10838,2025-02-05,North,Electronics,Smartwatch,1,344.55,0,344.55,165.64,178.91,VIP
+ORD10923,2025-02-06,North,Electronics,Smartwatch,5,406.18,15,1726.26,945.87,780.39,Returning
+ORD11480,2025-02-06,East,Apparel,Running Shoes,2,43.42,20,69.47,56.09,13.38,VIP
+ORD11852,2025-02-06,South,Books,Tech Manual,1,22.04,0,22.04,13.82,8.22,Returning
+ORD11828,2025-02-07,South,Electronics,Laptop Stand,1,321.24,10,289.12,183.34,105.78,New
+ORD11226,2025-02-08,East,Electronics,Bluetooth Speaker,3,180.91,5,515.59,290.95,224.64,New
+ORD11747,2025-02-08,East,Home & Kitchen,Coffee Maker,2,106.34,20,170.14,121.86,48.28,VIP
+ORD11046,2025-02-08,South,Books,Biography,4,15.13,0,60.52,28.77,31.75,Returning
+ORD11928,2025-02-08,South,Home & Kitchen,Air Fryer,5,45.85,0,229.25,147.39,81.86,VIP
+ORD11449,2025-02-08,West,Books,Self-Help Book,2,43.43,10,78.17,50.35,27.82,Returning
+ORD10629,2025-02-08,South,Books,Self-Help Book,3,23.41,20,56.18,41.72,14.46,New
+ORD10071,2025-02-08,North,Books,Tech Manual,2,18.8,0,37.6,20.94,16.66,Returning
+ORD11964,2025-02-09,East,Electronics,4K Monitor,5,344.94,5,1638.46,1011.61,626.85,Returning
+ORD11686,2025-02-09,South,Sports,Dumbbell Set,5,99.89,0,499.45,266.19,233.26,New
+ORD11651,2025-02-10,North,Electronics,Laptop Stand,1,569.47,0,569.47,350.97,218.5,VIP
+ORD11434,2025-02-10,North,Electronics,Smartwatch,1,785.71,0,785.71,381.0,404.71,Returning
+ORD11562,2025-02-10,East,Books,Cookbook,2,19.33,20,30.93,20.15,10.78,New
+ORD11080,2025-02-10,South,Apparel,Denim Jacket,1,102.37,0,102.37,50.19,52.18,New
+ORD10095,2025-02-10,East,Apparel,Sneakers,1,21.47,15,18.25,10.67,7.58,New
+ORD10012,2025-02-10,North,Electronics,Laptop Stand,4,572.46,15,1946.36,1277.66,668.7,Returning
+ORD11632,2025-02-10,North,Sports,Dumbbell Set,3,102.18,0,306.54,183.6,122.94,New
+ORD11424,2025-02-11,North,Home & Kitchen,Air Fryer,2,94.41,5,179.38,99.62,79.76,New
+ORD10695,2025-02-11,South,Books,Cookbook,2,44.85,5,85.22,54.65,30.57,New
+ORD10524,2025-02-11,East,Books,Tech Manual,2,6.95,0,13.9,7.51,6.39,Returning
+ORD11235,2025-02-12,South,Sports,Yoga Mat,3,142.51,10,384.78,198.57,186.21,New
+ORD11549,2025-02-12,North,Electronics,Smartwatch,3,278.8,15,710.94,435.85,275.09,New
+ORD10944,2025-02-12,North,Books,Biography,5,6.79,0,33.95,15.87,18.08,Returning
+ORD11871,2025-02-12,North,Sports,Football,5,60.29,0,301.45,184.95,116.5,Returning
+ORD11406,2025-02-13,North,Apparel,Denim Jacket,4,31.48,0,125.92,62.19,63.73,New
+ORD11141,2025-02-13,East,Sports,Resistance Bands,3,137.33,0,411.99,226.28,185.71,VIP
+ORD11950,2025-02-13,South,Home & Kitchen,Blender,3,134.0,20,321.6,257.99,63.61,VIP
+ORD11359,2025-02-13,North,Books,Tech Manual,4,22.8,0,91.2,46.93,44.27,Returning
+ORD10785,2025-02-14,South,Electronics,Bluetooth Speaker,5,689.26,0,3446.3,1672.98,1773.32,New
+ORD10985,2025-02-15,East,Books,Tech Manual,3,28.63,10,77.3,38.83,38.47,VIP
+ORD11538,2025-02-15,South,Apparel,Running Shoes,2,82.59,0,165.18,86.72,78.46,VIP
+ORD10945,2025-02-16,West,Apparel,Cotton T-Shirt,1,57.54,5,54.66,31.33,23.33,New
+ORD10384,2025-02-17,South,Electronics,4K Monitor,1,657.71,0,657.71,376.28,281.43,New
+ORD11957,2025-02-17,East,Apparel,Denim Jacket,5,113.96,0,569.8,343.42,226.38,New
+ORD11155,2025-02-17,South,Home & Kitchen,Vacuum Cleaner,2,117.75,15,200.18,128.42,71.76,Returning
+ORD10992,2025-02-18,North,Books,Biography,3,28.45,0,85.35,48.93,36.42,Returning
+ORD10791,2025-02-18,South,Books,Fiction Novel,2,21.28,10,38.3,19.92,18.38,Returning
+ORD11685,2025-02-18,South,Home & Kitchen,Vacuum Cleaner,2,127.48,0,254.96,147.67,107.29,New
+ORD10648,2025-02-19,West,Apparel,Denim Jacket,2,102.58,0,205.16,97.81,107.35,New
+ORD10017,2025-02-19,South,Books,Fiction Novel,2,30.37,0,60.74,28.32,32.42,Returning
+ORD10957,2025-02-19,East,Home & Kitchen,Coffee Maker,2,186.28,0,372.56,198.24,174.32,Returning
+ORD11910,2025-02-19,North,Electronics,4K Monitor,5,330.18,5,1568.36,1066.48,501.88,New
+ORD11551,2025-02-19,South,Home & Kitchen,Blender,4,179.37,20,573.98,411.25,162.73,Returning
+ORD11148,2025-02-19,North,Books,Cookbook,5,20.59,0,102.95,58.59,44.36,New
+ORD11779,2025-02-20,South,Electronics,Bluetooth Speaker,2,638.83,0,1277.66,583.29,694.37,Returning
+ORD11983,2025-02-20,North,Apparel,Sneakers,1,78.96,0,78.96,46.94,32.02,New
+ORD10297,2025-02-20,South,Sports,Football,2,154.6,0,309.2,166.43,142.77,Returning
+ORD10228,2025-02-21,North,Home & Kitchen,Coffee Maker,1,28.12,0,28.12,16.47,11.65,Returning
+ORD10105,2025-02-21,South,Books,Cookbook,4,40.5,0,162.0,104.93,57.07,Returning
+ORD11394,2025-02-21,South,Apparel,Running Shoes,1,73.66,0,73.66,40.55,33.11,New
+ORD11780,2025-02-21,North,Sports,Dumbbell Set,2,115.62,5,219.68,115.44,104.24,Returning
+ORD10640,2025-02-22,North,Electronics,Laptop Stand,4,329.73,0,1318.92,683.75,635.17,Returning
+ORD11321,2025-02-22,North,Apparel,Running Shoes,5,91.76,10,412.92,241.48,171.44,New
+ORD10084,2025-02-22,North,Home & Kitchen,Cookware Set,5,78.57,0,392.85,249.82,143.03,New
+ORD10131,2025-02-22,West,Apparel,Wool Sweater,5,119.44,0,597.2,351.87,245.33,Returning
+ORD10161,2025-02-23,East,Sports,Football,4,157.03,0,628.12,332.34,295.78,New
+ORD10915,2025-02-23,South,Books,Tech Manual,3,11.98,20,28.75,21.56,7.19,Returning
+ORD11045,2025-02-23,East,Books,Fiction Novel,3,11.94,0,35.82,21.42,14.4,New
+ORD11052,2025-02-23,East,Apparel,Wool Sweater,4,82.01,0,328.04,177.77,150.27,New
+ORD11801,2025-02-24,East,Home & Kitchen,Cookware Set,2,61.47,0,122.94,69.39,53.55,VIP
+ORD10504,2025-02-24,North,Books,Biography,2,12.6,10,22.68,12.93,9.75,New
+ORD10224,2025-02-24,North,Home & Kitchen,Blender,4,54.66,5,207.71,120.62,87.09,Returning
+ORD11189,2025-02-25,North,Books,Self-Help Book,2,27.83,0,55.66,33.26,22.4,New
+ORD10137,2025-02-25,East,Apparel,Sneakers,2,86.72,0,173.44,108.63,64.81,New
+ORD10598,2025-02-25,North,Electronics,Smartwatch,5,181.12,10,815.04,528.31,286.73,VIP
+ORD11722,2025-02-26,South,Sports,Resistance Bands,2,106.05,10,190.89,134.45,56.44,VIP
+ORD11846,2025-02-26,North,Apparel,Denim Jacket,2,64.21,0,128.42,80.04,48.38,Returning
+ORD10712,2025-02-26,West,Books,Fiction Novel,5,42.64,0,213.2,96.66,116.54,Returning
+ORD11614,2025-02-26,West,Sports,Cycling Helmet,2,199.52,5,379.09,245.9,133.19,VIP
+ORD10637,2025-02-26,East,Electronics,Bluetooth Speaker,4,343.22,5,1304.24,880.25,423.99,VIP
+ORD11612,2025-02-26,East,Books,Self-Help Book,3,27.07,5,77.15,44.58,32.57,Returning
+ORD10463,2025-02-26,South,Apparel,Denim Jacket,2,44.63,5,84.8,54.89,29.91,Returning
+ORD10950,2025-02-26,West,Apparel,Denim Jacket,4,93.96,0,375.84,214.1,161.74,Returning
+ORD11207,2025-02-27,North,Electronics,Smartwatch,3,710.26,0,2130.78,1380.9,749.88,New
+ORD11606,2025-02-27,West,Books,Self-Help Book,3,38.31,0,114.93,52.35,62.58,Returning
+ORD11018,2025-02-28,East,Electronics,Bluetooth Speaker,5,736.02,5,3496.1,1768.05,1728.05,Returning
+ORD10661,2025-03-01,East,Apparel,Denim Jacket,2,78.37,0,156.74,74.72,82.02,VIP
+ORD10674,2025-03-01,North,Electronics,Wireless Earbuds,1,793.95,0,793.95,374.05,419.9,New
+ORD10236,2025-03-01,North,Apparel,Running Shoes,5,74.44,5,353.59,184.28,169.31,VIP
+ORD11797,2025-03-02,East,Books,Fiction Novel,1,10.73,5,10.19,6.7,3.49,Returning
+ORD10336,2025-03-02,West,Home & Kitchen,Vacuum Cleaner,4,216.47,0,865.88,417.82,448.06,Returning
+ORD11654,2025-03-02,North,Sports,Yoga Mat,2,67.33,0,134.66,85.21,49.45,Returning
+ORD11787,2025-03-02,West,Electronics,4K Monitor,3,732.09,0,2196.27,1098.31,1097.96,Returning
+ORD10502,2025-03-02,West,Apparel,Denim Jacket,3,42.52,0,127.56,67.59,59.97,New
+ORD11987,2025-03-03,East,Electronics,Wireless Earbuds,4,636.07,0,2544.28,1453.36,1090.92,New
+ORD11659,2025-03-03,East,Apparel,Cotton T-Shirt,2,23.5,0,47.0,26.05,20.95,New
+ORD11735,2025-03-04,East,Electronics,Smartwatch,5,322.06,0,1610.3,917.29,693.01,New
+ORD10689,2025-03-04,West,Apparel,Cotton T-Shirt,2,54.57,0,109.14,69.03,40.11,Returning
+ORD11595,2025-03-04,South,Books,Tech Manual,2,34.5,10,62.1,38.46,23.64,Returning
+ORD10283,2025-03-04,South,Electronics,Laptop Stand,3,440.54,0,1321.62,675.7,645.92,New
+ORD10393,2025-03-04,South,Apparel,Running Shoes,5,68.47,0,342.35,154.97,187.38,Returning
+ORD11594,2025-03-04,East,Books,Self-Help Book,2,39.91,0,79.82,41.86,37.96,New
+ORD11253,2025-03-04,South,Electronics,4K Monitor,1,684.77,0,684.77,396.75,288.02,New
+ORD10621,2025-03-04,North,Home & Kitchen,Air Fryer,5,156.4,5,742.9,397.52,345.38,New
+ORD11282,2025-03-05,East,Books,Tech Manual,5,35.02,0,175.1,93.08,82.02,New
+ORD11673,2025-03-05,South,Electronics,Bluetooth Speaker,2,164.48,0,328.96,159.66,169.3,Returning
+ORD10797,2025-03-06,South,Sports,Resistance Bands,4,115.54,10,415.94,234.21,181.73,New
+ORD10866,2025-03-06,West,Books,Tech Manual,2,12.66,0,25.32,12.03,13.29,VIP
+ORD10929,2025-03-06,East,Books,Tech Manual,4,42.31,10,152.32,92.72,59.6,VIP
+ORD10096,2025-03-06,North,Sports,Yoga Mat,3,76.45,0,229.35,118.58,110.77,New
+ORD10472,2025-03-06,West,Apparel,Denim Jacket,1,114.14,10,102.73,67.29,35.44,New
+ORD11478,2025-03-07,South,Home & Kitchen,Air Fryer,1,23.63,0,23.63,13.86,9.77,New
+ORD11249,2025-03-07,North,Apparel,Cotton T-Shirt,4,110.14,0,440.56,220.41,220.15,New
+ORD10720,2025-03-08,South,Home & Kitchen,Coffee Maker,5,124.25,0,621.25,303.38,317.87,New
+ORD11792,2025-03-08,North,Apparel,Cotton T-Shirt,1,72.19,20,57.75,34.96,22.79,New
+ORD11919,2025-03-09,South,Sports,Yoga Mat,2,84.58,20,135.33,99.42,35.91,New
+ORD10574,2025-03-09,South,Home & Kitchen,Vacuum Cleaner,3,110.46,5,314.81,182.48,132.33,New
+ORD11452,2025-03-09,East,Sports,Resistance Bands,5,128.23,0,641.15,401.29,239.86,New
+ORD10607,2025-03-10,North,Electronics,4K Monitor,1,338.17,0,338.17,190.79,147.38,Returning
+ORD11723,2025-03-10,South,Apparel,Cotton T-Shirt,1,82.08,10,73.87,39.33,34.54,New
+ORD11492,2025-03-10,South,Sports,Resistance Bands,3,136.16,20,326.78,214.38,112.4,New
+ORD10215,2025-03-10,South,Books,Tech Manual,3,6.52,5,18.58,8.85,9.73,New
+ORD10038,2025-03-10,North,Books,Tech Manual,3,29.47,0,88.41,40.04,48.37,Returning
+ORD11969,2025-03-10,South,Home & Kitchen,Coffee Maker,3,23.77,0,71.31,39.83,31.48,New
+ORD11173,2025-03-10,East,Home & Kitchen,Vacuum Cleaner,3,176.06,20,422.54,294.37,128.17,Returning
+ORD10922,2025-03-10,North,Books,Self-Help Book,3,10.59,5,30.18,17.65,12.53,Returning
+ORD11690,2025-03-10,North,Books,Self-Help Book,2,32.31,0,64.62,29.25,35.37,VIP
+ORD10246,2025-03-10,North,Home & Kitchen,Air Fryer,2,173.88,10,312.98,194.43,118.55,Returning
+ORD10852,2025-03-11,East,Home & Kitchen,Air Fryer,5,185.59,0,927.95,461.98,465.97,Returning
+ORD10476,2025-03-11,West,Books,Tech Manual,4,34.1,5,129.58,76.98,52.6,New
+ORD10062,2025-03-12,North,Books,Biography,5,37.52,20,150.08,111.66,38.42,Returning
+ORD10725,2025-03-12,North,Electronics,Bluetooth Speaker,2,719.64,0,1439.28,768.27,671.01,New
+ORD10417,2025-03-13,South,Sports,Cycling Helmet,2,133.22,0,266.44,151.49,114.95,Returning
+ORD11460,2025-03-13,East,Electronics,Laptop Stand,3,322.19,0,966.57,441.32,525.25,New
+ORD10064,2025-03-13,West,Home & Kitchen,Cookware Set,2,81.79,0,163.58,90.63,72.95,Returning
+ORD10602,2025-03-13,North,Sports,Resistance Bands,5,86.33,5,410.07,263.75,146.32,Returning
+ORD10564,2025-03-14,South,Apparel,Cotton T-Shirt,4,78.35,0,313.4,203.35,110.05,New
+ORD10418,2025-03-14,South,Sports,Resistance Bands,1,93.32,5,88.65,54.29,34.36,VIP
+ORD10947,2025-03-14,West,Electronics,Laptop Stand,5,766.35,0,3831.75,1993.57,1838.18,New
+ORD11300,2025-03-14,East,Sports,Resistance Bands,5,44.67,10,201.02,129.6,71.42,New
+ORD10128,2025-03-15,North,Home & Kitchen,Vacuum Cleaner,3,200.86,0,602.58,343.57,259.01,VIP
+ORD10287,2025-03-15,South,Apparel,Cotton T-Shirt,5,44.23,0,221.15,119.6,101.55,VIP
+ORD10530,2025-03-15,West,Books,Biography,1,24.59,0,24.59,12.71,11.88,Returning
+ORD11485,2025-03-15,North,Electronics,Smartwatch,4,582.5,0,2330.0,1457.12,872.88,New
+ORD11777,2025-03-15,South,Sports,Cycling Helmet,1,52.67,0,52.67,32.03,20.64,New
+ORD11230,2025-03-15,West,Home & Kitchen,Cookware Set,1,244.58,15,207.89,130.95,76.94,VIP
+ORD10804,2025-03-16,East,Electronics,4K Monitor,2,703.03,5,1335.76,664.84,670.92,Returning
+ORD11570,2025-03-16,South,Home & Kitchen,Coffee Maker,4,128.15,5,486.97,291.48,195.49,Returning
+ORD10479,2025-03-16,South,Electronics,Bluetooth Speaker,4,458.48,5,1742.22,1025.37,716.85,New
+ORD11859,2025-03-16,West,Books,Biography,5,13.78,0,68.9,34.22,34.68,New
+ORD11761,2025-03-16,South,Home & Kitchen,Air Fryer,5,134.46,0,672.3,378.94,293.36,New
+ORD11279,2025-03-16,South,Books,Self-Help Book,3,35.26,10,95.2,64.02,31.18,New
+ORD11387,2025-03-17,West,Home & Kitchen,Air Fryer,4,83.03,10,298.91,154.19,144.72,New
+ORD10194,2025-03-17,East,Electronics,Bluetooth Speaker,4,697.99,0,2791.96,1354.27,1437.69,VIP
+ORD11760,2025-03-18,West,Apparel,Cotton T-Shirt,1,55.08,10,49.57,33.29,16.28,New
+ORD10104,2025-03-18,North,Home & Kitchen,Vacuum Cleaner,1,113.84,0,113.84,64.78,49.06,Returning
+ORD10705,2025-03-18,West,Home & Kitchen,Blender,3,234.5,0,703.5,356.73,346.77,Returning
+ORD10078,2025-03-18,East,Home & Kitchen,Air Fryer,4,97.61,5,370.92,252.73,118.19,New
+ORD11625,2025-03-18,East,Books,Tech Manual,2,32.35,0,64.7,40.61,24.09,Returning
+ORD10351,2025-03-18,East,Electronics,Bluetooth Speaker,2,460.85,5,875.62,510.18,365.44,New
+ORD10503,2025-03-18,East,Electronics,Smartwatch,3,265.44,10,716.69,500.67,216.02,New
+ORD10770,2025-03-18,West,Apparel,Wool Sweater,5,87.26,0,436.3,278.94,157.36,New
+ORD10763,2025-03-19,North,Apparel,Sneakers,4,42.92,0,171.68,90.85,80.83,VIP
+ORD11354,2025-03-19,East,Home & Kitchen,Air Fryer,3,241.8,5,689.13,439.89,249.24,New
+ORD10286,2025-03-19,North,Electronics,Wireless Earbuds,3,859.98,0,2579.94,1164.44,1415.5,New
+ORD10930,2025-03-19,South,Books,Tech Manual,3,32.16,0,96.48,55.06,41.42,VIP
+ORD11083,2025-03-19,East,Home & Kitchen,Vacuum Cleaner,5,51.79,10,233.06,148.23,84.83,New
+ORD11444,2025-03-19,North,Home & Kitchen,Air Fryer,2,45.96,0,91.92,56.98,34.94,New
+ORD11491,2025-03-19,North,Sports,Dumbbell Set,1,70.34,0,70.34,41.75,28.59,Returning
+ORD11438,2025-03-19,North,Home & Kitchen,Blender,2,169.58,5,322.2,161.03,161.17,New
+ORD10381,2025-03-19,West,Apparel,Cotton T-Shirt,1,98.64,0,98.64,55.31,43.33,New
+ORD11560,2025-03-19,West,Books,Tech Manual,1,21.15,10,19.04,10.67,8.37,New
+ORD10079,2025-03-21,East,Electronics,4K Monitor,4,226.34,10,814.82,438.81,376.01,New
+ORD11090,2025-03-21,North,Books,Self-Help Book,3,25.46,0,76.38,40.62,35.76,New
+ORD11129,2025-03-21,East,Books,Tech Manual,5,38.41,5,182.45,98.55,83.9,New
+ORD10631,2025-03-21,South,Apparel,Wool Sweater,5,71.81,10,323.15,200.03,123.12,New
+ORD11502,2025-03-22,West,Apparel,Sneakers,2,106.96,0,213.92,99.49,114.43,New
+ORD10664,2025-03-22,North,Home & Kitchen,Blender,2,41.11,10,74.0,47.69,26.31,New
+ORD11628,2025-03-22,North,Apparel,Sneakers,4,112.97,10,406.69,227.27,179.42,Returning
+ORD11429,2025-03-22,South,Electronics,4K Monitor,1,713.85,5,678.16,441.38,236.78,New
+ORD10555,2025-03-22,South,Books,Cookbook,3,33.38,10,90.13,63.53,26.6,Returning
+ORD11081,2025-03-22,West,Books,Biography,2,34.48,0,68.96,41.4,27.56,VIP
+ORD11068,2025-03-23,North,Home & Kitchen,Vacuum Cleaner,2,221.28,5,420.43,274.67,145.76,Returning
+ORD11162,2025-03-23,East,Sports,Football,3,40.6,10,109.62,72.99,36.63,Returning
+ORD10898,2025-03-23,North,Apparel,Running Shoes,3,34.7,0,104.1,63.27,40.83,Returning
+ORD11826,2025-03-23,South,Apparel,Cotton T-Shirt,5,69.36,5,329.46,225.27,104.19,Returning
+ORD11536,2025-03-24,East,Electronics,Smartwatch,3,874.14,0,2622.42,1507.67,1114.75,VIP
+ORD10198,2025-03-24,North,Home & Kitchen,Air Fryer,3,40.16,0,120.48,63.78,56.7,New
+ORD10917,2025-03-24,South,Home & Kitchen,Blender,4,58.96,0,235.84,140.95,94.89,Returning
+ORD11981,2025-03-24,East,Electronics,Wireless Earbuds,2,543.18,0,1086.36,590.18,496.18,New
+ORD11339,2025-03-24,East,Apparel,Sneakers,2,80.01,0,160.02,92.1,67.92,New
+ORD10646,2025-03-25,South,Books,Biography,4,12.69,20,40.61,28.7,11.91,New
+ORD10924,2025-03-25,East,Books,Self-Help Book,3,37.23,0,111.69,66.83,44.86,New
+ORD11647,2025-03-25,East,Home & Kitchen,Cookware Set,4,65.88,0,263.52,163.41,100.11,Returning
+ORD10519,2025-03-25,West,Home & Kitchen,Cookware Set,5,101.21,0,506.05,291.63,214.42,Returning
+ORD11882,2025-03-26,South,Apparel,Running Shoes,3,83.19,15,212.13,144.98,67.15,VIP
+ORD11479,2025-03-28,West,Electronics,Smartwatch,5,803.45,0,4017.25,1992.9,2024.35,Returning
+ORD10146,2025-03-28,West,Sports,Football,5,150.28,5,713.83,399.64,314.19,VIP
+ORD10331,2025-03-28,West,Apparel,Denim Jacket,5,36.61,15,155.59,116.37,39.22,Returning
+ORD11468,2025-03-28,West,Electronics,Bluetooth Speaker,3,599.38,20,1438.51,1021.17,417.34,VIP
+ORD11075,2025-03-29,West,Electronics,Wireless Earbuds,1,644.58,0,644.58,394.86,249.72,New
+ORD11092,2025-03-29,West,Books,Fiction Novel,5,31.38,0,156.9,94.74,62.16,Returning
+ORD10134,2025-03-29,East,Apparel,Denim Jacket,3,54.93,5,156.55,77.76,78.79,VIP
+ORD11861,2025-03-29,South,Electronics,Laptop Stand,3,745.97,0,2237.91,1290.77,947.14,New
+ORD11749,2025-03-29,South,Sports,Dumbbell Set,3,70.93,0,212.79,103.0,109.79,New
+ORD11555,2025-03-30,North,Home & Kitchen,Vacuum Cleaner,1,102.82,0,102.82,57.32,45.5,Returning
+ORD11800,2025-03-30,East,Books,Fiction Novel,1,29.71,0,29.71,14.71,15.0,VIP
+ORD10680,2025-03-30,North,Electronics,Smartwatch,2,297.5,15,505.75,332.68,173.07,New
+ORD11403,2025-03-30,West,Electronics,Laptop Stand,4,177.51,10,639.04,442.73,196.31,VIP
+ORD11483,2025-03-30,South,Sports,Yoga Mat,3,110.76,5,315.67,208.44,107.23,New
+ORD11590,2025-03-31,South,Apparel,Cotton T-Shirt,2,42.56,10,76.61,43.6,33.01,New
+ORD11755,2025-03-31,South,Home & Kitchen,Cookware Set,3,32.89,0,98.67,54.93,43.74,New
+ORD11648,2025-03-31,North,Sports,Yoga Mat,5,38.53,0,192.65,104.59,88.06,VIP
+ORD11864,2025-03-31,South,Apparel,Denim Jacket,5,22.37,0,111.85,65.68,46.17,Returning
+ORD10897,2025-04-01,West,Home & Kitchen,Vacuum Cleaner,1,160.92,0,160.92,80.76,80.16,Returning
+ORD10593,2025-04-01,East,Home & Kitchen,Cookware Set,4,48.39,0,193.56,100.02,93.54,New
+ORD10045,2025-04-01,West,Sports,Yoga Mat,1,163.64,0,163.64,92.49,71.15,Returning
+ORD10677,2025-04-02,East,Sports,Resistance Bands,1,184.24,0,184.24,101.35,82.89,Returning
+ORD11099,2025-04-03,West,Electronics,Wireless Earbuds,3,198.24,5,564.98,331.48,233.5,New
+ORD10143,2025-04-04,West,Books,Biography,3,34.99,0,104.97,47.7,57.27,New
+ORD11655,2025-04-04,West,Apparel,Sneakers,2,65.05,0,130.1,66.93,63.17,New
+ORD10795,2025-04-05,North,Electronics,Laptop Stand,4,334.76,0,1339.04,742.67,596.37,Returning
+ORD10615,2025-04-05,West,Books,Tech Manual,3,10.92,10,29.48,16.08,13.4,New
+ORD11764,2025-04-05,West,Apparel,Sneakers,3,106.75,0,320.25,149.71,170.54,Returning
+ORD10878,2025-04-05,South,Sports,Cycling Helmet,1,172.18,5,163.57,81.12,82.45,Returning
+ORD10061,2025-04-05,West,Electronics,Bluetooth Speaker,1,595.6,20,476.48,272.41,204.07,New
+ORD11028,2025-04-06,North,Electronics,4K Monitor,2,467.66,0,935.32,600.16,335.16,VIP
+ORD11619,2025-04-06,East,Sports,Football,4,110.23,0,440.92,247.45,193.47,Returning
+ORD10730,2025-04-07,West,Sports,Cycling Helmet,3,42.98,0,128.94,63.05,65.89,VIP
+ORD10726,2025-04-07,East,Electronics,Wireless Earbuds,5,858.98,5,4080.15,2635.61,1444.54,Returning
+ORD11710,2025-04-07,South,Home & Kitchen,Blender,4,172.5,0,690.0,418.89,271.11,Returning
+ORD10952,2025-04-07,North,Books,Fiction Novel,5,41.87,0,209.35,119.98,89.37,Returning
+ORD11470,2025-04-07,West,Books,Tech Manual,5,21.79,0,108.95,70.08,38.87,VIP
+ORD10996,2025-04-08,West,Apparel,Running Shoes,1,60.89,0,60.89,39.19,21.7,Returning
+ORD10656,2025-04-08,North,Books,Self-Help Book,4,42.19,0,168.76,80.44,88.32,Returning
+ORD11388,2025-04-08,East,Electronics,Laptop Stand,2,487.52,0,975.04,611.29,363.75,Returning
+ORD10978,2025-04-08,North,Home & Kitchen,Vacuum Cleaner,2,47.66,0,95.32,54.0,41.32,Returning
+ORD11262,2025-04-09,North,Sports,Yoga Mat,4,16.82,0,67.28,33.3,33.98,New
+ORD11925,2025-04-09,North,Sports,Yoga Mat,4,101.87,15,346.36,202.44,143.92,New
+ORD11038,2025-04-09,North,Electronics,Laptop Stand,4,158.92,0,635.68,294.09,341.59,New
+ORD11203,2025-04-09,East,Electronics,Laptop Stand,1,641.85,0,641.85,328.95,312.9,Returning
+ORD10223,2025-04-10,West,Sports,Cycling Helmet,3,74.21,0,222.63,130.7,91.93,New
+ORD10746,2025-04-10,North,Home & Kitchen,Blender,3,215.85,0,647.55,356.27,291.28,Returning
+ORD10534,2025-04-10,East,Apparel,Sneakers,1,75.32,5,71.55,46.36,25.19,New
+ORD11108,2025-04-10,West,Home & Kitchen,Cookware Set,5,202.9,0,1014.5,546.78,467.72,Returning
+ORD10958,2025-04-10,North,Home & Kitchen,Vacuum Cleaner,5,22.45,0,112.25,68.34,43.91,New
+ORD11711,2025-04-11,South,Sports,Dumbbell Set,4,181.21,20,579.87,424.34,155.53,Returning
+ORD10436,2025-04-11,South,Books,Self-Help Book,2,20.91,0,41.82,26.44,15.38,Returning
+ORD10000,2025-04-11,South,Books,Cookbook,5,36.19,0,180.95,98.05,82.9,New
+ORD11678,2025-04-11,West,Electronics,Smartwatch,2,780.69,20,1249.1,938.53,310.57,Returning
+ORD11154,2025-04-11,South,Home & Kitchen,Vacuum Cleaner,1,114.76,5,109.02,67.66,41.36,Returning
+ORD11222,2025-04-12,North,Sports,Cycling Helmet,1,73.86,20,59.09,34.7,24.39,Returning
+ORD10487,2025-04-12,East,Home & Kitchen,Vacuum Cleaner,5,169.6,5,805.6,400.84,404.76,Returning
+ORD10783,2025-04-12,West,Books,Tech Manual,1,31.24,5,29.68,15.12,14.56,Returning
+ORD10853,2025-04-12,North,Home & Kitchen,Blender,4,139.21,0,556.84,296.34,260.5,Returning
+ORD10716,2025-04-12,East,Books,Fiction Novel,3,37.15,5,105.88,60.29,45.59,Returning
+ORD11285,2025-04-14,South,Home & Kitchen,Vacuum Cleaner,3,230.91,0,692.73,342.21,350.52,New
+ORD11426,2025-04-14,East,Sports,Yoga Mat,5,76.8,0,384.0,182.9,201.1,VIP
+ORD10401,2025-04-14,North,Apparel,Sneakers,4,81.95,10,295.02,167.63,127.39,Returning
+ORD10209,2025-04-15,East,Books,Self-Help Book,5,10.35,0,51.75,28.83,22.92,New
+ORD10743,2025-04-15,South,Sports,Cycling Helmet,3,134.18,0,402.54,255.19,147.35,VIP
+ORD11191,2025-04-15,South,Sports,Dumbbell Set,5,104.79,0,523.95,296.5,227.45,New
+ORD10891,2025-04-16,West,Electronics,Wireless Earbuds,1,763.43,0,763.43,476.62,286.81,New
+ORD11101,2025-04-16,East,Home & Kitchen,Blender,4,48.19,0,192.76,87.47,105.29,New
+ORD10178,2025-04-17,South,Electronics,Laptop Stand,5,607.37,0,3036.85,1698.02,1338.83,Returning
+ORD10911,2025-04-17,West,Apparel,Denim Jacket,3,78.56,0,235.68,108.24,127.44,VIP
+ORD10651,2025-04-17,West,Apparel,Wool Sweater,3,36.58,0,109.74,68.22,41.52,Returning
+ORD10020,2025-04-17,East,Sports,Yoga Mat,2,142.82,10,257.08,159.47,97.61,New
+ORD11552,2025-04-17,West,Sports,Dumbbell Set,2,50.88,10,91.58,49.48,42.1,New
+ORD11832,2025-04-17,West,Electronics,Wireless Earbuds,2,499.59,10,899.26,520.63,378.63,New
+ORD11788,2025-04-18,West,Electronics,4K Monitor,2,696.69,10,1254.04,684.21,569.83,Returning
+ORD11033,2025-04-18,North,Home & Kitchen,Coffee Maker,4,121.38,0,485.52,303.98,181.54,New
+ORD10306,2025-04-18,North,Home & Kitchen,Coffee Maker,4,75.71,0,302.84,154.16,148.68,New
+ORD11691,2025-04-18,South,Books,Biography,3,6.22,20,14.93,9.59,5.34,VIP
+ORD10345,2025-04-19,East,Electronics,Bluetooth Speaker,4,595.35,5,2262.33,1519.71,742.62,New
+ORD11400,2025-04-19,East,Home & Kitchen,Vacuum Cleaner,5,114.41,10,514.84,269.31,245.53,New
+ORD10781,2025-04-19,South,Books,Biography,3,16.78,10,45.31,22.67,22.64,Returning
+ORD10741,2025-04-20,East,Home & Kitchen,Air Fryer,4,199.53,10,718.31,387.32,330.99,New
+ORD11430,2025-04-20,South,Home & Kitchen,Air Fryer,5,230.91,10,1039.1,520.41,518.69,New
+ORD10002,2025-04-20,South,Books,Biography,3,5.92,5,16.87,8.82,8.05,VIP
+ORD11636,2025-04-20,South,Electronics,4K Monitor,4,319.85,0,1279.4,703.52,575.88,Returning
+ORD10362,2025-04-21,North,Sports,Yoga Mat,3,133.72,10,361.04,202.81,158.23,New
+ORD10786,2025-04-21,East,Apparel,Running Shoes,4,92.39,0,369.56,199.29,170.27,VIP
+ORD10125,2025-04-21,North,Home & Kitchen,Blender,4,36.11,0,144.44,78.86,65.58,New
+ORD10121,2025-04-21,West,Books,Fiction Novel,2,12.7,0,25.4,15.81,9.59,Returning
+ORD10101,2025-04-21,North,Apparel,Cotton T-Shirt,5,97.98,5,465.4,275.8,189.6,Returning
+ORD10354,2025-04-21,North,Home & Kitchen,Vacuum Cleaner,1,218.19,0,218.19,107.5,110.69,New
+ORD11782,2025-04-22,North,Sports,Resistance Bands,2,18.39,0,36.78,20.49,16.29,New
+ORD11911,2025-04-22,South,Books,Cookbook,5,7.95,20,31.8,18.74,13.06,VIP
+ORD10089,2025-04-22,West,Apparel,Denim Jacket,5,25.32,0,126.6,76.94,49.66,VIP
+ORD11609,2025-04-22,East,Apparel,Denim Jacket,3,105.17,10,283.96,185.06,98.9,Returning
+ORD11692,2025-04-22,East,Electronics,Laptop Stand,1,601.68,0,601.68,366.15,235.53,Returning
+ORD10676,2025-04-22,East,Sports,Yoga Mat,3,18.55,20,44.52,33.82,10.7,New
+ORD11770,2025-04-22,West,Electronics,Smartwatch,4,539.32,5,2049.42,1372.34,677.08,Returning
+ORD11232,2025-04-22,North,Home & Kitchen,Air Fryer,4,73.53,10,264.71,153.17,111.54,Returning
+ORD10630,2025-04-23,North,Books,Tech Manual,1,8.17,10,7.35,5.21,2.14,New
+ORD11073,2025-04-24,North,Books,Tech Manual,5,36.63,0,183.15,101.66,81.49,VIP
+ORD10399,2025-04-24,East,Home & Kitchen,Coffee Maker,5,199.85,0,999.25,477.71,521.54,Returning
+ORD11318,2025-04-25,North,Electronics,4K Monitor,2,751.72,0,1503.44,726.78,776.66,VIP
+ORD11053,2025-04-25,North,Home & Kitchen,Blender,5,108.65,0,543.25,251.15,292.1,Returning
+ORD10931,2025-04-25,West,Electronics,Bluetooth Speaker,1,260.17,0,260.17,123.48,136.69,New
+ORD10439,2025-04-25,East,Home & Kitchen,Blender,3,192.68,5,549.14,338.43,210.71,New
+ORD10954,2025-04-26,East,Books,Biography,2,29.34,0,58.68,29.45,29.23,Returning
+ORD11040,2025-04-26,South,Apparel,Cotton T-Shirt,2,89.59,0,179.18,95.92,83.26,Returning
+ORD11433,2025-04-26,North,Home & Kitchen,Blender,1,44.5,0,44.5,27.07,17.43,Returning
+ORD10571,2025-04-26,South,Electronics,Bluetooth Speaker,3,626.18,0,1878.54,916.78,961.76,VIP
+ORD10226,2025-04-27,East,Electronics,Laptop Stand,1,694.85,0,694.85,423.87,270.98,New
+ORD10366,2025-04-27,North,Sports,Cycling Helmet,4,94.62,0,378.48,190.56,187.92,Returning
+ORD10293,2025-04-27,North,Apparel,Wool Sweater,4,48.2,0,192.8,118.25,74.55,New
+ORD11569,2025-04-27,North,Apparel,Wool Sweater,2,89.94,5,170.89,81.01,89.88,New
+ORD11541,2025-04-27,East,Electronics,Smartwatch,1,451.7,10,406.53,237.22,169.31,Returning
+ORD10188,2025-04-27,West,Apparel,Wool Sweater,2,26.47,0,52.94,28.83,24.11,VIP
+ORD11461,2025-04-28,East,Books,Fiction Novel,4,35.49,0,141.96,83.02,58.94,New
+ORD11437,2025-04-28,West,Home & Kitchen,Coffee Maker,3,167.79,0,503.37,294.85,208.52,VIP
+ORD11109,2025-04-28,East,Books,Tech Manual,3,5.71,15,14.56,10.42,4.14,New
+ORD10554,2025-04-28,North,Electronics,Bluetooth Speaker,5,777.33,5,3692.32,1988.31,1704.01,Returning
+ORD10422,2025-04-29,North,Apparel,Wool Sweater,2,16.07,0,32.14,20.8,11.34,Returning
+ORD11975,2025-04-29,East,Sports,Cycling Helmet,2,185.41,10,333.74,226.8,106.94,Returning
+ORD11544,2025-04-30,East,Apparel,Sneakers,2,16.23,0,32.46,18.98,13.48,New
+ORD11662,2025-04-30,West,Apparel,Denim Jacket,2,37.11,5,70.51,33.98,36.53,New
+ORD11019,2025-04-30,North,Sports,Resistance Bands,4,102.09,5,387.94,237.6,150.34,Returning
+ORD10590,2025-05-01,West,Electronics,Wireless Earbuds,2,165.02,0,330.04,190.42,139.62,New
+ORD10545,2025-05-01,North,Electronics,Laptop Stand,4,534.16,0,2136.64,1126.41,1010.23,New
+ORD10517,2025-05-01,North,Books,Fiction Novel,5,27.68,0,138.4,63.79,74.61,New
+ORD11729,2025-05-02,North,Electronics,Wireless Earbuds,5,307.3,10,1382.85,880.95,501.9,New
+ORD11276,2025-05-02,North,Books,Cookbook,2,30.06,5,57.11,30.86,26.25,Returning
+ORD11236,2025-05-02,West,Home & Kitchen,Cookware Set,3,190.55,20,457.32,295.01,162.31,New
+ORD10557,2025-05-02,East,Sports,Cycling Helmet,5,131.48,0,657.4,314.14,343.26,New
+ORD10291,2025-05-03,West,Sports,Yoga Mat,4,86.32,20,276.22,192.78,83.44,Returning
+ORD11738,2025-05-03,West,Home & Kitchen,Air Fryer,2,99.87,0,199.74,106.32,93.42,Returning
+ORD10513,2025-05-03,West,Sports,Resistance Bands,2,29.91,0,59.82,27.88,31.94,Returning
+ORD11252,2025-05-03,South,Home & Kitchen,Vacuum Cleaner,3,126.39,10,341.25,231.01,110.24,New
+ORD11958,2025-05-04,West,Home & Kitchen,Vacuum Cleaner,2,118.67,0,237.34,133.07,104.27,Returning
+ORD10454,2025-05-04,North,Electronics,4K Monitor,1,610.48,0,610.48,375.27,235.21,New
+ORD11135,2025-05-04,North,Home & Kitchen,Vacuum Cleaner,1,185.67,0,185.67,119.43,66.24,Returning
+ORD10469,2025-05-04,South,Sports,Dumbbell Set,1,46.62,10,41.96,24.64,17.32,New
+ORD11937,2025-05-06,South,Books,Biography,3,9.06,0,27.18,15.51,11.67,New
+ORD10886,2025-05-06,North,Home & Kitchen,Coffee Maker,5,69.71,0,348.55,193.13,155.42,Returning
+ORD10333,2025-05-06,East,Electronics,Bluetooth Speaker,3,744.86,0,2234.58,1093.57,1141.01,VIP
+ORD10267,2025-05-08,South,Electronics,4K Monitor,4,778.61,0,3114.44,1726.3,1388.14,VIP
+ORD10176,2025-05-08,West,Books,Fiction Novel,2,9.36,0,18.72,10.06,8.66,VIP
+ORD10245,2025-05-08,West,Home & Kitchen,Blender,1,35.56,0,35.56,19.45,16.11,Returning
+ORD10881,2025-05-08,West,Apparel,Running Shoes,5,48.35,0,241.75,122.24,119.51,Returning
+ORD11192,2025-05-08,East,Electronics,Bluetooth Speaker,3,606.16,0,1818.48,936.02,882.46,Returning
+ORD10525,2025-05-08,South,Electronics,Wireless Earbuds,1,852.7,0,852.7,425.64,427.06,Returning
+ORD10567,2025-05-08,North,Home & Kitchen,Coffee Maker,2,149.36,0,298.72,185.98,112.74,New
+ORD10643,2025-05-08,East,Sports,Dumbbell Set,3,39.31,0,117.93,67.21,50.72,New
+ORD11477,2025-05-09,West,Home & Kitchen,Cookware Set,1,184.38,5,175.16,104.14,71.02,New
+ORD10453,2025-05-09,East,Books,Tech Manual,2,37.75,10,67.95,35.72,32.23,New
+ORD11158,2025-05-09,South,Apparel,Cotton T-Shirt,4,35.4,0,141.6,69.81,71.79,Returning
+ORD11994,2025-05-10,South,Apparel,Wool Sweater,1,90.23,5,85.72,44.84,40.88,New
+ORD11766,2025-05-10,West,Home & Kitchen,Air Fryer,3,63.52,15,161.98,94.51,67.47,Returning
+ORD10904,2025-05-10,North,Apparel,Wool Sweater,3,88.58,5,252.45,157.85,94.6,New
+ORD10123,2025-05-11,North,Books,Cookbook,4,18.59,0,74.36,43.3,31.06,Returning
+ORD10292,2025-05-11,East,Apparel,Cotton T-Shirt,2,49.18,0,98.36,57.59,40.77,Returning
+ORD11831,2025-05-12,North,Apparel,Denim Jacket,4,117.91,5,448.06,217.68,230.38,Returning
+ORD10556,2025-05-12,North,Sports,Football,2,35.83,0,71.66,46.03,25.63,New
+ORD11171,2025-05-12,East,Sports,Yoga Mat,2,161.09,0,322.18,152.27,169.91,Returning
+ORD11319,2025-05-12,East,Electronics,Laptop Stand,5,795.94,5,3780.72,2057.3,1723.42,New
+ORD10823,2025-05-13,East,Apparel,Wool Sweater,1,15.76,0,15.76,9.94,5.82,New
+ORD10566,2025-05-13,East,Books,Self-Help Book,2,40.1,10,72.18,44.67,27.51,New
+ORD10927,2025-05-13,West,Books,Fiction Novel,2,44.3,0,88.6,52.61,35.99,New
+ORD10772,2025-05-13,East,Sports,Resistance Bands,3,149.6,0,448.8,289.07,159.73,New
+ORD11256,2025-05-13,East,Home & Kitchen,Cookware Set,4,89.55,0,358.2,203.61,154.59,VIP
+ORD10409,2025-05-13,West,Apparel,Sneakers,3,44.99,0,134.97,61.11,73.86,New
+ORD10549,2025-05-14,East,Apparel,Running Shoes,3,16.87,0,50.61,28.3,22.31,Returning
+ORD10108,2025-05-14,East,Sports,Football,1,130.47,0,130.47,79.06,51.41,VIP
+ORD11913,2025-05-14,North,Books,Self-Help Book,3,8.24,0,24.72,14.13,10.59,VIP
+ORD11216,2025-05-15,East,Home & Kitchen,Cookware Set,3,72.19,5,205.74,106.18,99.56,Returning
+ORD11866,2025-05-15,East,Apparel,Sneakers,2,60.83,0,121.66,66.31,55.35,Returning
+ORD11888,2025-05-15,North,Sports,Football,1,166.9,0,166.9,95.41,71.49,New
+ORD11601,2025-05-15,West,Home & Kitchen,Air Fryer,3,37.86,5,107.9,56.11,51.79,VIP
+ORD10150,2025-05-15,North,Sports,Football,1,94.61,0,94.61,57.67,36.94,New
+ORD11419,2025-05-16,South,Apparel,Running Shoes,1,22.22,20,17.78,12.66,5.12,Returning
+ORD11933,2025-05-16,West,Electronics,Wireless Earbuds,3,285.68,15,728.48,409.81,318.67,New
+ORD10935,2025-05-16,North,Sports,Yoga Mat,4,87.59,0,350.36,168.75,181.61,VIP
+ORD10625,2025-05-17,South,Sports,Football,1,155.03,0,155.03,73.21,81.82,New
+ORD10920,2025-05-17,East,Sports,Cycling Helmet,1,17.93,0,17.93,9.67,8.26,New
+ORD11201,2025-05-17,East,Apparel,Sneakers,4,81.92,10,294.91,200.37,94.54,VIP
+ORD10928,2025-05-17,South,Books,Fiction Novel,5,16.94,0,84.7,48.8,35.9,Returning
+ORD10782,2025-05-17,North,Home & Kitchen,Vacuum Cleaner,5,156.54,0,782.7,381.95,400.75,Returning
+ORD10895,2025-05-17,East,Home & Kitchen,Air Fryer,4,234.0,0,936.0,565.28,370.72,VIP
+ORD10250,2025-05-18,South,Electronics,Bluetooth Speaker,3,435.32,0,1305.96,612.24,693.72,New
+ORD10398,2025-05-18,East,Electronics,Wireless Earbuds,4,153.99,0,615.96,285.37,330.59,Returning
+ORD10466,2025-05-18,West,Sports,Yoga Mat,5,149.75,10,673.88,478.71,195.17,Returning
+ORD10325,2025-05-18,East,Sports,Cycling Helmet,3,19.37,10,52.3,30.78,21.52,Returning
+ORD10462,2025-05-18,North,Apparel,Running Shoes,2,44.44,10,79.99,46.74,33.25,Returning
+ORD11114,2025-05-18,South,Apparel,Wool Sweater,3,86.33,10,233.09,129.56,103.53,New
+ORD10235,2025-05-19,East,Apparel,Wool Sweater,1,52.22,20,41.78,33.73,8.05,Returning
+ORD11604,2025-05-19,North,Electronics,4K Monitor,2,433.63,0,867.26,429.66,437.6,Returning
+ORD11371,2025-05-20,South,Sports,Cycling Helmet,5,89.17,15,378.97,226.82,152.15,VIP
+ORD11616,2025-05-20,South,Books,Fiction Novel,5,19.99,10,89.96,62.45,27.51,Returning
+ORD11399,2025-05-20,South,Home & Kitchen,Coffee Maker,5,139.28,0,696.4,382.11,314.29,VIP
+ORD11288,2025-05-20,West,Home & Kitchen,Cookware Set,3,58.18,0,174.54,87.48,87.06,New
+ORD10711,2025-05-20,West,Sports,Football,1,29.92,15,25.43,18.4,7.03,VIP
+ORD11565,2025-05-20,North,Apparel,Sneakers,1,29.1,0,29.1,15.64,13.46,New
+ORD10718,2025-05-21,West,Electronics,Smartwatch,2,161.94,5,307.69,190.88,116.81,VIP
+ORD11342,2025-05-21,East,Books,Fiction Novel,5,41.07,0,205.35,103.69,101.66,VIP
+ORD10512,2025-05-22,North,Sports,Cycling Helmet,1,140.5,0,140.5,78.91,61.59,VIP
+ORD11383,2025-05-23,North,Books,Cookbook,4,25.4,0,101.6,59.51,42.09,Returning
+ORD11072,2025-05-23,East,Apparel,Wool Sweater,5,85.71,0,428.55,246.41,182.14,Returning
+ORD11817,2025-05-23,North,Electronics,Laptop Stand,4,831.12,10,2992.03,2031.96,960.07,New
+ORD10197,2025-05-23,East,Home & Kitchen,Air Fryer,4,159.95,10,575.82,326.7,249.12,New
+ORD11248,2025-05-24,West,Apparel,Running Shoes,3,21.36,0,64.08,39.16,24.92,VIP
+ORD11557,2025-05-25,East,Electronics,Smartwatch,5,262.66,15,1116.3,677.47,438.83,Returning
+ORD10032,2025-05-26,West,Home & Kitchen,Air Fryer,4,164.42,5,624.8,302.63,322.17,New
+ORD10337,2025-05-26,East,Books,Biography,2,5.48,10,9.86,6.7,3.16,Returning
+ORD11316,2025-05-26,North,Sports,Football,3,158.43,10,427.76,281.6,146.16,VIP
+ORD11979,2025-05-27,South,Home & Kitchen,Blender,4,219.67,5,834.75,487.48,347.27,VIP
+ORD11458,2025-05-27,East,Electronics,Smartwatch,2,482.15,0,964.3,497.76,466.54,Returning
+ORD11863,2025-05-27,East,Books,Fiction Novel,3,9.57,0,28.71,16.69,12.02,Returning
+ORD10563,2025-05-27,North,Apparel,Running Shoes,1,89.64,0,89.64,49.52,40.12,New
+ORD11347,2025-05-28,North,Electronics,Wireless Earbuds,1,248.88,0,248.88,121.84,127.04,New
+ORD10685,2025-05-28,North,Apparel,Running Shoes,2,118.42,0,236.84,143.56,93.28,New
+ORD10348,2025-05-29,East,Sports,Resistance Bands,5,148.78,0,743.9,342.48,401.42,VIP
+ORD10578,2025-05-29,East,Books,Self-Help Book,1,23.01,15,19.56,13.56,6.0,Returning
+ORD10719,2025-05-30,North,Books,Fiction Novel,2,35.53,0,71.06,33.78,37.28,Returning
+ORD10599,2025-05-30,South,Home & Kitchen,Cookware Set,2,64.36,0,128.72,76.14,52.58,New
+ORD11455,2025-05-30,South,Books,Fiction Novel,1,14.34,0,14.34,8.76,5.58,New
+ORD11676,2025-05-30,North,Books,Self-Help Book,3,30.07,10,81.19,44.05,37.14,New
+ORD11289,2025-05-30,North,Apparel,Cotton T-Shirt,5,27.15,0,135.75,87.01,48.74,New
+ORD10406,2025-05-31,North,Electronics,4K Monitor,5,344.68,10,1551.06,1071.31,479.75,Returning
+ORD10192,2025-05-31,North,Electronics,Bluetooth Speaker,4,407.67,0,1630.68,942.59,688.09,New
+ORD10051,2025-05-31,North,Books,Self-Help Book,3,20.87,5,59.48,31.09,28.39,Returning
+ORD10130,2025-05-31,North,Home & Kitchen,Air Fryer,1,70.71,20,56.57,45.52,11.05,New
+ORD11577,2025-06-01,North,Sports,Dumbbell Set,2,20.96,0,41.92,21.89,20.03,Returning
+ORD10764,2025-06-01,North,Home & Kitchen,Cookware Set,2,198.23,10,356.81,215.3,141.51,VIP
+ORD11643,2025-06-01,East,Books,Fiction Novel,1,10.66,10,9.59,5.84,3.75,VIP
+ORD11446,2025-06-01,South,Apparel,Denim Jacket,3,96.78,10,261.31,139.61,121.7,Returning
+ORD11830,2025-06-02,North,Sports,Cycling Helmet,3,20.47,0,61.41,32.17,29.24,Returning
+ORD11413,2025-06-02,South,Home & Kitchen,Coffee Maker,2,249.79,0,499.58,309.11,190.47,Returning
+ORD11883,2025-06-02,South,Electronics,Smartwatch,4,563.84,0,2255.36,1311.22,944.14,New
+ORD11376,2025-06-03,East,Apparel,Running Shoes,2,32.01,0,64.02,33.29,30.73,Returning
+ORD10986,2025-06-03,East,Electronics,Smartwatch,1,227.53,20,182.02,106.28,75.74,Returning
+ORD10832,2025-06-03,East,Electronics,Wireless Earbuds,5,781.9,0,3909.5,1783.57,2125.93,New
+ORD11504,2025-06-03,East,Sports,Football,3,43.12,0,129.36,76.48,52.88,Returning
+ORD11637,2025-06-04,South,Home & Kitchen,Air Fryer,3,133.68,0,401.04,197.43,203.61,New
+ORD10811,2025-06-05,East,Apparel,Sneakers,1,57.66,5,54.78,32.46,22.32,Returning
+ORD11451,2025-06-05,East,Electronics,Laptop Stand,2,160.24,10,288.43,184.48,103.95,New
+ORD10090,2025-06-05,North,Electronics,4K Monitor,1,336.37,0,336.37,202.13,134.24,Returning
+ORD11878,2025-06-05,West,Books,Fiction Novel,2,35.31,5,67.09,35.06,32.03,Returning
+ORD11238,2025-06-05,West,Apparel,Denim Jacket,2,66.44,10,119.59,82.71,36.88,New
+ORD11034,2025-06-05,South,Apparel,Cotton T-Shirt,3,108.87,0,326.61,158.19,168.42,New
+ORD11825,2025-06-05,South,Electronics,Laptop Stand,4,265.67,0,1062.68,608.98,453.7,New
+ORD11917,2025-06-06,West,Sports,Resistance Bands,3,81.59,5,232.53,147.57,84.96,Returning
+ORD10107,2025-06-06,West,Books,Cookbook,4,28.32,5,107.62,59.58,48.04,New
+ORD11105,2025-06-06,South,Apparel,Cotton T-Shirt,1,46.39,0,46.39,29.76,16.63,Returning
+ORD10421,2025-06-06,West,Electronics,Wireless Earbuds,5,789.41,0,3947.05,2104.74,1842.31,Returning
+ORD10723,2025-06-06,South,Sports,Yoga Mat,2,34.76,10,62.57,33.63,28.94,New
+ORD11047,2025-06-07,South,Electronics,4K Monitor,3,784.83,0,2354.49,1391.41,963.08,Returning
+ORD10296,2025-06-07,North,Apparel,Wool Sweater,4,16.35,0,65.4,41.84,23.56,VIP
+ORD10147,2025-06-07,West,Home & Kitchen,Vacuum Cleaner,1,66.08,5,62.78,35.97,26.81,Returning
+ORD10668,2025-06-08,South,Apparel,Running Shoes,3,11.31,10,30.54,18.39,12.15,New
+ORD11849,2025-06-08,East,Electronics,Smartwatch,4,811.69,0,3246.76,1854.57,1392.19,New
+ORD10320,2025-06-08,West,Home & Kitchen,Vacuum Cleaner,5,81.55,5,387.36,211.0,176.36,New
+ORD10046,2025-06-08,East,Sports,Dumbbell Set,5,61.25,0,306.25,152.4,153.85,Returning
+ORD11435,2025-06-09,North,Home & Kitchen,Vacuum Cleaner,3,244.08,0,732.24,412.28,319.96,Returning
+ORD11914,2025-06-09,East,Books,Fiction Novel,5,26.79,10,120.56,86.22,34.34,VIP
+ORD10074,2025-06-09,West,Home & Kitchen,Cookware Set,2,104.85,5,199.21,99.95,99.26,New
+ORD10149,2025-06-10,East,Sports,Resistance Bands,2,183.69,5,349.01,173.94,175.07,Returning
+ORD11009,2025-06-10,East,Electronics,Bluetooth Speaker,1,481.16,15,408.99,253.28,155.71,Returning
+ORD10926,2025-06-10,East,Electronics,4K Monitor,2,602.0,0,1204.0,680.78,523.22,New
+ORD10493,2025-06-10,North,Sports,Yoga Mat,5,138.04,0,690.2,425.37,264.83,New
+ORD11539,2025-06-10,North,Home & Kitchen,Air Fryer,4,221.02,0,884.08,404.73,479.35,New
+ORD11519,2025-06-10,East,Home & Kitchen,Air Fryer,4,79.49,0,317.96,201.79,116.17,Returning
+ORD10572,2025-06-11,West,Books,Tech Manual,1,11.88,0,11.88,7.37,4.51,New
+ORD11515,2025-06-11,North,Books,Biography,4,20.61,0,82.44,49.54,32.9,New
+ORD10532,2025-06-11,West,Apparel,Sneakers,4,78.05,20,249.76,188.5,61.26,Returning
+ORD10374,2025-06-11,North,Books,Self-Help Book,2,34.31,0,68.62,43.94,24.68,New
+ORD10350,2025-06-11,West,Apparel,Cotton T-Shirt,3,29.98,20,71.95,47.55,24.4,Returning
+ORD10639,2025-06-12,North,Books,Self-Help Book,3,8.62,5,24.57,15.86,8.71,VIP
+ORD10222,2025-06-13,East,Apparel,Denim Jacket,1,99.75,0,99.75,49.3,50.45,Returning
+ORD11899,2025-06-13,South,Home & Kitchen,Cookware Set,1,29.45,0,29.45,14.56,14.89,New
+ORD11178,2025-06-13,East,Books,Tech Manual,3,16.53,0,49.59,28.07,21.52,Returning
+ORD10780,2025-06-13,West,Sports,Yoga Mat,1,30.93,0,30.93,18.56,12.37,Returning
+ORD10053,2025-06-14,East,Apparel,Sneakers,3,51.58,0,154.74,84.88,69.86,New
+ORD11708,2025-06-14,West,Electronics,Smartwatch,3,478.52,5,1363.78,898.07,465.71,New
+ORD10722,2025-06-14,South,Electronics,Smartwatch,5,590.93,5,2806.92,1798.76,1008.16,New
+ORD10187,2025-06-14,West,Electronics,Smartwatch,4,341.73,0,1366.92,798.67,568.25,VIP
+ORD11055,2025-06-14,West,Books,Fiction Novel,4,8.31,5,31.58,21.55,10.03,Returning
+ORD11598,2025-06-14,North,Apparel,Sneakers,1,90.71,15,77.1,54.8,22.3,Returning
+ORD10204,2025-06-15,South,Sports,Resistance Bands,4,116.66,0,466.64,219.85,246.79,New
+ORD11070,2025-06-15,North,Apparel,Running Shoes,1,84.63,0,84.63,49.83,34.8,New
+ORD10056,2025-06-15,East,Books,Tech Manual,5,44.72,0,223.6,108.05,115.55,New
+ORD10943,2025-06-16,South,Apparel,Wool Sweater,1,108.62,0,108.62,61.41,47.21,VIP
+ORD10315,2025-06-16,East,Electronics,Laptop Stand,4,247.2,5,939.36,570.41,368.95,Returning
+ORD10394,2025-06-17,South,Electronics,Smartwatch,2,826.33,0,1652.66,803.76,848.9,Returning
+ORD10683,2025-06-17,North,Sports,Football,2,166.97,0,333.94,164.85,169.09,New
+ORD11183,2025-06-17,South,Electronics,Bluetooth Speaker,2,503.66,15,856.22,527.26,328.96,VIP
+ORD11728,2025-06-18,North,Sports,Resistance Bands,2,29.9,0,59.8,31.76,28.04,New
+ORD11793,2025-06-18,West,Sports,Football,3,20.94,10,56.54,37.04,19.5,VIP
+ORD11219,2025-06-18,West,Books,Tech Manual,1,17.6,5,16.72,8.76,7.96,New
+ORD10573,2025-06-18,North,Sports,Yoga Mat,3,169.74,0,509.22,290.86,218.36,VIP
+ORD10597,2025-06-18,South,Books,Cookbook,3,15.96,0,47.88,22.69,25.19,Returning
+ORD10346,2025-06-19,South,Apparel,Cotton T-Shirt,5,101.94,5,484.22,313.44,170.78,New
+ORD11938,2025-06-19,North,Electronics,4K Monitor,1,795.01,0,795.01,508.07,286.94,New
+ORD11361,2025-06-19,West,Electronics,Laptop Stand,2,372.71,0,745.42,436.14,309.28,Returning
+ORD10231,2025-06-19,South,Apparel,Sneakers,4,73.8,0,295.2,180.37,114.83,Returning
+ORD10229,2025-06-19,East,Apparel,Sneakers,5,23.72,5,112.67,56.64,56.03,New
+ORD11995,2025-06-20,South,Apparel,Running Shoes,1,16.4,0,16.4,7.87,8.53,New
+ORD10714,2025-06-20,North,Books,Tech Manual,5,23.38,0,116.9,70.49,46.41,Returning
+ORD10076,2025-06-20,North,Electronics,Wireless Earbuds,2,308.59,0,617.18,351.0,266.18,VIP
+ORD10031,2025-06-21,West,Electronics,Bluetooth Speaker,5,681.68,0,3408.4,2124.85,1283.55,Returning
+ORD10873,2025-06-22,West,Sports,Yoga Mat,4,127.42,5,484.2,296.8,187.4,Returning
+ORD11210,2025-06-22,South,Books,Tech Manual,5,20.9,0,104.5,64.69,39.81,VIP
+ORD10857,2025-06-22,South,Home & Kitchen,Air Fryer,2,53.33,15,90.66,58.77,31.89,Returning
+ORD11104,2025-06-22,North,Sports,Resistance Bands,3,157.6,10,425.52,225.03,200.49,Returning
+ORD11181,2025-06-23,North,Home & Kitchen,Blender,4,185.35,0,741.4,443.76,297.64,VIP
+ORD10506,2025-06-23,South,Apparel,Wool Sweater,5,112.82,0,564.1,292.84,271.26,Returning
+ORD11307,2025-06-23,East,Home & Kitchen,Blender,2,225.03,15,382.55,237.7,144.85,New
+ORD10908,2025-06-24,East,Electronics,Bluetooth Speaker,1,371.87,10,334.68,222.71,111.97,New
+ORD10796,2025-06-24,West,Home & Kitchen,Air Fryer,3,73.63,0,220.89,100.11,120.78,Returning
+ORD11556,2025-06-25,South,Electronics,Laptop Stand,4,470.77,20,1506.46,1007.82,498.64,Returning
+ORD10067,2025-06-25,South,Home & Kitchen,Cookware Set,1,145.91,10,131.32,90.82,40.5,Returning
+ORD11884,2025-06-25,East,Sports,Dumbbell Set,1,32.89,5,31.25,19.06,12.19,VIP
+ORD10289,2025-06-25,South,Apparel,Denim Jacket,5,44.45,0,222.25,137.15,85.1,New
+ORD11474,2025-06-26,West,Apparel,Running Shoes,1,34.84,0,34.84,21.33,13.51,New
+ORD11669,2025-06-26,East,Electronics,4K Monitor,2,156.9,0,313.8,165.0,148.8,VIP
+ORD11457,2025-06-26,North,Books,Fiction Novel,3,28.25,0,84.75,48.67,36.08,New
+ORD11528,2025-06-26,North,Apparel,Cotton T-Shirt,5,75.63,0,378.15,208.53,169.62,New
+ORD11260,2025-06-27,North,Electronics,Laptop Stand,5,787.72,15,3347.81,2438.32,909.49,Returning
+ORD11564,2025-06-27,South,Home & Kitchen,Coffee Maker,5,209.57,10,943.06,646.65,296.41,Returning
+ORD11169,2025-06-27,East,Electronics,Wireless Earbuds,4,209.11,0,836.44,462.39,374.05,New
+ORD10382,2025-06-27,North,Books,Self-Help Book,1,38.14,10,34.33,23.16,11.17,Returning
+ORD11652,2025-06-27,South,Electronics,Bluetooth Speaker,3,246.1,20,590.64,439.62,151.02,New
+ORD10308,2025-06-27,North,Apparel,Running Shoes,1,93.56,5,88.88,53.06,35.82,New
+ORD10903,2025-06-28,North,Sports,Dumbbell Set,4,82.93,5,315.13,149.83,165.3,Returning
+ORD10751,2025-06-29,East,Apparel,Cotton T-Shirt,5,95.57,0,477.85,292.33,185.52,Returning
+ORD10211,2025-06-29,North,Apparel,Sneakers,5,102.88,0,514.4,307.34,207.06,New
+ORD11066,2025-06-29,East,Home & Kitchen,Cookware Set,5,40.24,5,191.14,129.35,61.79,Returning
+ORD11029,2025-06-29,North,Books,Tech Manual,3,44.84,0,134.52,69.83,64.69,Returning
+ORD11211,2025-06-30,South,Books,Biography,4,24.6,0,98.4,60.69,37.71,VIP
+ORD10059,2025-06-30,West,Apparel,Running Shoes,5,40.77,10,183.47,130.46,53.01,Returning
+ORD11302,2025-06-30,West,Home & Kitchen,Cookware Set,4,130.63,0,522.52,319.26,203.26,VIP
+ORD10085,2025-06-30,West,Sports,Dumbbell Set,3,37.99,15,96.87,67.73,29.14,VIP
+ORD10010,2025-06-30,North,Electronics,Laptop Stand,5,398.17,5,1891.31,943.5,947.81,Returning
+ORD10262,2025-06-30,East,Apparel,Cotton T-Shirt,4,52.87,0,211.48,129.1,82.38,New
+ORD10876,2025-06-30,North,Books,Cookbook,3,36.09,0,108.27,60.51,47.76,Returning
